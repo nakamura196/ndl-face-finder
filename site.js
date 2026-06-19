@@ -170,3 +170,99 @@ function wireControls() {
 }
 if (document.readyState !== "loading") wireControls();
 else document.addEventListener("DOMContentLoaded", wireControls);
+
+/* ===== 常駐マスコット「筆くん」(左下のコンパニオン) ===== */
+// 元サイト(web/)の伴奏ドックに倣い、全ページの左下に筆くんを表示。
+// 吹き出しはヒントをローテーション。× で閉じる(localStorage 記憶)、本体クリックで次のヒント。
+export function mascotSVG(size = 46, idp = "mc") {
+  const w = Math.round(size * (130 / 150));
+  return `<svg class="mascot mascot-bob" viewBox="0 0 130 150" width="${w}" height="${size}" role="img" aria-label="${t("mascot.name")}">
+    <defs>
+      <linearGradient id="${idp}-wood" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e9d6aa"/><stop offset="0.5" stop-color="#d8bf86"/><stop offset="1" stop-color="#c6a865"/></linearGradient>
+      <linearGradient id="${idp}-tip" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b3b42"/><stop offset="1" stop-color="#0c0c10"/></linearGradient>
+    </defs>
+    <rect x="50" y="14" width="30" height="76" rx="15" fill="url(#${idp}-wood)" stroke="#b8975a" stroke-width="1.5"/>
+    <line x1="50" y1="40" x2="80" y2="40" stroke="#b8975a" stroke-width="1.2" opacity="0.55"/>
+    <line x1="50" y1="62" x2="80" y2="62" stroke="#b8975a" stroke-width="1.2" opacity="0.55"/>
+    <path d="M65 14 q0 -9 6 -9 q7 0 7 7" fill="none" stroke="#c6a865" stroke-width="2.5"/>
+    <rect x="47" y="88" width="36" height="12" rx="3" fill="#d3bd95" stroke="#a98f57" stroke-width="1"/>
+    <path d="M50 98 q15 7 30 0 q-2 32 -15 47 q-13 -15 -15 -47z" fill="url(#${idp}-tip)"/>
+    <path d="M62 103 q4 2 8 0 q-2 22 -4 33 q-2 -11 -4 -33z" fill="#4c4c55" opacity="0.5"/>
+    <circle cx="65" cy="146" r="2.6" fill="#1f2430"/>
+    <path d="M56 53 q4 -5 8 0" fill="none" stroke="#23262e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M66 53 q4 -5 8 0" fill="none" stroke="#23262e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M60 58 q5 7 10 0 q-5 4 -10 0z" fill="#9a4d44"/>
+    <circle cx="54" cy="59" r="3" fill="#f0a9a0" opacity="0.55"/><circle cx="76" cy="59" r="3" fill="#f0a9a0" opacity="0.55"/>
+  </svg>`;
+}
+
+const TIPS = {
+  ja: [
+    "テーマや作者で顔をしぼりこめるよ。",
+    "顔をクリックすると、原本の領域に拡大表示できるよ。",
+    "「図版一覧」では元画像と切り出した顔を並べて見られるよ。",
+    "右上で 日本語/English と 明暗テーマ を切り替えられるよ。",
+    "絞り込んだ状態は URL で共有できるよ。",
+  ],
+  en: [
+    "Filter faces by theme or creator.",
+    "Click a face to zoom into the region of the original.",
+    "“Figures” shows source images and cropped faces side by side.",
+    "Switch language and light/dark theme at the top right.",
+    "Your filter state can be shared via the URL.",
+  ],
+};
+const CKEY = "ndl-face-finder:companion";
+
+function mountCompanion() {
+  if (document.querySelector(".companion-dock, .companion-reopen")) return;
+  let i = 0, timer = null;
+  const tips = () => TIPS[lang] || TIPS.ja;
+
+  const reopen = document.createElement("button");
+  reopen.className = "companion-reopen"; reopen.hidden = true;
+  reopen.setAttribute("aria-label", t("mascot.name"));
+  reopen.innerHTML = mascotSVG(40, "mcr");
+
+  const dock = document.createElement("div");
+  dock.className = "companion-dock";
+  const btn = document.createElement("button");
+  btn.className = "companion-mascot-btn"; btn.setAttribute("aria-label", t("mascot.name"));
+  btn.innerHTML = mascotSVG(48, "mcd");
+  const bubble = document.createElement("div");
+  bubble.className = "companion-bubble";
+  const txt = document.createElement("span");
+  const x = document.createElement("button");
+  x.className = "companion-x"; x.textContent = "×"; x.setAttribute("aria-label", "close");
+  bubble.append(txt, x);
+  dock.append(btn, bubble);
+
+  const show = (n) => {
+    i = (n + tips().length) % tips().length;
+    txt.textContent = tips()[i];
+    bubble.style.animation = "none"; void bubble.offsetWidth; bubble.style.animation = "";
+  };
+  const start = () => { stop(); timer = setInterval(() => show(i + 1), 8000); };
+  const stop = () => { if (timer) clearInterval(timer); timer = null; };
+
+  const open = () => {
+    reopen.hidden = true; document.body.append(dock);
+    show(i); start();
+    try { localStorage.setItem(CKEY, "1"); } catch {}
+  };
+  const close = () => {
+    stop(); dock.remove(); reopen.hidden = false; document.body.append(reopen);
+    try { localStorage.setItem(CKEY, "0"); } catch {}
+  };
+
+  btn.addEventListener("click", () => show(i + 1));
+  x.addEventListener("click", close);
+  reopen.addEventListener("click", open);
+  onLang(() => { show(i); reopen.innerHTML = mascotSVG(40, "mcr"); btn.innerHTML = mascotSVG(48, "mcd"); });
+
+  let on = true;
+  try { on = localStorage.getItem(CKEY) !== "0"; } catch {}
+  if (on) open(); else { reopen.hidden = false; document.body.append(reopen); }
+}
+if (document.readyState !== "loading") mountCompanion();
+else document.addEventListener("DOMContentLoaded", mountCompanion);

@@ -257,6 +257,42 @@ button { font: inherit; cursor: pointer; border-radius: var(--ds-radius); transi
   .mascot-bob { animation: none; transform: none; }
 }
 
+/* 伴奏ドック(左下に常駐する筆くん) */
+.companion-dock {
+  position: fixed; left: 1.1rem; bottom: 1.1rem; z-index: 45;
+  display: flex; align-items: flex-end; gap: .5rem; max-width: min(360px, 82vw);
+}
+.companion-mascot-btn {
+  padding: 0; border: 0; background: transparent; cursor: pointer; line-height: 0; flex: none; border-radius: 50%;
+}
+.companion-mascot-btn:hover { background: transparent; border: 0; }
+.companion-dock .mascot { filter: drop-shadow(0 4px 10px rgba(11, 43, 95, .22)); }
+.companion-bubble {
+  position: relative; background: var(--ds-bg); border: 1px solid var(--ds-border);
+  border-radius: 14px; padding: .6rem 1.7rem .6rem .85rem; font-size: .82rem; line-height: 1.5;
+  color: var(--ds-fg); box-shadow: 0 8px 28px rgba(11, 43, 95, .18); animation: comp-in .25s ease;
+}
+.companion-bubble::after {
+  content: ""; position: absolute; bottom: 12px; left: -7px;
+  border-top: 7px solid transparent; border-bottom: 7px solid transparent; border-right: 7px solid var(--ds-bg);
+}
+.companion-x {
+  position: absolute; top: .25rem; right: .3rem; width: 1.2rem; height: 1.2rem; padding: 0;
+  border: 0; background: transparent; color: var(--ds-fg-muted); font-size: 1rem; line-height: 1;
+  cursor: pointer; border-radius: 4px;
+}
+.companion-x:hover { color: var(--ds-fg); background: var(--ds-surface-2); border: 0; }
+.companion-reopen {
+  position: fixed; left: 1.1rem; bottom: 1.1rem; z-index: 45;
+  padding: 0; border: 0; background: transparent; cursor: pointer; line-height: 0; border-radius: 50%;
+}
+@keyframes comp-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@media (max-width: 1000px) {
+  .companion-dock { left: .6rem; right: .6rem; bottom: .6rem; max-width: none; }
+  .companion-bubble { flex: 1; }
+}
+@media (prefers-reduced-motion: reduce) { .companion-bubble { animation: none; } }
+
 /* ===== landing ===== */
 .landing { min-height: calc(100vh - 3.5rem); }
 .hero {
