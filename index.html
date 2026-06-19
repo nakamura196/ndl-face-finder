@@ -153,13 +153,13 @@
       const howto = document.getElementById("howto");
       if (TUTORIAL_VIDEO_ID) {
         howto.innerHTML =
-          `<a class="howto-link" href="https://youtu.be/${TUTORIAL_VIDEO_ID}" target="_blank" rel="noopener">
-             <span class="howto-thumb">
-               <img src="https://img.youtube.com/vi/${TUTORIAL_VIDEO_ID}/hqdefault.jpg" alt="" loading="lazy" />
-               <span class="howto-play">▶</span>
-             </span>
-             <span class="howto-cap">${t("hero.howtoCap")}</span>
-           </a>`;
+          `<div class="howto-embed">
+             <iframe src="https://www.youtube-nocookie.com/embed/${TUTORIAL_VIDEO_ID}"
+               title="${t("hero.howtoCap")}" loading="lazy"
+               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+               referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           </div>
+           <a class="howto-cap" href="https://youtu.be/${TUTORIAL_VIDEO_ID}" target="_blank" rel="noopener">${t("hero.howtoCap")} ↗</a>`;
       } else {
         howto.innerHTML = `<p class="howto-soon">${t("hero.howtoSoon")}</p>`;
       }

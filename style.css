@@ -430,3 +430,10 @@ button { font: inherit; cursor: pointer; border-radius: var(--ds-radius); transi
   .facets, .curlist { position: static; height: auto; border: none; border-bottom: 1px solid var(--ds-border); }
   .fig-row { grid-template-columns: 1fr; }
 }
+
+/* 使い方動画の埋め込み(レスポンシブ 16:9) */
+.hero-howto { margin-top: 2rem; display: flex; flex-direction: column; align-items: center; gap: 8px; }
+.howto-embed { position: relative; width: 100%; max-width: 640px; aspect-ratio: 16 / 9;
+  border-radius: var(--ds-radius); overflow: hidden; border: 1px solid var(--ds-border);
+  box-shadow: 0 6px 24px rgba(11,43,95,.12); background: #000; }
+.howto-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
