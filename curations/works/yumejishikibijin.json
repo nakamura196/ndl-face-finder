@@ -1,0 +1,682 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:yumejishikibijin",
+ "@type": "cr:Curation",
+ "label": "夢二式美人(顔 17点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-1",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / お伽パラダイス",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169813/canvas/105#xywh=1077,835,218,311",
+     "@type": "sc:Canvas",
+     "label": "お伽パラダイス",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1912"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.622"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1169813/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "お伽パラダイス"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-2",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 蕾",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169955/canvas/4#xywh=1019,844,200,371",
+     "@type": "sc:Canvas",
+     "label": "蕾",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.738"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1169955/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "蕾"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-3",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [10]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586557/canvas/2#xywh=3667,3188,1137,1480",
+     "@type": "sc:Canvas",
+     "label": "女十題. [10]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.650"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586557/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [10]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-4",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [9]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586558/canvas/2#xywh=3780,2863,1282,1697",
+     "@type": "sc:Canvas",
+     "label": "女十題. [9]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586558/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [9]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-5",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [8]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586559/canvas/2#xywh=3547,3270,1076,1452",
+     "@type": "sc:Canvas",
+     "label": "女十題. [8]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.799"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586559/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [8]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-6",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [7]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586560/canvas/2#xywh=3744,3455,1003,1301",
+     "@type": "sc:Canvas",
+     "label": "女十題. [7]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586560/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [7]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-7",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [6]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586561/canvas/2#xywh=3660,2856,1176,1447",
+     "@type": "sc:Canvas",
+     "label": "女十題. [6]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.729"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586561/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [6]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-8",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [5]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586562/canvas/2#xywh=3750,3568,1213,1237",
+     "@type": "sc:Canvas",
+     "label": "女十題. [5]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.802"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586562/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [5]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-9",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [4]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586563/canvas/2#xywh=3886,3203,1097,2150",
+     "@type": "sc:Canvas",
+     "label": "女十題. [4]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.840"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586563/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [4]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-10",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [3]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586564/canvas/2#xywh=3207,2922,1231,1720",
+     "@type": "sc:Canvas",
+     "label": "女十題. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.798"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586564/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [3]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-11",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 女十題. [2]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2586565/canvas/2#xywh=4103,2830,800,1245",
+     "@type": "sc:Canvas",
+     "label": "女十題. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1937"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.808"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2586565/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "女十題. [2]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumejishikibijin#sel-12",
+   "@type": "sc:Range",
+   "label": "夢二式美人 / 長崎六景. 第1-6",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/8311586/canvas/4#xywh=2658,2688,721,1239",
+     "@type": "sc:Canvas",
+     "label": "長崎六景. 第1-6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1941"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.877"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/8311586/canvas/7#xywh=3233,1557,407,683",
+     "@type": "sc:Canvas",
+     "label": "長崎六景. 第1-6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1941"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.774"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/8311586/canvas/10#xywh=2451,2174,698,1074",
+     "@type": "sc:Canvas",
+     "label": "長崎六景. 第1-6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1941"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.864"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/8311586/canvas/13#xywh=2389,3517,890,1200",
+     "@type": "sc:Canvas",
+     "label": "長崎六景. 第1-6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1941"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.880"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/8311586/canvas/19#xywh=2278,3014,867,1273",
+     "@type": "sc:Canvas",
+     "label": "長崎六景. 第1-6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1941"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.827"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/8311586/canvas/19#xywh=4245,3570,115,119",
+     "@type": "sc:Canvas",
+     "label": "長崎六景. 第1-6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夢二式美人"
+      },
+      {
+       "label": "年",
+       "value": "1941"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.453"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/8311586/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "長崎六景. 第1-6"
+   }
+  }
+ ]
+}

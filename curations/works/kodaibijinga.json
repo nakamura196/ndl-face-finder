@@ -1,0 +1,1201 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:kodaibijinga",
+ "@type": "cr:Curation",
+ "label": "西川祐信古代美人画譜(顔 38点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:kodaibijinga#sel-1",
+   "@type": "sc:Range",
+   "label": "西川祐信古代美人画譜 / 西川祐信古代美人画譜",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/3#xywh=2456,1380,329,297",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.889"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/3#xywh=4205,1316,285,353",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.827"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/3#xywh=2151,2030,156,221",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.560"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/4#xywh=1256,1352,237,289",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.886"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/4#xywh=3740,1504,241,289",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.882"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/4#xywh=2700,891,281,313",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.812"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/5#xywh=2327,1039,273,297",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.873"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/5#xywh=3780,983,225,377",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/6#xywh=2877,1340,281,349",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.882"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/6#xywh=4077,1665,297,277",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.827"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/6#xywh=2620,1966,185,281",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.515"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/7#xywh=4213,1564,253,281",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.898"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/7#xywh=2504,1757,293,297",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.885"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/7#xywh=1725,1954,273,237",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.770"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/8#xywh=3667,1067,273,285",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.904"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/8#xywh=2692,1356,305,289",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.832"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/8#xywh=2877,1524,281,305",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.654"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/9#xywh=2002,1376,229,297",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.896"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/9#xywh=3535,1292,249,257",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.854"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/10#xywh=3732,1288,237,329",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.888"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/10#xywh=1737,1075,253,321",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.880"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/10#xywh=2492,1195,197,337",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.856"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/10#xywh=4406,1809,181,245",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.836"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/11#xywh=2664,1071,245,317",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.901"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/11#xywh=3816,1344,221,249",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.783"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/12#xywh=2030,895,237,337",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.875"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/12#xywh=4482,874,261,373",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/12#xywh=3527,654,325,421",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.787"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/12#xywh=3571,1536,156,273",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.677"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/13#xywh=2524,919,213,325",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.865"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/13#xywh=4819,1500,225,237",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.841"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/13#xywh=3908,999,221,317",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.793"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/13#xywh=3475,1159,177,321",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.770"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/13#xywh=4334,1597,490,485",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.507"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/14#xywh=4033,1119,273,313",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.898"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/14#xywh=1465,686,269,281",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.877"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/14#xywh=2151,1364,233,281",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.854"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339426/canvas/14#xywh=4490,1336,570,542",
+     "@type": "sc:Canvas",
+     "label": "西川祐信古代美人画譜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "西川祐信古代美人画譜"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.415"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/13339426/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "西川祐信古代美人画譜"
+   }
+  }
+ ]
+}

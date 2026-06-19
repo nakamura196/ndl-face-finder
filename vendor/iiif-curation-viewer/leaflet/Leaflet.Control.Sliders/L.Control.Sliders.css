@@ -1,0 +1,70 @@
+/* IIIF Curation Viewer - Sliders control Leaflet plugin
+ * http://codh.rois.ac.jp/software/iiif-curation-viewer/
+ *
+ * Copyright 2019 Center for Open Data in the Humanities, Research Organization of Information and Systems
+ * Released under the MIT license
+ *
+ * Core contributor: Jun HOMMA (@2SC1815J)
+ *
+ * Based on
+ * "L.control.layers" (2-clause BSD License, Copyright (c) 2010-2016, Vladimir Agafonkin, Copyright (c) 2010-2011, CloudMade)
+ *  https://github.com/Leaflet/Leaflet/blob/v1.3.1/src/control/Control.Layers.js
+ *  https://github.com/Leaflet/Leaflet/blob/v0.7.7/src/control/Control.Layers.js
+ * "Leaflet.Control.Opacity" (MIT License, Copyright (c) 2018 Yasunori Kirimoto)
+ *  https://github.com/dayjournal/Leaflet.Control.Opacity
+ */
+.leaflet-control-sliders label {
+    margin-bottom: 10px;
+}
+
+.leaflet-control-layers-range {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 110px;
+    padding: 0;
+}
+.leaflet-control-layers-range::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 10px;
+    background: #F1F0EE;
+    border: none;
+    border-radius: 5px;
+}
+.leaflet-control-layers-range::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    background: #F1F0EE;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1px solid #999999;
+    margin-top: -2px;
+}
+
+.leaflet-control-layers-range::-moz-range-track {
+    width: 100%;
+    height: 10px;
+    background: #F1F0EE;
+    border: none;
+    border-radius: 5px;
+}
+
+.leaflet-control-layers-range::-ms-track {
+    width: 100%;
+    height: 10px;
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
+    border-width: 5px 0;
+}
+.leaflet-control-layers-range::-ms-fill-lower,
+.leaflet-control-layers-range::-ms-fill-upper {
+    background: #F1F0EE;
+    border-radius: 5px;
+}
+.leaflet-control-layers-range::-ms-thumb {
+    background: #F1F0EE;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1px solid #999999;
+}

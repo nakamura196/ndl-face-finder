@@ -1,0 +1,52 @@
+{
+ "works": [
+  {
+   "slug": "mizunobijinga",
+   "title": "水野年方の美人画",
+   "count": 111,
+   "figures": 46,
+   "manifests": 2,
+   "file": "curations/works/mizunobijinga.json"
+  },
+  {
+   "slug": "edomeisho100bijo",
+   "title": "江戸名所百人美女",
+   "count": 86,
+   "figures": 80,
+   "manifests": 80,
+   "file": "curations/works/edomeisho100bijo.json"
+  },
+  {
+   "slug": "fujinfuzoku",
+   "title": "婦人風俗尽",
+   "count": 72,
+   "figures": 36,
+   "manifests": 2,
+   "file": "curations/works/fujinfuzoku.json"
+  },
+  {
+   "slug": "kodaibijinga",
+   "title": "西川祐信古代美人画譜",
+   "count": 38,
+   "figures": 12,
+   "manifests": 1,
+   "file": "curations/works/kodaibijinga.json"
+  },
+  {
+   "slug": "yumejishikibijin",
+   "title": "夢二式美人",
+   "count": 17,
+   "figures": 16,
+   "manifests": 12,
+   "file": "curations/works/yumejishikibijin.json"
+  },
+  {
+   "slug": "yumeji",
+   "title": "竹久夢二の表紙と挿絵",
+   "count": 12,
+   "figures": 8,
+   "manifests": 6,
+   "file": "curations/works/yumeji.json"
+  }
+ ]
+}

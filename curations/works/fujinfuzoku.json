@@ -1,0 +1,2267 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:fujinfuzoku",
+ "@type": "cr:Curation",
+ "label": "婦人風俗尽(顔 72点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:fujinfuzoku#sel-1",
+   "@type": "sc:Range",
+   "label": "婦人風俗尽 / 婦人風俗尽",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/6#xywh=1791,2818,244,260",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.835"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/6#xywh=1899,1763,191,255",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.833"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/6#xywh=1083,1990,213,291",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/7#xywh=2760,1885,271,399",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/8#xywh=2650,2671,266,363",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.861"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/8#xywh=1204,3189,174,274",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.670"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/9#xywh=1913,2281,244,371",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.827"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/9#xywh=2636,2494,288,407",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.799"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/10#xywh=1423,2096,263,385",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/10#xywh=0,3051,194,305",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.524"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/11#xywh=3566,3286,238,271",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.839"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/11#xywh=2904,2143,252,324",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.812"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/11#xywh=2475,2583,205,288",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.777"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/11#xywh=1755,3873,133,166",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.726"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/11#xywh=3840,3159,161,230",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.510"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/11#xywh=2949,3136,648,637",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.204"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/12#xywh=1415,1777,191,288",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.858"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/12#xywh=1171,2004,208,282",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/13#xywh=1575,2375,280,316",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.841"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/13#xywh=2113,1597,230,299",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.822"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/13#xywh=3281,1323,224,310",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/14#xywh=1473,2735,233,274",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.860"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/14#xywh=2932,2644,307,385",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.808"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/15#xywh=3131,2425,235,291",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.870"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/15#xywh=2564,2168,210,241",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.834"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/16#xywh=2683,2187,269,318",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.883"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/16#xywh=2348,1750,230,327",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.822"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/17#xywh=2500,2389,246,305",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.338"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/18#xywh=2317,2234,238,329",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.855"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/18#xywh=1257,2793,233,305",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.846"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/18#xywh=1542,3103,219,296",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.246"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/19#xywh=1412,3322,125,224",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.679"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/20#xywh=2323,3067,288,368",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.859"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/20#xywh=2572,2204,465,473",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.240"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/21#xywh=3248,2685,241,329",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.875"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/22#xywh=2295,1882,299,363",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/23#xywh=3029,2289,241,365",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.833"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/24#xywh=1260,2721,285,357",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.813"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/24#xywh=1908,3845,255,341",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.793"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/24#xywh=2207,2959,235,235",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.462"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/25#xywh=2985,2201,540,518",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.461"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/26#xywh=1357,2231,188,335",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.765"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/27#xywh=1985,2932,277,349",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.868"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/28#xywh=2957,2140,296,338",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.853"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/28#xywh=1797,1329,244,296",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.845"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/28#xywh=1174,1514,255,291",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.840"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/29#xywh=2234,2558,291,396",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.800"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/30#xywh=844,1525,244,354",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/30#xywh=2168,2231,246,307",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/32#xywh=1706,4654,523,512",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.321"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/32#xywh=2910,1780,144,230",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.256"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/33#xywh=2716,3452,172,213",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.831"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/33#xywh=991,1885,174,296",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/33#xywh=1069,1467,152,210",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/33#xywh=2065,2813,208,221",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.688"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/34#xywh=2874,1957,263,293",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.853"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/34#xywh=1791,3059,274,390",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.845"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/35#xywh=2517,3078,255,376",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.781"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/35#xywh=1160,2018,246,249",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.583"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/36#xywh=1202,1935,296,379",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.840"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/37#xywh=1653,2987,208,346",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.784"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/37#xywh=2733,3325,213,357",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.299"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/38#xywh=1858,2417,269,327",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/38#xywh=1960,2314,271,260",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.348"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/39#xywh=2378,3588,404,399",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.573"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/40#xywh=2738,2270,191,263",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.881"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/40#xywh=3217,2635,210,277",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.835"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/40#xywh=1838,2688,202,274",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.811"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/40#xywh=983,2835,197,296",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.808"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/41#xywh=1780,2079,252,338",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.850"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12150788/canvas/41#xywh=2298,2350,260,346",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.791"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12150788/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "婦人風俗尽"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:fujinfuzoku#sel-2",
+   "@type": "sc:Range",
+   "label": "婦人風俗尽 / 婦人風俗尽　おどり振",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310134/canvas/1#xywh=2102,2307,712,714",
+     "@type": "sc:Canvas",
+     "label": "婦人風俗尽　おどり振",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "婦人風俗尽"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.203"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310134/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "婦人風俗尽　おどり振"
+   }
+  }
+ ]
+}

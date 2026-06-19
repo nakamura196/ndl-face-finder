@@ -1,0 +1,17 @@
+{
+  "name": "NDL 顔ファインダー",
+  "short_name": "顔ファインダー",
+  "description": "国立国会図書館デジタルコレクションから抽出した「顔」を IIIF で検索・閲覧・領域表示するファインダー。",
+  "lang": "ja",
+  "start_url": "../index.html",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b8bee",
+  "icons": [
+    { "src": "favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" }
+  ]
+}

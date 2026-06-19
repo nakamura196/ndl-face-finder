@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NDLイメージバンク 顔ファインダー</title>
+  <meta name="description" content="国立国会図書館イメージバンク(近現代美人画・PDM)から抽出した顔を、IIIF でファセット検索・閲覧し、IIIF Curation Viewer で開けるブラウザ完結のファインダー。" />
+
+  <!-- favicons / icons -->
+  <link rel="icon" href="assets/favicon.ico" sizes="32x32" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png" />
+  <link rel="mask-icon" href="assets/favicon-mono.svg" color="#0b8bee" />
+  <link rel="manifest" href="assets/site.webmanifest" />
+  <meta name="theme-color" content="#0b8bee" />
+
+  <!-- SEO / Open Graph / Twitter -->
+  <link rel="canonical" href="https://nakamura196.github.io/ndl-face-finder/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="NDLイメージバンク 顔ファインダー" />
+  <meta property="og:locale" content="ja_JP" />
+  <meta property="og:title" content="NDLイメージバンク 顔ファインダー" />
+  <meta property="og:description" content="国立国会図書館イメージバンク(近現代美人画・PDM)から抽出した顔を、IIIF でファセット検索・閲覧し、IIIF Curation Viewer で開けるブラウザ完結のファインダー。" />
+  <meta property="og:url" content="https://nakamura196.github.io/ndl-face-finder/" />
+  <meta property="og:image" content="https://nakamura196.github.io/ndl-face-finder/assets/og-image.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="NDL 顔ファインダー — NDLデジタルコレクションの顔を IIIF で検索・閲覧" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="NDLイメージバンク 顔ファインダー" />
+  <meta name="twitter:description" content="国立国会図書館イメージバンク(近現代美人画・PDM)から抽出した顔を、IIIF でファセット検索・閲覧し、IIIF Curation Viewer で開けるブラウザ完結のファインダー。" />
+  <meta name="twitter:image" content="https://nakamura196.github.io/ndl-face-finder/assets/og-image.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&family=Noto+Serif+JP:wght@600;700&display=swap" />
+  <link rel="stylesheet" href="style.css" />
+  <script type="module" src="site.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">
+      <h1 data-i18n="brand.title">NDLイメージバンク 顔ファインダー</h1>
+      <p class="tagline" data-i18n="brand.tagline">—</p>
+    </a>
+    <nav class="nav">
+      <a href="index.html" class="active" data-i18n="nav.home">トップ</a>
+      <a href="search.html" data-i18n="nav.search">検索</a>
+      <a href="gallery.html" data-i18n="nav.gallery">図版一覧</a>
+      <a href="about.html" data-i18n="nav.about">このサイトについて</a>
+    </nav>
+    <div class="appbar-right">
+      <button class="icon-btn" data-theme-toggle aria-label="theme">🌓</button>
+      <button class="icon-btn" data-lang-toggle aria-label="language">EN</button>
+    </div>
+  </header>
+
+  <main class="landing">
+    <section class="hero">
+      <div class="hero-inner">
+        <h1 class="hero-title" data-i18n="brand.title">NDLイメージバンク 顔ファインダー</h1>
+        <p class="hero-tagline" data-i18n="hero.tagline">—</p>
+        <div class="hero-badges">
+          <span class="hero-badge" data-i18n="hero.badge1">IIIF 領域で動的取得</span>
+          <span class="hero-badge" data-i18n="hero.badge2">Curation Viewer 連携</span>
+          <span class="hero-badge" data-i18n="hero.badge3">Public Domain</span>
+        </div>
+        <div class="hero-cta-row">
+          <a class="hero-cta" href="search.html" data-i18n="hero.ctaSearch">顔を検索する →</a>
+          <a class="hero-cta ghost-cta" href="gallery.html" data-i18n="hero.ctaGallery">図版一覧を見る</a>
+        </div>
+        <div class="hero-howto" id="howto"><!-- youtube injected --></div>
+      </div>
+    </section>
+
+    <div class="landing-body">
+      <section class="section">
+        <h2 class="section-h" data-i18n="feat.title">使い方</h2>
+        <div class="feat-grid">
+          <div class="feat-card">
+            <div class="feat-emoji">🔍</div>
+            <h3 data-i18n="feat.1.t">1. 絞り込む</h3>
+            <p data-i18n="feat.1.b">—</p>
+          </div>
+          <div class="feat-card">
+            <div class="feat-emoji">🖼️</div>
+            <h3 data-i18n="feat.2.t">2. 顔をクリック</h3>
+            <p data-i18n="feat.2.b">—</p>
+          </div>
+          <div class="feat-card">
+            <div class="feat-emoji">📑</div>
+            <h3 data-i18n="feat.3.t">3. 一覧で閲覧</h3>
+            <p data-i18n="feat.3.b">—</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-h" data-i18n="ds.title">現在のデータセット</h2>
+        <div class="ds-cards">
+          <div class="ds-card"><b id="ds-faces">—</b><span data-i18n="ds.faces">顔(GT)</span></div>
+          <div class="ds-card"><b id="ds-figs">—</b><span data-i18n="ds.figs">図版</span></div>
+          <div class="ds-card"><b id="ds-items">—</b><span data-i18n="ds.items">アイテム</span></div>
+          <div class="ds-card"><b id="ds-themes">—</b><span data-i18n="ds.themes">テーマ</span></div>
+        </div>
+        <p class="ds-note"><span data-i18n="ds.note">—</span> <a href="about.html" data-i18n="ds.more">データの詳細・出典 →</a></p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <span data-i18n="footer.src">出典: 国立国会図書館デジタルコレクション(IIIF / Public Domain Mark)。</span>
+    <a href="about.html">About →</a>
+    <a href="privacy.html" data-i18n="nav.privacy">プライバシー</a>
+  </footer>
+
+  <script type="module">
+    import { t, onLang } from "./site.js";
+    const TUTORIAL_VIDEO_ID = ""; // ← 動画公開後にIDを入れる(例: "HYk8_Ya3Cc4")
+    function renderHowto() {
+      const howto = document.getElementById("howto");
+      if (TUTORIAL_VIDEO_ID) {
+        howto.innerHTML =
+          `<a class="howto-link" href="https://youtu.be/${TUTORIAL_VIDEO_ID}" target="_blank" rel="noopener">
+             <span class="howto-thumb">
+               <img src="https://img.youtube.com/vi/${TUTORIAL_VIDEO_ID}/hqdefault.jpg" alt="" loading="lazy" />
+               <span class="howto-play">▶</span>
+             </span>
+             <span class="howto-cap">${t("hero.howtoCap")}</span>
+           </a>`;
+      } else {
+        howto.innerHTML = `<p class="howto-soon">${t("hero.howtoSoon")}</p>`;
+      }
+    }
+    onLang(renderHowto);
+    renderHowto();
+    fetch("data/meta.json").then((r) => r.json()).then((m) => {
+      document.getElementById("ds-faces").textContent = m.total;
+      document.getElementById("ds-figs").textContent = m.figures;
+      document.getElementById("ds-items").textContent = m.items;
+      document.getElementById("ds-themes").textContent = m.themes;
+    }).catch(() => {});
+  </script>
+</body>
+</html>

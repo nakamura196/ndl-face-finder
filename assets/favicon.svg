@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NDL 顔ファインダー">
+  <rect width="64" height="64" rx="14" fill="#0b8bee"/>
+  <!-- face -->
+  <circle cx="32" cy="33" r="13" fill="#ffffff"/>
+  <!-- eyes -->
+  <circle cx="27.5" cy="31" r="2.2" fill="#0b8bee"/>
+  <circle cx="36.5" cy="31" r="2.2" fill="#0b8bee"/>
+  <!-- smile -->
+  <path d="M26.5 37.5 q5.5 5.5 11 0" fill="none" stroke="#0b8bee" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- face-detection corner brackets -->
+  <g fill="none" stroke="#ffcd00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 23 V16 H22"/>
+    <path d="M49 23 V16 H42"/>
+    <path d="M15 50 V57 H22"/>
+    <path d="M49 50 V57 H42"/>
+  </g>
+</svg>

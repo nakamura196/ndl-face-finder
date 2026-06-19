@@ -1,0 +1,455 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:yumeji",
+ "@type": "cr:Curation",
+ "label": "竹久夢二の表紙と挿絵(顔 12点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:yumeji#sel-1",
+   "@type": "sc:Range",
+   "label": "竹久夢二の表紙と挿絵 / 夢二絵手本. 2",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1168644/canvas/1#xywh=2062,898,178,257",
+     "@type": "sc:Canvas",
+     "label": "夢二絵手本. 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1923"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.676"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1168644/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "夢二絵手本. 2"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumeji#sel-2",
+   "@type": "sc:Range",
+   "label": "竹久夢二の表紙と挿絵 / 夢二絵手本. 3",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1168646/canvas/1#xywh=2237,1548,208,253",
+     "@type": "sc:Canvas",
+     "label": "夢二絵手本. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1923"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.867"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1168646/canvas/1#xywh=2193,1909,99,106",
+     "@type": "sc:Canvas",
+     "label": "夢二絵手本. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1923"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.585"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1168646/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "夢二絵手本. 3"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumeji#sel-3",
+   "@type": "sc:Range",
+   "label": "竹久夢二の表紙と挿絵 / 凧 : 竹久夢二童謡集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169285/canvas/5#xywh=1700,1074,194,293",
+     "@type": "sc:Canvas",
+     "label": "凧 : 竹久夢二童謡集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1926"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.677"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169285/canvas/5#xywh=1141,1336,152,223",
+     "@type": "sc:Canvas",
+     "label": "凧 : 竹久夢二童謡集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1926"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.630"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1169285/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "凧 : 竹久夢二童謡集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumeji#sel-4",
+   "@type": "sc:Range",
+   "label": "竹久夢二の表紙と挿絵 / お伽パラダイス",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169813/canvas/1#xywh=733,1641,125,163",
+     "@type": "sc:Canvas",
+     "label": "お伽パラダイス",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1912"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.612"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169813/canvas/1#xywh=1731,739,143,154",
+     "@type": "sc:Canvas",
+     "label": "お伽パラダイス",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1912"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.516"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169813/canvas/17#xywh=1245,963,186,268",
+     "@type": "sc:Canvas",
+     "label": "お伽パラダイス",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1912"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.863"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1169813/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "お伽パラダイス"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumeji#sel-5",
+   "@type": "sc:Range",
+   "label": "竹久夢二の表紙と挿絵 / りんごののぞみ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169986/canvas/35#xywh=1673,917,224,287",
+     "@type": "sc:Canvas",
+     "label": "りんごののぞみ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1928"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169986/canvas/66#xywh=1876,696,276,283",
+     "@type": "sc:Canvas",
+     "label": "りんごののぞみ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1928"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.295"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1169986/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "りんごののぞみ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:yumeji#sel-6",
+   "@type": "sc:Range",
+   "label": "竹久夢二の表紙と挿絵 / 春",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1170080/canvas/5#xywh=1653,1195,340,336",
+     "@type": "sc:Canvas",
+     "label": "春",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1926"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.480"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1170080/canvas/5#xywh=1341,1296,315,305",
+     "@type": "sc:Canvas",
+     "label": "春",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "竹久夢二の表紙と挿絵"
+      },
+      {
+       "label": "年",
+       "value": "1926"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.456"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1170080/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "春"
+   }
+  }
+ ]
+}

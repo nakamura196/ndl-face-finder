@@ -1,0 +1,3637 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:edomeisho100bijo",
+ "@type": "cr:Curation",
+ "label": "江戸名所百人美女(顔 86点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-1",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 千束",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311328/canvas/1#xywh=1764,1444,325,397",
+     "@type": "sc:Canvas",
+     "label": "千束",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.721"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311328/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "千束"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-2",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 新吉原満花",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311329/canvas/1#xywh=1784,1293,351,361",
+     "@type": "sc:Canvas",
+     "label": "新吉原満花",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.781"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311329/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新吉原満花"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-3",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 花川戸",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311330/canvas/1#xywh=1523,2053,384,415",
+     "@type": "sc:Canvas",
+     "label": "花川戸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311330/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "花川戸"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-4",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 鉄炮洲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311331/canvas/1#xywh=2117,2319,356,392",
+     "@type": "sc:Canvas",
+     "label": "鉄炮洲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.639"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311331/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "鉄炮洲"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-5",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 三田聖坂",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311332/canvas/1#xywh=1715,1467,346,366",
+     "@type": "sc:Canvas",
+     "label": "三田聖坂",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.732"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311332/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三田聖坂"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-6",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 洲崎",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311333/canvas/1#xywh=1843,1508,369,404",
+     "@type": "sc:Canvas",
+     "label": "洲崎",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311333/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "洲崎"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-7",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 三囲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311334/canvas/1#xywh=2048,2619,282,333",
+     "@type": "sc:Canvas",
+     "label": "三囲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.720"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311334/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三囲"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-8",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 根岸",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311335/canvas/1#xywh=1295,2335,294,456",
+     "@type": "sc:Canvas",
+     "label": "根岸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.713"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311335/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "根岸"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-9",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 芝あたご",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311336/canvas/1#xywh=1597,1477,305,453",
+     "@type": "sc:Canvas",
+     "label": "芝あたご",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.800"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311336/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "芝あたご"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-10",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 根津権現",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311337/canvas/1#xywh=2258,2217,302,399",
+     "@type": "sc:Canvas",
+     "label": "根津権現",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.562"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311337/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "根津権現"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-11",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 深川八幡",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311338/canvas/1#xywh=1743,2253,343,381",
+     "@type": "sc:Canvas",
+     "label": "深川八幡",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311338/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "深川八幡"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-12",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 染井",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311339/canvas/1#xywh=1533,2138,353,461",
+     "@type": "sc:Canvas",
+     "label": "染井",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.691"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311339/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "染井"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-13",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / しのはづ弁天",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311340/canvas/1#xywh=1687,1536,338,369",
+     "@type": "sc:Canvas",
+     "label": "しのはづ弁天",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.787"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311340/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "しのはづ弁天"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-14",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 五百羅かん",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311341/canvas/1#xywh=1805,2496,284,399",
+     "@type": "sc:Canvas",
+     "label": "五百羅かん",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311341/canvas/1#xywh=1894,1623,343,366",
+     "@type": "sc:Canvas",
+     "label": "五百羅かん",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311341/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五百羅かん"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-15",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / あすかやま",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311342/canvas/1#xywh=1800,1400,320,402",
+     "@type": "sc:Canvas",
+     "label": "あすかやま",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.830"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311342/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "あすかやま"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-16",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 上野山下",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311343/canvas/1#xywh=1626,1531,430,379",
+     "@type": "sc:Canvas",
+     "label": "上野山下",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311343/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "上野山下"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-17",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 京ばし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311344/canvas/1#xywh=2063,1748,230,379",
+     "@type": "sc:Canvas",
+     "label": "京ばし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.678"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311344/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "京ばし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-18",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 木母寺",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311345/canvas/1#xywh=1925,2519,374,348",
+     "@type": "sc:Canvas",
+     "label": "木母寺",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311345/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "木母寺"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-19",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 堀切菖蒲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311346/canvas/1#xywh=1925,1580,323,369",
+     "@type": "sc:Canvas",
+     "label": "堀切菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.773"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311346/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "堀切菖蒲"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-20",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / あさぢがはら",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311347/canvas/1#xywh=1331,1467,397,369",
+     "@type": "sc:Canvas",
+     "label": "あさぢがはら",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311347/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "あさぢがはら"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-21",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 江戸はし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311348/canvas/1#xywh=1492,1580,392,323",
+     "@type": "sc:Canvas",
+     "label": "江戸はし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.756"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311348/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸はし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-22",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 日くらしの里",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311349/canvas/1#xywh=2639,2598,364,387",
+     "@type": "sc:Canvas",
+     "label": "日くらしの里",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.634"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311349/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "日くらしの里"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-23",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 天神",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311350/canvas/1#xywh=1403,1485,302,484",
+     "@type": "sc:Canvas",
+     "label": "天神",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.793"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311350/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "天神"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-24",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 浅草田町",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311351/canvas/1#xywh=1705,1405,289,445",
+     "@type": "sc:Canvas",
+     "label": "浅草田町",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.837"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311351/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "浅草田町"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-25",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 堀の内祖師堂",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311352/canvas/1#xywh=1723,1457,323,428",
+     "@type": "sc:Canvas",
+     "label": "堀の内祖師堂",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.766"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311352/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "堀の内祖師堂"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-26",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 梅やしき",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311353/canvas/1#xywh=2278,2040,305,384",
+     "@type": "sc:Canvas",
+     "label": "梅やしき",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.791"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311353/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "梅やしき"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-27",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 人形町",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311354/canvas/1#xywh=1725,2179,343,402",
+     "@type": "sc:Canvas",
+     "label": "人形町",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.796"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311354/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "人形町"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-28",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 今戸",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311355/canvas/1#xywh=1480,2355,305,346",
+     "@type": "sc:Canvas",
+     "label": "今戸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.821"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311355/canvas/1#xywh=2281,1708,90,84",
+     "@type": "sc:Canvas",
+     "label": "今戸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.272"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311355/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "今戸"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-29",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 小梅",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311356/canvas/1#xywh=2222,2138,328,494",
+     "@type": "sc:Canvas",
+     "label": "小梅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.751"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311356/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "小梅"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-30",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 成田山旅宿",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311357/canvas/1#xywh=1820,1339,271,397",
+     "@type": "sc:Canvas",
+     "label": "成田山旅宿",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311357/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "成田山旅宿"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-31",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / よし原",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311358/canvas/1#xywh=2207,2237,269,425",
+     "@type": "sc:Canvas",
+     "label": "よし原",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.789"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311358/canvas/1#xywh=1085,2112,325,297",
+     "@type": "sc:Canvas",
+     "label": "よし原",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.395"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311358/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-32",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 目黒滝泉寺",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311359/canvas/1#xywh=1800,1469,287,461",
+     "@type": "sc:Canvas",
+     "label": "目黒滝泉寺",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.837"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311359/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "目黒滝泉寺"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-33",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 呉服ばし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311360/canvas/1#xywh=1864,2184,343,412",
+     "@type": "sc:Canvas",
+     "label": "呉服ばし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.753"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311360/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "呉服ばし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-34",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 竪川",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311361/canvas/1#xywh=1539,2092,376,381",
+     "@type": "sc:Canvas",
+     "label": "竪川",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311361/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "竪川"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-35",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 大師河原",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311362/canvas/1#xywh=2509,2826,287,443",
+     "@type": "sc:Canvas",
+     "label": "大師河原",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.748"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311362/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "大師河原"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-36",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 三味せんぼり",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311363/canvas/1#xywh=1812,1334,358,456",
+     "@type": "sc:Canvas",
+     "label": "三味せんぼり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.838"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311363/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三味せんぼり"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-37",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 墨水花台",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311364/canvas/1#xywh=1846,1336,300,412",
+     "@type": "sc:Canvas",
+     "label": "墨水花台",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.823"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311364/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "墨水花台"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-38",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 古徳稲荷",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311365/canvas/1#xywh=2017,1610,264,274",
+     "@type": "sc:Canvas",
+     "label": "古徳稲荷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.812"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311365/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "古徳稲荷"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-39",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 大川橋里俗吾妻はし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311366/canvas/1#xywh=1631,1395,292,399",
+     "@type": "sc:Canvas",
+     "label": "大川橋里俗吾妻はし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.571"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311366/canvas/1#xywh=2102,1733,236,389",
+     "@type": "sc:Canvas",
+     "label": "大川橋里俗吾妻はし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.217"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311366/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "大川橋里俗吾妻はし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-40",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 木場",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311367/canvas/1#xywh=1587,1528,279,420",
+     "@type": "sc:Canvas",
+     "label": "木場",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.693"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311367/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "木場"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-41",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 御殿山",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311368/canvas/1#xywh=1480,2685,394,381",
+     "@type": "sc:Canvas",
+     "label": "御殿山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.699"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311368/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "御殿山"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-42",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 永代橋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311369/canvas/1#xywh=1951,1700,274,448",
+     "@type": "sc:Canvas",
+     "label": "永代橋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.532"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311369/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "永代橋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-43",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 御茶の水",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311370/canvas/1#xywh=1956,1654,335,397",
+     "@type": "sc:Canvas",
+     "label": "御茶の水",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.416"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311370/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "御茶の水"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-44",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 千住",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311371/canvas/1#xywh=2063,1636,320,323",
+     "@type": "sc:Canvas",
+     "label": "千住",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.781"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311371/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "千住"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-45",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 薬げんぼり",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311372/canvas/1#xywh=1298,1848,379,369",
+     "@type": "sc:Canvas",
+     "label": "薬げんぼり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.708"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311372/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "薬げんぼり"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-46",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 八町堀",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311373/canvas/1#xywh=2097,2376,323,294",
+     "@type": "sc:Canvas",
+     "label": "八町堀",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.705"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311373/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "八町堀"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-47",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 首尾の松",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311374/canvas/1#xywh=2450,2957,374,397",
+     "@type": "sc:Canvas",
+     "label": "首尾の松",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.791"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311374/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "首尾の松"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-48",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 鎧のわたし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311375/canvas/1#xywh=945,2739,412,317",
+     "@type": "sc:Canvas",
+     "label": "鎧のわたし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.712"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311375/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "鎧のわたし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-49",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 妻恋稲荷",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311376/canvas/1#xywh=1408,2363,351,364",
+     "@type": "sc:Canvas",
+     "label": "妻恋稲荷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311376/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "妻恋稲荷"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-50",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 鏡が池",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311377/canvas/1#xywh=1702,1516,356,392",
+     "@type": "sc:Canvas",
+     "label": "鏡が池",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311377/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "鏡が池"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-51",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 霞ケ関",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311378/canvas/1#xywh=1746,1544,335,392",
+     "@type": "sc:Canvas",
+     "label": "霞ケ関",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311378/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "霞ケ関"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-52",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 葵坂",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311379/canvas/1#xywh=2122,1674,351,353",
+     "@type": "sc:Canvas",
+     "label": "葵坂",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.281"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311379/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "葵坂"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-53",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 赤羽根水天宮",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311380/canvas/1#xywh=1999,1574,266,259",
+     "@type": "sc:Canvas",
+     "label": "赤羽根水天宮",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.575"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311380/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "赤羽根水天宮"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-54",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 赤さか氷川",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311381/canvas/1#xywh=1848,2363,340,394",
+     "@type": "sc:Canvas",
+     "label": "赤さか氷川",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.831"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311381/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "赤さか氷川"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-55",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 駒形",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311382/canvas/1#xywh=1815,2094,312,420",
+     "@type": "sc:Canvas",
+     "label": "駒形",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.713"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311382/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "駒形"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-56",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 品川歩行新宿",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311383/canvas/1#xywh=2138,1505,325,384",
+     "@type": "sc:Canvas",
+     "label": "品川歩行新宿",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.734"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311383/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "品川歩行新宿"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-57",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 湯島天神",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311384/canvas/1#xywh=1490,2276,315,435",
+     "@type": "sc:Canvas",
+     "label": "湯島天神",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.669"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311384/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "湯島天神"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-58",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 新はし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311385/canvas/1#xywh=1620,1441,259,335",
+     "@type": "sc:Canvas",
+     "label": "新はし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.766"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311385/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新はし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-59",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 溜いけ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311386/canvas/1#xywh=1756,2181,371,374",
+     "@type": "sc:Canvas",
+     "label": "溜いけ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.640"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311386/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "溜いけ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-60",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 東本願寺",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311387/canvas/1#xywh=2002,1618,289,351",
+     "@type": "sc:Canvas",
+     "label": "東本願寺",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.817"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311387/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東本願寺"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-61",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 柳はし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311388/canvas/1#xywh=1715,2268,338,343",
+     "@type": "sc:Canvas",
+     "label": "柳はし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.750"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311388/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "柳はし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-62",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 内藤新宿",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311389/canvas/1#xywh=1887,2076,302,412",
+     "@type": "sc:Canvas",
+     "label": "内藤新宿",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311389/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "内藤新宿"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-63",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / よし町",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311390/canvas/1#xywh=1800,1331,320,361",
+     "@type": "sc:Canvas",
+     "label": "よし町",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.553"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311390/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし町"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-64",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / しん宿",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311391/canvas/1#xywh=2004,1600,343,364",
+     "@type": "sc:Canvas",
+     "label": "しん宿",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.801"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311391/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "しん宿"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-65",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 浅草寺",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311392/canvas/1#xywh=2097,1377,305,440",
+     "@type": "sc:Canvas",
+     "label": "浅草寺",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.783"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311392/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "浅草寺"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-66",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 芝神明前",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311393/canvas/1#xywh=1848,2250,384,451",
+     "@type": "sc:Canvas",
+     "label": "芝神明前",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.598"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311393/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "芝神明前"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-67",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 尾張町",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311394/canvas/1#xywh=1736,2286,369,420",
+     "@type": "sc:Canvas",
+     "label": "尾張町",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.725"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311394/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "尾張町"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-68",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 第六天神",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311395/canvas/1#xywh=2271,2381,392,392",
+     "@type": "sc:Canvas",
+     "label": "第六天神",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.647"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311395/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "第六天神"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-69",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 高縄",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311396/canvas/1#xywh=1234,1482,305,435",
+     "@type": "sc:Canvas",
+     "label": "高縄",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.845"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311396/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "高縄"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-70",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 小石川牛天神",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311397/canvas/1#xywh=1882,2322,323,340",
+     "@type": "sc:Canvas",
+     "label": "小石川牛天神",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.748"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311397/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "小石川牛天神"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-71",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 白銀樹目谷",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311398/canvas/1#xywh=1636,1536,310,335",
+     "@type": "sc:Canvas",
+     "label": "白銀樹目谷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.688"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311398/canvas/1#xywh=1411,1183,317,307",
+     "@type": "sc:Canvas",
+     "label": "白銀樹目谷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.473"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311398/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "白銀樹目谷"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-72",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 山王御宮",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311399/canvas/1#xywh=1748,1339,340,451",
+     "@type": "sc:Canvas",
+     "label": "山王御宮",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.859"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311399/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "山王御宮"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-73",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 神田のやしろ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311400/canvas/1#xywh=2028,1669,312,333",
+     "@type": "sc:Canvas",
+     "label": "神田のやしろ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.744"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311400/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "神田のやしろ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-74",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 四ツ谷",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311401/canvas/1#xywh=2002,2898,276,366",
+     "@type": "sc:Canvas",
+     "label": "四ツ谷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.886"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311401/canvas/1#xywh=2115,1779,333,300",
+     "@type": "sc:Canvas",
+     "label": "四ツ谷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.687"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311401/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "四ツ谷"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-75",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 両国はし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311402/canvas/1#xywh=1797,1298,348,438",
+     "@type": "sc:Canvas",
+     "label": "両国はし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311402/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "両国はし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-76",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 大音寺まへ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311403/canvas/1#xywh=1836,2230,356,417",
+     "@type": "sc:Canvas",
+     "label": "大音寺まへ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.677"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311403/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "大音寺まへ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-77",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / ふる川",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311404/canvas/1#xywh=1892,1295,328,358",
+     "@type": "sc:Canvas",
+     "label": "ふる川",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.807"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311404/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "ふる川"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-78",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / いひ田まち",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311406/canvas/1#xywh=1700,1416,302,479",
+     "@type": "sc:Canvas",
+     "label": "いひ田まち",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311406/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いひ田まち"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-79",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 王子稲荷",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311407/canvas/1#xywh=1641,1331,315,425",
+     "@type": "sc:Canvas",
+     "label": "王子稲荷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311407/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "王子稲荷"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edomeisho100bijo#sel-80",
+   "@type": "sc:Range",
+   "label": "江戸名所百人美女 / 猿若町",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311408/canvas/1#xywh=1500,1541,294,430",
+     "@type": "sc:Canvas",
+     "label": "猿若町",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸名所百人美女"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.821"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311408/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "猿若町"
+   }
+  }
+ ]
+}

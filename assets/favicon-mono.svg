@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Single-color silhouette for Safari pinned-tab mask-icon -->
+  <circle cx="32" cy="33" r="13"/>
+  <g fill="none" stroke="#000" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 23 V16 H22"/>
+    <path d="M49 23 V16 H42"/>
+    <path d="M15 50 V57 H22"/>
+    <path d="M49 50 V57 H42"/>
+  </g>
+</svg>
