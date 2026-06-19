@@ -226,6 +226,37 @@ button { font: inherit; cursor: pointer; border-radius: var(--ds-radius); transi
 .brand, a.brand { text-decoration: none; color: inherit; display: block; }
 .brand:hover { text-decoration: none; }
 
+/* ===== マスコット「筆くん」(web/ の BrushMascot を移植) ===== */
+.mascot { display: inline-block; vertical-align: middle; overflow: visible; flex: none; }
+.mascot-bob {
+  transform-box: fill-box; transform-origin: 50% 92%;
+  animation: mascot-bob 3.2s ease-in-out infinite;
+}
+@keyframes mascot-bob {
+  0%, 100% { transform: translateY(0) rotate(-2.5deg); }
+  50%      { transform: translateY(-6%) rotate(2.5deg); }
+}
+.hero-mascot { margin-bottom: .4rem; }
+.hero-mascot .mascot { filter: drop-shadow(0 6px 12px rgba(11, 43, 95, .14)); }
+.mascot-greeting {
+  display: inline-block; position: relative;
+  background: var(--ds-bg); border: 1px solid var(--ds-border); border-radius: 14px;
+  padding: .4rem .8rem; font-size: .82rem; color: var(--ds-fg); margin-bottom: .8rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,.05);
+}
+.mascot-greeting::after {
+  content: ""; position: absolute; top: -7px; left: 50%; transform: translateX(-50%);
+  border: 7px solid transparent; border-top: 0; border-bottom-color: var(--ds-border);
+}
+.mascot-name {
+  font-size: .72rem; font-weight: 700; color: var(--ds-primary);
+  padding: .12rem .55rem; border: 1px solid var(--ds-border); border-radius: 999px;
+  margin-top: .4rem; display: inline-block;
+}
+@media (prefers-reduced-motion: reduce) {
+  .mascot-bob { animation: none; transform: none; }
+}
+
 /* ===== landing ===== */
 .landing { min-height: calc(100vh - 3.5rem); }
 .hero {

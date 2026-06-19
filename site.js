@@ -45,6 +45,7 @@ const DICT = {
     "nav.home": "トップ", "nav.search": "検索", "nav.gallery": "図版一覧",
     "nav.about": "このサイトについて", "nav.privacy": "プライバシー",
     "unit.faces": "顔", "unit.figs": "図版",
+    "mascot.name": "筆くん", "mascot.greet": "顔をさがしてみよう!",
     // landing
     "hero.tagline": "国立国会図書館「イメージバンク」の近現代美人画(Public Domain Mark)から抽出した「顔」を、IIIF でファセット検索・閲覧し、IIIF Curation Viewer で原本の領域として開く。",
     "hero.badge1": "IIIF 領域で動的取得", "hero.badge2": "Curation Viewer 連携", "hero.badge3": "Public Domain",
@@ -83,6 +84,7 @@ const DICT = {
     "nav.home": "Home", "nav.search": "Search", "nav.gallery": "Figures",
     "nav.about": "About", "nav.privacy": "Privacy",
     "unit.faces": "faces", "unit.figs": "figures",
+    "mascot.name": "Fude-kun", "mascot.greet": "Let’s find some faces!",
     "hero.tagline": "Browse and facet-search “faces” extracted from modern bijin-ga in the NDL “Imagebank” (Public Domain Mark) via IIIF, and open each as a region of the original in the IIIF Curation Viewer.",
     "hero.badge1": "Dynamic IIIF regions", "hero.badge2": "Curation Viewer", "hero.badge3": "Public Domain",
     "hero.ctaSearch": "Search faces →", "hero.ctaGallery": "Browse figures",
