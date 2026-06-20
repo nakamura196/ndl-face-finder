@@ -1,0 +1,825 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:hotaru",
+ "@type": "cr:Curation",
+ "label": "蛍(顔 22点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-1",
+   "@type": "sc:Range",
+   "label": "蛍 / 風流略源氏　ほたる",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302171/canvas/1#xywh=1751,2291,269,292",
+     "@type": "sc:Canvas",
+     "label": "風流略源氏　ほたる",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.648"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302171/canvas/1#xywh=2358,2688,517,517",
+     "@type": "sc:Canvas",
+     "label": "風流略源氏　ほたる",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.369"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302171/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風流略源氏　ほたる"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-2",
+   "@type": "sc:Range",
+   "label": "蛍 / 水興伝　五處",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302226/canvas/1#xywh=1518,1418,333,458",
+     "@type": "sc:Canvas",
+     "label": "水興伝　五處",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302226/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "水興伝　五處"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-3",
+   "@type": "sc:Range",
+   "label": "蛍 / 紫式部げんじかるた　廿五　ほたる",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305065/canvas/1#xywh=937,2263,225,261",
+     "@type": "sc:Canvas",
+     "label": "紫式部げんじかるた　廿五　ほたる",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.788"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305065/canvas/1#xywh=2604,2038,187,276",
+     "@type": "sc:Canvas",
+     "label": "紫式部げんじかるた　廿五　ほたる",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.658"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305065/canvas/1#xywh=1413,3013,210,259",
+     "@type": "sc:Canvas",
+     "label": "紫式部げんじかるた　廿五　ほたる",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.540"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305065/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "紫式部げんじかるた　廿五　ほたる"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-4",
+   "@type": "sc:Range",
+   "label": "蛍 / 江戸自慢三十六興　落合ほたる",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305736/canvas/1#xywh=2606,2798,169,233",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　落合ほたる",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.745"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305736/canvas/1#xywh=1705,3064,417,404",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　落合ほたる",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.330"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305736/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸自慢三十六興　落合ほたる"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-5",
+   "@type": "sc:Range",
+   "label": "蛍 / 俤けんじ五十四帖. 廿五 蛍",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306161/canvas/1#xywh=1284,1292,134,163",
+     "@type": "sc:Canvas",
+     "label": "俤けんじ五十四帖. 廿五 蛍",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.674"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306161/canvas/1#xywh=650,1590,116,142",
+     "@type": "sc:Canvas",
+     "label": "俤けんじ五十四帖. 廿五 蛍",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.591"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306161/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "俤けんじ五十四帖. 廿五 蛍"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-6",
+   "@type": "sc:Range",
+   "label": "蛍 / 闇の夜の蛍",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307394/canvas/1#xywh=2580,967,795,1010",
+     "@type": "sc:Canvas",
+     "label": "闇の夜の蛍",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1842"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.762"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307394/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "闇の夜の蛍"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-7",
+   "@type": "sc:Range",
+   "label": "蛍 / 蛍　廿五",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309375/canvas/1#xywh=2353,1631,289,269",
+     "@type": "sc:Canvas",
+     "label": "蛍　廿五",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309375/canvas/1#xywh=1152,3044,310,325",
+     "@type": "sc:Canvas",
+     "label": "蛍　廿五",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.620"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309375/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "蛍　廿五"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-8",
+   "@type": "sc:Range",
+   "label": "蛍 / 源氏雲浮世絵合　蛍",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309978/canvas/1#xywh=1480,2708,212,297",
+     "@type": "sc:Canvas",
+     "label": "源氏雲浮世絵合　蛍",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.798"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309978/canvas/1#xywh=2580,2647,179,215",
+     "@type": "sc:Canvas",
+     "label": "源氏雲浮世絵合　蛍",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.522"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309978/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏雲浮世絵合　蛍"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-9",
+   "@type": "sc:Range",
+   "label": "蛍 / 踊形容外題尽　絵入稗史夢物語宇治蛍沢の場",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310904/canvas/1#xywh=1042,3517,261,282",
+     "@type": "sc:Canvas",
+     "label": "踊形容外題尽　絵入稗史夢物語宇治蛍沢の場",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.572"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310904/canvas/1#xywh=1597,2870,279,271",
+     "@type": "sc:Canvas",
+     "label": "踊形容外題尽　絵入稗史夢物語宇治蛍沢の場",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.572"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310904/canvas/1#xywh=2532,1910,207,241",
+     "@type": "sc:Canvas",
+     "label": "踊形容外題尽　絵入稗史夢物語宇治蛍沢の場",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.528"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310904/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "踊形容外題尽　絵入稗史夢物語宇治蛍沢の場"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-10",
+   "@type": "sc:Range",
+   "label": "蛍 / 蛍狩当風俗",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1312552/canvas/1#xywh=1748,1915,832,1390",
+     "@type": "sc:Canvas",
+     "label": "蛍狩当風俗",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1860"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1312552/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "蛍狩当風俗"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hotaru#sel-11",
+   "@type": "sc:Range",
+   "label": "蛍 / 三十六佳撰",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/9#xywh=3618,3036,246,398",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.748"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/9#xywh=4567,4378,199,315",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.720"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/9#xywh=655,3298,262,362",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "蛍"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.673"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541718/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三十六佳撰"
+   }
+  }
+ ]
+}

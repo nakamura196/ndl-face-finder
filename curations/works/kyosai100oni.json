@@ -1,0 +1,426 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:kyosai100oni",
+ "@type": "cr:Curation",
+ "label": "暁斎百鬼画談(顔 13点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:kyosai100oni#sel-1",
+   "@type": "sc:Range",
+   "label": "暁斎百鬼画談 / 暁斎百鬼画談",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/5#xywh=1987,2242,135,175",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.875"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/5#xywh=1639,2364,143,194",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.857"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/5#xywh=1549,2609,130,178",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.812"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/5#xywh=3129,1740,186,183",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/5#xywh=2263,2221,120,162",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/5#xywh=2385,2529,125,149",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.747"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/5#xywh=2555,2242,106,151",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.608"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/6#xywh=1384,2643,197,178",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.679"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/7#xywh=7559,1562,160,196",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.543"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/11#xywh=1743,1294,263,299",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.524"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/17#xywh=3207,2243,423,562",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/17#xywh=6987,1304,170,232",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.580"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12069675/canvas/17#xywh=1305,1691,598,1036",
+     "@type": "sc:Canvas",
+     "label": "暁斎百鬼画談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暁斎百鬼画談"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.564"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12069675/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "暁斎百鬼画談"
+   }
+  }
+ ]
+}

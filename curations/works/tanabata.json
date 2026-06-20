@@ -1,0 +1,949 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:tanabata",
+ "@type": "cr:Curation",
+ "label": "七夕(顔 26点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-1",
+   "@type": "sc:Range",
+   "label": "七夕 / 十二ケ月の内　七月　七夕",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304727/canvas/1#xywh=1879,2350,371,379",
+     "@type": "sc:Canvas",
+     "label": "十二ケ月の内　七月　七夕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304727/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ケ月の内　七月　七夕"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-2",
+   "@type": "sc:Range",
+   "label": "七夕 / （七夕）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305288/canvas/1#xywh=1966,1743,358,399",
+     "@type": "sc:Canvas",
+     "label": "（七夕）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.717"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305288/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（七夕）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-3",
+   "@type": "sc:Range",
+   "label": "七夕 / 五節掛物ノ内七月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305461/canvas/1#xywh=3160,599,399,541",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.696"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305461/canvas/1#xywh=1958,1355,407,468",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.657"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305461/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内七月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-4",
+   "@type": "sc:Range",
+   "label": "七夕 / 月百姿　銀河月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306380/canvas/1#xywh=1149,1997,133,182",
+     "@type": "sc:Canvas",
+     "label": "月百姿　銀河月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1886"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.681"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306380/canvas/1#xywh=2248,2422,123,218",
+     "@type": "sc:Canvas",
+     "label": "月百姿　銀河月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1886"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.663"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306380/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "月百姿　銀河月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-5",
+   "@type": "sc:Range",
+   "label": "七夕 / 江戸名所道戯尽　十三　鎧のわたし七夕祭",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308273/canvas/1#xywh=1656,3753,156,177",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　十三　鎧のわたし七夕祭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.874"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308273/canvas/1#xywh=2422,3850,105,146",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　十三　鎧のわたし七夕祭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.665"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308273/canvas/1#xywh=2972,4006,128,156",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　十三　鎧のわたし七夕祭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.633"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308273/canvas/1#xywh=1925,4024,113,154",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　十三　鎧のわたし七夕祭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.538"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308273/canvas/1#xywh=2877,4239,356,356",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　十三　鎧のわたし七夕祭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.484"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308273/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所道戯尽　十三　鎧のわたし七夕祭"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-6",
+   "@type": "sc:Range",
+   "label": "七夕 / 風流役者地顔五節句　七月之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308619/canvas/1#xywh=1861,2542,317,435",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　七月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.823"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308619/canvas/1#xywh=1370,858,289,294",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　七月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.613"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308619/canvas/1#xywh=2570,860,320,315",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　七月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.392"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308619/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風流役者地顔五節句　七月之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-7",
+   "@type": "sc:Range",
+   "label": "七夕 / 七伊呂波拾遺　七夕杉酒の段",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311147/canvas/1#xywh=1644,2749,366,466",
+     "@type": "sc:Canvas",
+     "label": "七伊呂波拾遺　七夕杉酒の段",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.696"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311147/canvas/1#xywh=2322,3374,428,476",
+     "@type": "sc:Canvas",
+     "label": "七伊呂波拾遺　七夕杉酒の段",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.641"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311147/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "七伊呂波拾遺　七夕杉酒の段"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-8",
+   "@type": "sc:Range",
+   "label": "七夕 / 五節句之内 女郎花月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369465/canvas/1#xywh=2054,2112,362,426",
+     "@type": "sc:Canvas",
+     "label": "五節句之内 女郎花月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.662"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369465/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節句之内 女郎花月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-9",
+   "@type": "sc:Range",
+   "label": "七夕 / 源氏五節句之内 七月七夕祭",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369469/canvas/1#xywh=2385,2163,426,462",
+     "@type": "sc:Canvas",
+     "label": "源氏五節句之内 七月七夕祭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.787"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369469/canvas/1#xywh=3481,3272,346,449",
+     "@type": "sc:Canvas",
+     "label": "源氏五節句之内 七月七夕祭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.747"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369469/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五節句之内 七月七夕祭"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-10",
+   "@type": "sc:Range",
+   "label": "七夕 / 浮世十二ヶ月 七月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369471/canvas/1#xywh=4638,2102,169,238",
+     "@type": "sc:Canvas",
+     "label": "浮世十二ヶ月 七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.817"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369471/canvas/1#xywh=3116,2184,286,290",
+     "@type": "sc:Canvas",
+     "label": "浮世十二ヶ月 七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.600"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369471/canvas/1#xywh=1487,1452,217,212",
+     "@type": "sc:Canvas",
+     "label": "浮世十二ヶ月 七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.494"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369471/canvas/1#xywh=2046,1781,204,208",
+     "@type": "sc:Canvas",
+     "label": "浮世十二ヶ月 七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.447"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369471/canvas/1#xywh=4568,2579,446,451",
+     "@type": "sc:Canvas",
+     "label": "浮世十二ヶ月 七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.442"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369471/canvas/1#xywh=2908,2817,221,225",
+     "@type": "sc:Canvas",
+     "label": "浮世十二ヶ月 七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.213"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369471/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "浮世十二ヶ月 七月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tanabata#sel-11",
+   "@type": "sc:Range",
+   "label": "七夕 / 美盾五節句 七夕",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369504/canvas/1#xywh=2723,1691,426,492",
+     "@type": "sc:Canvas",
+     "label": "美盾五節句 七夕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "七夕"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.852"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369504/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "美盾五節句 七夕"
+   }
+  }
+ ]
+}

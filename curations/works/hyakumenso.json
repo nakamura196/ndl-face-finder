@@ -1,0 +1,2949 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:hyakumenso",
+ "@type": "cr:Curation",
+ "label": "小林清親の滑稽画『百面相』(顔 94点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:hyakumenso#sel-1",
+   "@type": "sc:Range",
+   "label": "小林清親の滑稽画『百面相』 / 百面相",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/4#xywh=839,1176,494,839",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.842"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/4#xywh=2702,968,717,948",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.789"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/4#xywh=2609,3772,702,1011",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.781"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/4#xywh=1088,3676,760,1034",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.742"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/5#xywh=875,3701,601,943",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/5#xywh=2205,3967,951,1001",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.683"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/5#xywh=2624,1432,619,669",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.591"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/6#xywh=2543,3714,591,834",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.867"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/6#xywh=2332,1062,487,788",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.853"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/6#xywh=935,999,573,867",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.828"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/6#xywh=821,3594,603,788",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.796"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/7#xywh=2679,3835,565,902",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.869"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/7#xywh=821,3800,560,826",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.850"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/7#xywh=2639,1019,766,892",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.756"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/7#xywh=730,953,760,781",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.696"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/8#xywh=659,3883,674,951",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.846"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/8#xywh=3113,4038,603,869",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/8#xywh=2347,897,720,1009",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.776"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/8#xywh=654,1194,788,994",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.735"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/9#xywh=560,3463,806,1179",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.812"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/9#xywh=2634,3769,712,1024",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.763"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/9#xywh=920,900,679,1022",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.718"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/9#xywh=2510,1143,755,1001",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.698"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/10#xywh=2266,3896,560,798",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.836"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/10#xywh=2999,766,537,933",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/10#xywh=963,1176,773,913",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/10#xywh=781,4056,760,968",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.755"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/11#xywh=2522,3942,629,814",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.823"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/11#xywh=963,1009,581,923",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.807"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/11#xywh=918,3815,631,963",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.726"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/12#xywh=801,1148,608,875",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.849"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/12#xywh=357,3759,733,869",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.836"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/12#xywh=2540,3815,760,978",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.746"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/12#xywh=2647,968,684,961",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/13#xywh=2720,1508,712,705",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.854"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/13#xywh=2477,3739,725,956",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.802"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/13#xywh=882,3929,651,821",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.796"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/13#xywh=760,1067,829,951",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.746"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/14#xywh=2687,3691,601,897",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.860"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/14#xywh=2634,928,527,885",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.849"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/14#xywh=999,1004,644,1016",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.813"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/14#xywh=753,3681,809,1022",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.770"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/15#xywh=786,1245,651,897",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.820"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/15#xywh=2748,963,750,1082",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.801"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/15#xywh=2451,3990,735,1009",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.717"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/15#xywh=446,3800,684,938",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.636"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/16#xywh=2857,1052,667,900",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.859"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/16#xywh=847,1085,621,900",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.830"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/16#xywh=880,3797,603,809",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.785"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/16#xywh=2936,3944,750,892",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.780"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/17#xywh=791,1065,682,875",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.838"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/17#xywh=2413,3767,662,948",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/17#xywh=1126,3828,654,1001",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.784"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/17#xywh=2664,1034,707,1029",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.691"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/18#xywh=859,3939,608,933",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.858"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/18#xywh=2624,1285,596,867",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.769"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/18#xywh=408,1120,773,730",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.744"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/18#xywh=2832,3977,639,925",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.714"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/19#xywh=2844,3848,560,882",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.868"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/19#xywh=890,1047,550,915",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.849"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/19#xywh=2474,1224,603,958",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.831"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/19#xywh=1090,3990,591,842",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.803"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/20#xywh=994,4089,550,717",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.803"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/20#xywh=2649,1273,672,875",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.786"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/20#xywh=2677,3780,659,999",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.782"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/20#xywh=672,946,649,981",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.741"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/21#xywh=849,816,786,1176",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/21#xywh=2507,1034,692,885",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/21#xywh=2877,3883,608,793",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.679"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/21#xywh=758,3752,882,989",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.251"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/22#xywh=695,3676,558,821",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.857"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/22#xywh=2723,991,613,768",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.851"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/22#xywh=717,946,657,877",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/22#xywh=2451,4010,651,852",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.788"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/23#xywh=707,1212,664,938",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.851"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/23#xywh=2500,913,477,804",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.820"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/23#xywh=778,3643,591,971",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.804"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183631/canvas/23#xywh=2325,4114,629,804",
+     "@type": "sc:Canvas",
+     "label": "百面相",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "1883"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.803"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1183631/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "百面相"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hyakumenso#sel-2",
+   "@type": "sc:Range",
+   "label": "小林清親の滑稽画『百面相』 / 清親畫帖. [3]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/44#xywh=4855,2460,605,837",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/44#xywh=3141,5359,640,862",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.810"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/44#xywh=3105,2465,686,892",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.787"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/44#xywh=4603,5319,585,791",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.768"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/48#xywh=2899,5097,711,993",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.886"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/48#xywh=2596,2581,570,756",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.879"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/48#xywh=4648,2354,691,968",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.871"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/48#xywh=4315,5077,716,837",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.829"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/48#xywh=3252,2561,464,671",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/52#xywh=4875,2415,534,872",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.828"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/52#xywh=2793,2521,696,791",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/52#xywh=4285,5248,696,938",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.410"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/58#xywh=2803,5349,625,963",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.859"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/58#xywh=4517,2601,701,993",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.837"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/58#xywh=4789,5389,640,902",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2605149/canvas/58#xywh=2364,2536,736,877",
+     "@type": "sc:Canvas",
+     "label": "清親畫帖. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の滑稽画『百面相』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2605149/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "清親畫帖. [3]"
+   }
+  }
+ ]
+}

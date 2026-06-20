@@ -1,0 +1,1442 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:musashi100",
+ "@type": "cr:Curation",
+ "label": "小林清親の『武蔵百景』(顔 45点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:musashi100#sel-1",
+   "@type": "sc:Range",
+   "label": "小林清親の『武蔵百景』 / 武蔵百景之内　池上本門寺",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309856/canvas/1#xywh=2970,3809,90,90",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景之内　池上本門寺",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.222"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309856/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "武蔵百景之内　池上本門寺"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:musashi100#sel-2",
+   "@type": "sc:Range",
+   "label": "小林清親の『武蔵百景』 / 武蔵百景之内　深川不中き弁天",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309857/canvas/1#xywh=2650,3500,108,108",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景之内　深川不中き弁天",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.459"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309857/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "武蔵百景之内　深川不中き弁天"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:musashi100#sel-3",
+   "@type": "sc:Range",
+   "label": "小林清親の『武蔵百景』 / 武蔵百景",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/3#xywh=2170,3271,953,950",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.330"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/5#xywh=2150,3011,205,325",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/5#xywh=1159,3127,198,202",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.553"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/5#xywh=3059,4276,608,578",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.519"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/5#xywh=988,3350,147,150",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.387"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=2860,2762,116,130",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=2444,3056,99,140",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.737"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=2379,2526,65,82",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.678"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=1794,2293,85,103",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.596"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=1504,3182,113,130",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.542"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=2050,2150,178,191",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.487"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=1466,2369,178,174",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.468"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=2105,2543,277,280",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.393"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/6#xywh=1309,2232,106,126",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.261"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/8#xywh=369,3961,123,123",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.402"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/8#xywh=188,4020,137,137",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.280"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/9#xywh=3028,3773,161,154",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.559"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/9#xywh=2898,3750,130,133",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.557"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/9#xywh=3298,3736,130,130",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.552"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/9#xywh=4241,3944,68,79",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.531"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/9#xywh=4043,3961,137,133",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.226"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/10#xywh=3383,3295,92,113",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.622"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/12#xywh=3568,4300,270,359",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.874"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/12#xywh=3981,4877,232,267",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.851"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/12#xywh=3219,4314,219,260",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.824"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/12#xywh=2672,4977,178,229",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.683"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/14#xywh=1446,3620,116,144",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.689"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/14#xywh=51,3746,154,260",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.598"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/14#xywh=4258,3644,99,137",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.559"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/14#xywh=1729,4129,202,195",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.535"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/15#xywh=3055,4392,202,277",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.875"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/15#xywh=3906,3739,164,250",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/15#xywh=5314,3606,123,154",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.674"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/17#xywh=2645,3814,178,250",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.839"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/17#xywh=3763,3603,164,277",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.738"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/17#xywh=2088,3469,144,140",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.387"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/17#xywh=3387,3411,205,219",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.341"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/17#xywh=5294,4225,133,126",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.306"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/18#xywh=4207,4327,253,246",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.420"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/20#xywh=1945,4276,147,195",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.745"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/21#xywh=2447,4478,103,140",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.732"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/21#xywh=2013,4467,113,126",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.619"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542756/canvas/23#xywh=1340,4146,362,349",
+     "@type": "sc:Canvas",
+     "label": "武蔵百景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親の『武蔵百景』"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.263"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2542756/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "武蔵百景"
+   }
+  }
+ ]
+}

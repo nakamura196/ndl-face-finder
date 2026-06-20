@@ -1,0 +1,1284 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:shinkei36kaisen",
+ "@type": "cr:Curation",
+ "label": "新形三十六怪撰(顔 31点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-1",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　平惟茂戸隠山に悪鬼を退治す図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306428/canvas/1#xywh=2729,3159,243,300",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　平惟茂戸隠山に悪鬼を退治す図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.618"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306428/canvas/1#xywh=1687,2012,261,315",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　平惟茂戸隠山に悪鬼を退治す図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.487"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306428/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　平惟茂戸隠山に悪鬼を退治す図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-2",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　藤原実方の執心雀となるの図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306429/canvas/1#xywh=2117,2977,169,294",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　藤原実方の執心雀となるの図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306429/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　藤原実方の執心雀となるの図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-3",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　大森彦七道に怪異に逢ふ図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306430/canvas/1#xywh=1869,2752,271,356",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　大森彦七道に怪異に逢ふ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.738"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306430/canvas/1#xywh=1605,2506,284,276",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　大森彦七道に怪異に逢ふ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.221"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306430/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　大森彦七道に怪異に逢ふ図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-4",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　地獄太夫悟道の図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306431/canvas/1#xywh=1567,2652,261,440",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　地獄太夫悟道の図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.849"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306431/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　地獄太夫悟道の図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-5",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　貞信公夜宮中に怪を懼しむの図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306433/canvas/1#xywh=2284,2120,282,389",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　貞信公夜宮中に怪を懼しむの図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.902"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306433/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　貞信公夜宮中に怪を懼しむの図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-6",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　蒲生貞秀臣土岐元貞甲州猪鼻山魔王投倒図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306435/canvas/1#xywh=1413,1574,404,507",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　蒲生貞秀臣土岐元貞甲州猪鼻山魔王投倒図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.696"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306435/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　蒲生貞秀臣土岐元貞甲州猪鼻山魔王投倒図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-7",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　清玄の霊桜姫を慕ふの図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306436/canvas/1#xywh=1065,3180,271,292",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　清玄の霊桜姫を慕ふの図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.780"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306436/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　清玄の霊桜姫を慕ふの図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-8",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　清姫日高川に蛇躰と成る図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306438/canvas/1#xywh=1398,2417,205,381",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　清姫日高川に蛇躰と成る図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.650"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306438/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　清姫日高川に蛇躰と成る図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-9",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　為朝の武威痘鬼神を退く図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306439/canvas/1#xywh=2350,2099,287,266",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　為朝の武威痘鬼神を退く図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.649"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306439/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　為朝の武威痘鬼神を退く図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-10",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　奈須野原殺生石之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306441/canvas/1#xywh=2299,2363,241,330",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　奈須野原殺生石之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.623"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306441/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　奈須野原殺生石之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-11",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　清盛福原に数百の人頭を見る図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306442/canvas/1#xywh=2189,2639,276,369",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　清盛福原に数百の人頭を見る図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.538"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306442/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　清盛福原に数百の人頭を見る図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-12",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　皿やしきお菊の霊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306443/canvas/1#xywh=2212,1080,1884,2900",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　皿やしきお菊の霊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.261"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306443/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　皿やしきお菊の霊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-13",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　仁田忠常洞中に奇異を見る図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306445/canvas/1#xywh=2368,2952,261,333",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　仁田忠常洞中に奇異を見る図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.429"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306445/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　仁田忠常洞中に奇異を見る図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-14",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　小町桜の情",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306446/canvas/1#xywh=2132,2189,241,340",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　小町桜の情",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1889"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.651"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306446/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　小町桜の情"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-15",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　三井寺頼豪阿闍梨悪念鼠と変ずる図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306448/canvas/1#xywh=2447,2952,294,379",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　三井寺頼豪阿闍梨悪念鼠と変ずる図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.254"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306448/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　三井寺頼豪阿闍梨悪念鼠と変ずる図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-16",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　秋風のふくにつけてもあなめあなめをのこはいはしすゝき生けり　業平",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306449/canvas/1#xywh=1925,3008,210,361",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　秋風のふくにつけてもあなめあなめをのこはいはしすゝき生けり　業平",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.776"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306449/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　秋風のふくにつけてもあなめあなめをのこはいはしすゝき生けり　業平"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-17",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　二十四孝狐火之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306450/canvas/1#xywh=2189,2268,292,330",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　二十四孝狐火之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.642"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306450/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　二十四孝狐火之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-18",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　大物之浦ニ霊平知盛海上ニ出現之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306451/canvas/1#xywh=2043,2348,164,261",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　大物之浦ニ霊平知盛海上ニ出現之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.640"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306451/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　大物之浦ニ霊平知盛海上ニ出現之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-19",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　蘭丸蘇鉄之怪ヲ見ル図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306452/canvas/1#xywh=2353,2734,197,330",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　蘭丸蘇鉄之怪ヲ見ル図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.622"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306452/canvas/1#xywh=2744,2724,192,197",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　蘭丸蘇鉄之怪ヲ見ル図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.546"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306452/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　蘭丸蘇鉄之怪ヲ見ル図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-20",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　小早川隆景彦山ノ天狗問答之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306453/canvas/1#xywh=2550,1792,207,305",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　小早川隆景彦山ノ天狗問答之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.668"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306453/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　小早川隆景彦山ノ天狗問答之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-21",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　保多舞とうろう",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306454/canvas/1#xywh=1505,1928,195,353",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　保多舞とうろう",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.672"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306454/canvas/1#xywh=2358,2941,189,366",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　保多舞とうろう",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.499"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306454/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　保多舞とうろう"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-22",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　節婦の霊滝に掛る図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306457/canvas/1#xywh=2007,2673,202,292",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　節婦の霊滝に掛る図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.495"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306457/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　節婦の霊滝に掛る図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-23",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　源頼光土蜘蛛ヲ切ル図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306458/canvas/1#xywh=2143,3131,271,312",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　源頼光土蜘蛛ヲ切ル図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.811"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306458/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　源頼光土蜘蛛ヲ切ル図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-24",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　さぎむすめ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306461/canvas/1#xywh=2089,2207,228,338",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　さぎむすめ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.468"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306461/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　さぎむすめ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-25",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　藤原秀郷竜宮城蜈蚣を射るの図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306463/canvas/1#xywh=873,3249,282,259",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　藤原秀郷竜宮城蜈蚣を射るの図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306463/canvas/1#xywh=2417,2504,223,361",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　藤原秀郷竜宮城蜈蚣を射るの図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1898"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.624"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306463/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　藤原秀郷竜宮城蜈蚣を射るの図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shinkei36kaisen#sel-26",
+   "@type": "sc:Range",
+   "label": "新形三十六怪撰 / 新形三十六怪撰　四ツ谷怪談",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306464/canvas/1#xywh=1469,3374,323,346",
+     "@type": "sc:Canvas",
+     "label": "新形三十六怪撰　四ツ谷怪談",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "新形三十六怪撰"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.763"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306464/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新形三十六怪撰　四ツ谷怪談"
+   }
+  }
+ ]
+}

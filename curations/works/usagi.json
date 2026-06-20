@@ -1,0 +1,682 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:usagi",
+ "@type": "cr:Curation",
+ "label": "うさぎ(顔 17点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-1",
+   "@type": "sc:Range",
+   "label": "うさぎ / ふしぎの国のありす",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1168398/canvas/3#xywh=1289,1237,230,227",
+     "@type": "sc:Canvas",
+     "label": "ふしぎの国のありす",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1948"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.377"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1168398/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "ふしぎの国のありす"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-2",
+   "@type": "sc:Range",
+   "label": "うさぎ / アリスの夢",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1168728/canvas/1#xywh=995,1094,260,257",
+     "@type": "sc:Canvas",
+     "label": "アリスの夢",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1930"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.474"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1168728/canvas/9#xywh=1288,762,128,161",
+     "@type": "sc:Canvas",
+     "label": "アリスの夢",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1930"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.813"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1168728/canvas/9#xywh=1877,750,126,182",
+     "@type": "sc:Canvas",
+     "label": "アリスの夢",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1930"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.722"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1168728/canvas/9#xywh=717,2200,251,311",
+     "@type": "sc:Canvas",
+     "label": "アリスの夢",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1930"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.619"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1168728/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "アリスの夢"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-3",
+   "@type": "sc:Range",
+   "label": "うさぎ / はなしの絵本",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169189/canvas/4#xywh=2197,2398,740,732",
+     "@type": "sc:Canvas",
+     "label": "はなしの絵本",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1952"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.332"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169189/canvas/4#xywh=3451,3629,186,182",
+     "@type": "sc:Canvas",
+     "label": "はなしの絵本",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1952"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.276"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1169189/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "はなしの絵本"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-4",
+   "@type": "sc:Range",
+   "label": "うさぎ / 少年日本歴史読本. 第二編",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1169713/canvas/2#xywh=1743,2032,143,200",
+     "@type": "sc:Canvas",
+     "label": "少年日本歴史読本. 第二編",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.807"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1169713/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "少年日本歴史読本. 第二編"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-5",
+   "@type": "sc:Range",
+   "label": "うさぎ / 美盾十二史",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301737/canvas/1#xywh=1692,1582,415,407",
+     "@type": "sc:Canvas",
+     "label": "美盾十二史",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.441"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1301737/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "美盾十二史"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-6",
+   "@type": "sc:Range",
+   "label": "うさぎ / 見立十二支之内卯　金五郎・小さん",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305386/canvas/1#xywh=1644,2038,658,1024",
+     "@type": "sc:Canvas",
+     "label": "見立十二支之内卯　金五郎・小さん",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.770"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305386/canvas/1#xywh=3103,2580,253,323",
+     "@type": "sc:Canvas",
+     "label": "見立十二支之内卯　金五郎・小さん",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.733"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305386/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "見立十二支之内卯　金五郎・小さん"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-7",
+   "@type": "sc:Range",
+   "label": "うさぎ / 月百姿　金時山の月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306354/canvas/1#xywh=2022,2716,340,397",
+     "@type": "sc:Canvas",
+     "label": "月百姿　金時山の月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.833"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306354/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "月百姿　金時山の月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-8",
+   "@type": "sc:Range",
+   "label": "うさぎ / 風俗三十二相　あったかさう　寛政年間町屋後家の風俗",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306481/canvas/1#xywh=1935,2737,668,671",
+     "@type": "sc:Canvas",
+     "label": "風俗三十二相　あったかさう　寛政年間町屋後家の風俗",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1888"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.809"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306481/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗三十二相　あったかさう　寛政年間町屋後家の風俗"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-9",
+   "@type": "sc:Range",
+   "label": "うさぎ / [お伽噺]. かち[カチ]山",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1919634/canvas/2#xywh=525,586,136,172",
+     "@type": "sc:Canvas",
+     "label": "[お伽噺]. かち[カチ]山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1919634/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "[お伽噺]. かち[カチ]山"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-10",
+   "@type": "sc:Range",
+   "label": "うさぎ / 出雲福神御縁起",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542574/canvas/5#xywh=6822,1259,169,217",
+     "@type": "sc:Canvas",
+     "label": "出雲福神御縁起",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1935"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.783"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2542574/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "出雲福神御縁起"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-11",
+   "@type": "sc:Range",
+   "label": "うさぎ / 浮世十二支",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369924/canvas/5#xywh=1142,1993,199,295",
+     "@type": "sc:Canvas",
+     "label": "浮世十二支",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.796"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369924/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "浮世十二支"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:usagi#sel-12",
+   "@type": "sc:Range",
+   "label": "うさぎ / 奇術十二支之内. 4",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369991/canvas/1#xywh=1318,2886,976,1139",
+     "@type": "sc:Canvas",
+     "label": "奇術十二支之内. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うさぎ"
+      },
+      {
+       "label": "年",
+       "value": "1877"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.589"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369991/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "奇術十二支之内. 4"
+   }
+  }
+ ]
+}

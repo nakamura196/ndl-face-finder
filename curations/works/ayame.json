@@ -1,0 +1,689 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:ayame",
+ "@type": "cr:Curation",
+ "label": "あやめ・花菖蒲(顔 18点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-1",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / かほよひの遊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301951/canvas/1#xywh=1426,1590,274,438",
+     "@type": "sc:Canvas",
+     "label": "かほよひの遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.828"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1301951/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "かほよひの遊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-2",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 源氏十二ケ月之内　皐月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302559/canvas/1#xywh=1546,3021,328,346",
+     "@type": "sc:Canvas",
+     "label": "源氏十二ケ月之内　皐月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302559/canvas/1#xywh=1160,676,233,236",
+     "@type": "sc:Canvas",
+     "label": "源氏十二ケ月之内　皐月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.666"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302559/canvas/1#xywh=2491,732,236,236",
+     "@type": "sc:Canvas",
+     "label": "源氏十二ケ月之内　皐月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.587"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302559/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏十二ケ月之内　皐月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-3",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 堀切花菖蒲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303594/canvas/1#xywh=1423,3407,105,108",
+     "@type": "sc:Canvas",
+     "label": "堀切花菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.530"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303594/canvas/1#xywh=1574,3325,136,131",
+     "@type": "sc:Canvas",
+     "label": "堀切花菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.454"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303594/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "堀切花菖蒲"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-4",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 堀きり花菖蒲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303639/canvas/1#xywh=2102,2785,212,261",
+     "@type": "sc:Canvas",
+     "label": "堀きり花菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.833"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303639/canvas/1#xywh=2450,3000,236,287",
+     "@type": "sc:Canvas",
+     "label": "堀きり花菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.827"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303639/canvas/1#xywh=1313,2898,120,161",
+     "@type": "sc:Canvas",
+     "label": "堀きり花菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.672"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303639/canvas/1#xywh=865,2947,118,161",
+     "@type": "sc:Canvas",
+     "label": "堀きり花菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.510"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303639/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "堀きり花菖蒲"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-5",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 五節掛物ノ内五月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305462/canvas/1#xywh=2930,825,372,395",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内五月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305462/canvas/1#xywh=2016,1393,426,461",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内五月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.710"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305462/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内五月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-6",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 十二月ノ内　皐月生花会",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307016/canvas/1#xywh=1876,2010,358,456",
+     "@type": "sc:Canvas",
+     "label": "十二月ノ内　皐月生花会",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.734"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307016/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月ノ内　皐月生花会"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-7",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 当盛六花撰　菖蒲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311163/canvas/1#xywh=1613,2109,532,781",
+     "@type": "sc:Canvas",
+     "label": "当盛六花撰　菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.775"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311163/canvas/1#xywh=2386,2929,653,794",
+     "@type": "sc:Canvas",
+     "label": "当盛六花撰　菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.650"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311163/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当盛六花撰　菖蒲"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-8",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 堀切菖蒲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311346/canvas/1#xywh=1925,1580,323,369",
+     "@type": "sc:Canvas",
+     "label": "堀切菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.773"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311346/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "堀切菖蒲"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-9",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 三十六佳撰",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/22#xywh=3776,2695,619,619",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.521"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541718/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三十六佳撰"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ayame#sel-10",
+   "@type": "sc:Range",
+   "label": "あやめ・花菖蒲 / 五節句之内 五月朝の菖蒲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369450/canvas/1#xywh=2301,1373,396,650",
+     "@type": "sc:Canvas",
+     "label": "五節句之内 五月朝の菖蒲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "あやめ・花菖蒲"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369450/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節句之内 五月朝の菖蒲"
+   }
+  }
+ ]
+}

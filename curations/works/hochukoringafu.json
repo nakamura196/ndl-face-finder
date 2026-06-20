@@ -1,0 +1,748 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:hochukoringafu",
+ "@type": "cr:Curation",
+ "label": "琳派・中村芳中の『光琳畫譜』(顔 23点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:hochukoringafu#sel-1",
+   "@type": "sc:Range",
+   "label": "琳派・中村芳中の『光琳畫譜』 / 光琳畫譜 2巻. [1]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/5#xywh=4357,1224,245,432",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.746"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/5#xywh=3022,1749,352,494",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/10#xywh=1010,2737,267,360",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.556"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/12#xywh=5746,1700,298,360",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/12#xywh=4744,1508,338,454",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.751"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/12#xywh=2399,2336,245,418",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.570"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/12#xywh=1771,2002,267,396",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.535"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/12#xywh=1251,1887,525,530",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.241"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/13#xywh=2194,1918,338,458",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.517"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/13#xywh=4148,703,383,458",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.469"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/13#xywh=2724,587,596,596",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.444"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/13#xywh=5652,863,401,494",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.276"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554147/canvas/13#xywh=1219,819,383,436",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.248"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2554147/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "光琳畫譜 2巻. [1]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hochukoringafu#sel-2",
+   "@type": "sc:Range",
+   "label": "琳派・中村芳中の『光琳畫譜』 / 光琳畫譜 2巻. [2]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/6#xywh=5509,1441,286,401",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.600"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/7#xywh=1961,674,344,494",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.710"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/7#xywh=1525,3318,216,225",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.546"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/7#xywh=2671,1049,304,330",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.525"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/7#xywh=5094,2904,207,220",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.509"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/7#xywh=806,1952,357,361",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.212"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/9#xywh=5799,1838,260,379",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/9#xywh=4729,2005,247,414",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.801"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/9#xywh=1824,2507,242,392",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.739"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2554148/canvas/13#xywh=1926,1860,300,383",
+     "@type": "sc:Canvas",
+     "label": "光琳畫譜 2巻. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "琳派・中村芳中の『光琳畫譜』"
+      },
+      {
+       "label": "年",
+       "value": "1826"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.716"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2554148/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "光琳畫譜 2巻. [2]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,646 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:choyo",
+ "@type": "cr:Curation",
+ "label": "重陽の節句(顔 17点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-1",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / 千代田の大奥　観菊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302673/canvas/3#xywh=2644,1736,161,233",
+     "@type": "sc:Canvas",
+     "label": "千代田の大奥　観菊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "1895"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.739"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302673/canvas/3#xywh=1915,1567,174,220",
+     "@type": "sc:Canvas",
+     "label": "千代田の大奥　観菊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "1895"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.659"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302673/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "千代田の大奥　観菊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-2",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / 十二ケ月の内　九月　縁日の菊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304724/canvas/1#xywh=1838,1608,351,417",
+     "@type": "sc:Canvas",
+     "label": "十二ケ月の内　九月　縁日の菊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.739"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304724/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ケ月の内　九月　縁日の菊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-3",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / （重陽の節句）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305287/canvas/1#xywh=1879,2125,325,466",
+     "@type": "sc:Canvas",
+     "label": "（重陽の節句）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.732"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305287/canvas/1#xywh=2765,2824,287,340",
+     "@type": "sc:Canvas",
+     "label": "（重陽の節句）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.570"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305287/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（重陽の節句）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-4",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / 五節掛物ノ内九月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305460/canvas/1#xywh=1985,1397,434,464",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内九月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.760"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305460/canvas/1#xywh=3283,676,388,564",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内九月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.737"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305460/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内九月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-5",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / 風流役者地顔五節句　九月之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308620/canvas/1#xywh=1761,2493,284,389",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　九月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308620/canvas/1#xywh=1992,763,312,302",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　九月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308620/canvas/1#xywh=2729,957,182,187",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　九月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.435"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308620/canvas/1#xywh=1600,1193,346,356",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　九月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.330"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308620/canvas/1#xywh=1894,983,699,689",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　九月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.227"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308620/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風流役者地顔五節句　九月之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-6",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / 十二月の内　菊月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308900/canvas/1#xywh=2225,1508,346,412",
+     "@type": "sc:Canvas",
+     "label": "十二月の内　菊月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.711"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308900/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月の内　菊月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-7",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / 当盛十花撰 夏菊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1312178/canvas/1#xywh=1549,2074,512,719",
+     "@type": "sc:Canvas",
+     "label": "当盛十花撰 夏菊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.845"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1312178/canvas/1#xywh=2332,2780,635,773",
+     "@type": "sc:Canvas",
+     "label": "当盛十花撰 夏菊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.688"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1312178/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当盛十花撰 夏菊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-8",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / 五節句之内 九月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369475/canvas/1#xywh=2061,2843,388,577",
+     "@type": "sc:Canvas",
+     "label": "五節句之内 九月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.636"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369475/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節句之内 九月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:choyo#sel-9",
+   "@type": "sc:Range",
+   "label": "重陽の節句 / 阿都摩源氏見立五節句 菊月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369503/canvas/1#xywh=2274,1819,374,557",
+     "@type": "sc:Canvas",
+     "label": "阿都摩源氏見立五節句 菊月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "重陽の節句"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.842"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369503/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "阿都摩源氏見立五節句 菊月"
+   }
+  }
+ ]
+}

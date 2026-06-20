@@ -1,0 +1,443 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:natsumatsuri",
+ "@type": "cr:Curation",
+ "label": "夏祭り(顔 12点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:natsumatsuri#sel-1",
+   "@type": "sc:Range",
+   "label": "夏祭り / 江戸名所見立十二ケ月の内六月　山王御祭礼　団七九郎兵衛",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305398/canvas/1#xywh=2404,2112,940,1254",
+     "@type": "sc:Canvas",
+     "label": "江戸名所見立十二ケ月の内六月　山王御祭礼　団七九郎兵衛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.741"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305398/canvas/1#xywh=607,1078,253,253",
+     "@type": "sc:Canvas",
+     "label": "江戸名所見立十二ケ月の内六月　山王御祭礼　団七九郎兵衛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.297"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305398/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所見立十二ケ月の内六月　山王御祭礼　団七九郎兵衛"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:natsumatsuri#sel-2",
+   "@type": "sc:Range",
+   "label": "夏祭り / 江戸自慢三十六興　日吉山王祭り子",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305713/canvas/1#xywh=1720,2708,236,251",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　日吉山王祭り子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305713/canvas/1#xywh=1091,3305,172,220",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　日吉山王祭り子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.765"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305713/canvas/1#xywh=2900,2854,243,246",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　日吉山王祭り子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.585"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305713/canvas/1#xywh=2721,3218,79,113",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　日吉山王祭り子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.574"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305713/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸自慢三十六興　日吉山王祭り子"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:natsumatsuri#sel-3",
+   "@type": "sc:Range",
+   "label": "夏祭り / 諸国名所百景　京都祇園祭礼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309778/canvas/1#xywh=652,2130,51,51",
+     "@type": "sc:Canvas",
+     "label": "諸国名所百景　京都祇園祭礼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.509"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309778/canvas/1#xywh=1450,2190,44,45",
+     "@type": "sc:Canvas",
+     "label": "諸国名所百景　京都祇園祭礼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.341"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309778/canvas/1#xywh=545,2109,46,47",
+     "@type": "sc:Canvas",
+     "label": "諸国名所百景　京都祇園祭礼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.276"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309778/canvas/1#xywh=616,934,179,170",
+     "@type": "sc:Canvas",
+     "label": "諸国名所百景　京都祇園祭礼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.246"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309778/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "諸国名所百景　京都祇園祭礼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:natsumatsuri#sel-4",
+   "@type": "sc:Range",
+   "label": "夏祭り / 時代かゞみ　寛政之頃",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310053/canvas/1#xywh=1482,2614,901,1500",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　寛政之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.799"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310053/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "時代かゞみ　寛政之頃"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:natsumatsuri#sel-5",
+   "@type": "sc:Range",
+   "label": "夏祭り / 東風俗年中行事 六月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369440/canvas/1#xywh=1665,2494,850,1029",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "夏祭り"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369440/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 六月"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2348 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:ukee",
+ "@type": "cr:Curation",
+ "label": "有卦絵(顔 63点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-1",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 明治三十三年十一月十一日子ノ十二時火性の人有卦に入る",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/10317558/canvas/1#xywh=2145,5605,390,501",
+     "@type": "sc:Canvas",
+     "label": "明治三十三年十一月十一日子ノ十二時火性の人有卦に入る",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.820"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/10317558/canvas/1#xywh=3766,4867,719,776",
+     "@type": "sc:Canvas",
+     "label": "明治三十三年十一月十一日子ノ十二時火性の人有卦に入る",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.536"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/10317558/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "明治三十三年十一月十一日子ノ十二時火性の人有卦に入る"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-2",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 〔福助とおたふく〕",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302022/canvas/1#xywh=1678,1674,426,491",
+     "@type": "sc:Canvas",
+     "label": "〔福助とおたふく〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.725"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302022/canvas/1#xywh=3429,1459,449,468",
+     "@type": "sc:Canvas",
+     "label": "〔福助とおたふく〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.514"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302022/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "〔福助とおたふく〕"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-3",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 木性の人辛酉八月五日酉の日酉の時うけニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369460/canvas/1#xywh=2186,1381,231,340",
+     "@type": "sc:Canvas",
+     "label": "木性の人辛酉八月五日酉の日酉の時うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.784"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369460/canvas/1#xywh=2753,4215,554,686",
+     "@type": "sc:Canvas",
+     "label": "木性の人辛酉八月五日酉の日酉の時うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.445"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369460/canvas/1#xywh=1478,3872,388,519",
+     "@type": "sc:Canvas",
+     "label": "木性の人辛酉八月五日酉の日酉の時うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.373"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369460/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "木性の人辛酉八月五日酉の日酉の時うけニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-4",
+   "@type": "sc:Range",
+   "label": "有卦絵 / ニ福壽 二月十日金性之人有卦ニ入ル",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369479/canvas/1#xywh=2926,3801,622,638",
+     "@type": "sc:Canvas",
+     "label": "ニ福壽 二月十日金性之人有卦ニ入ル",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.777"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369479/canvas/1#xywh=1663,3763,558,676",
+     "@type": "sc:Canvas",
+     "label": "ニ福壽 二月十日金性之人有卦ニ入ル",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.713"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369479/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "ニ福壽 二月十日金性之人有卦ニ入ル"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-5",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 明治三十丁酉年八月七日木性之人うけに入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369481/canvas/1#xywh=1593,3494,442,522",
+     "@type": "sc:Canvas",
+     "label": "明治三十丁酉年八月七日木性之人うけに入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369481/canvas/1#xywh=3118,3522,490,587",
+     "@type": "sc:Canvas",
+     "label": "明治三十丁酉年八月七日木性之人うけに入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.715"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369481/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "明治三十丁酉年八月七日木性之人うけに入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-6",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 辛酉八月五日木性人有卦ニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369484/canvas/1#xywh=1301,3740,324,324",
+     "@type": "sc:Canvas",
+     "label": "辛酉八月五日木性人有卦ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.505"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369484/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "辛酉八月五日木性人有卦ニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-7",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 金性人うけに入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369485/canvas/1#xywh=3006,3673,442,529",
+     "@type": "sc:Canvas",
+     "label": "金性人うけに入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1866"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.745"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369485/canvas/1#xywh=1667,3506,314,410",
+     "@type": "sc:Canvas",
+     "label": "金性人うけに入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1866"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.624"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369485/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "金性人うけに入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-8",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 八月七日午後六時木性ノ人有卦ニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369486/canvas/1#xywh=3202,4478,375,474",
+     "@type": "sc:Canvas",
+     "label": "八月七日午後六時木性ノ人有卦ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.598"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369486/canvas/1#xywh=2378,4000,304,346",
+     "@type": "sc:Canvas",
+     "label": "八月七日午後六時木性ノ人有卦ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.406"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369486/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "八月七日午後六時木性ノ人有卦ニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-9",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 五月十七日午の時土水性うけニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369487/canvas/1#xywh=2888,4074,551,657",
+     "@type": "sc:Canvas",
+     "label": "五月十七日午の時土水性うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1870"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.525"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369487/canvas/1#xywh=1471,4234,429,468",
+     "@type": "sc:Canvas",
+     "label": "五月十七日午の時土水性うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1870"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.343"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369487/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五月十七日午の時土水性うけニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-10",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 木性の人 酉の年酉八の月上の酉の五日酉の剋有卦に入ル",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369488/canvas/1#xywh=2003,2260,817,968",
+     "@type": "sc:Canvas",
+     "label": "木性の人 酉の年酉八の月上の酉の五日酉の剋有卦に入ル",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.540"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369488/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "木性の人 酉の年酉八の月上の酉の五日酉の剋有卦に入ル"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-11",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 金性の人卯ノ年二月十日有卦ニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369515/canvas/1#xywh=1722,1403,383,534",
+     "@type": "sc:Canvas",
+     "label": "金性の人卯ノ年二月十日有卦ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.694"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369515/canvas/1#xywh=2933,2693,367,541",
+     "@type": "sc:Canvas",
+     "label": "金性の人卯ノ年二月十日有卦ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.498"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369515/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "金性の人卯ノ年二月十日有卦ニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-12",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 金性二月七日卯の刻うけに入酉の年迄七年の間有気也",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369516/canvas/1#xywh=2411,3837,244,318",
+     "@type": "sc:Canvas",
+     "label": "金性二月七日卯の刻うけに入酉の年迄七年の間有気也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1866"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.802"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369516/canvas/1#xywh=3203,2752,461,532",
+     "@type": "sc:Canvas",
+     "label": "金性二月七日卯の刻うけに入酉の年迄七年の間有気也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1866"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369516/canvas/1#xywh=1382,2872,371,448",
+     "@type": "sc:Canvas",
+     "label": "金性二月七日卯の刻うけに入酉の年迄七年の間有気也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1866"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.535"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369516/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "金性二月七日卯の刻うけに入酉の年迄七年の間有気也"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-13",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 土水性有卦入 : 五月四日午ノ刻",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369517/canvas/1#xywh=1476,3651,475,573",
+     "@type": "sc:Canvas",
+     "label": "土水性有卦入 : 五月四日午ノ刻",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.804"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369517/canvas/1#xywh=2898,3536,732,835",
+     "@type": "sc:Canvas",
+     "label": "土水性有卦入 : 五月四日午ノ刻",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.711"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369517/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "土水性有卦入 : 五月四日午ノ刻"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-14",
+   "@type": "sc:Range",
+   "label": "有卦絵 / [土水性五月十七日うけに入]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369518/canvas/1#xywh=3041,2886,578,619",
+     "@type": "sc:Canvas",
+     "label": "[土水性五月十七日うけに入]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1867"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.813"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369518/canvas/1#xywh=2054,3097,333,443",
+     "@type": "sc:Canvas",
+     "label": "[土水性五月十七日うけに入]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1867"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.747"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369518/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "[土水性五月十七日うけに入]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-15",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 金性之人有卦ニ入 : 二月一日",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369519/canvas/1#xywh=3278,3428,318,423",
+     "@type": "sc:Canvas",
+     "label": "金性之人有卦ニ入 : 二月一日",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1879"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369519/canvas/1#xywh=1352,3262,435,583",
+     "@type": "sc:Canvas",
+     "label": "金性之人有卦ニ入 : 二月一日",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1879"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.663"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369519/canvas/1#xywh=3663,2561,407,512",
+     "@type": "sc:Canvas",
+     "label": "金性之人有卦ニ入 : 二月一日",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1879"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.498"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369519/canvas/1#xywh=2574,2611,275,281",
+     "@type": "sc:Canvas",
+     "label": "金性之人有卦ニ入 : 二月一日",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1879"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.250"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369519/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "金性之人有卦ニ入 : 二月一日"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-16",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 当ル卯ノ二月十日有卦入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369522/canvas/1#xywh=2058,2737,778,1014",
+     "@type": "sc:Canvas",
+     "label": "当ル卯ノ二月十日有卦入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.770"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369522/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当ル卯ノ二月十日有卦入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-17",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 当ル二月十日有卦入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369523/canvas/1#xywh=2610,3320,713,942",
+     "@type": "sc:Canvas",
+     "label": "当ル二月十日有卦入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.705"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369523/canvas/1#xywh=1733,2003,580,701",
+     "@type": "sc:Canvas",
+     "label": "当ル二月十日有卦入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369523/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当ル二月十日有卦入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-18",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 八月十日木性の人うけに入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369524/canvas/1#xywh=2976,3590,766,868",
+     "@type": "sc:Canvas",
+     "label": "八月十日木性の人うけに入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1885"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.855"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369524/canvas/1#xywh=1513,3646,518,645",
+     "@type": "sc:Canvas",
+     "label": "八月十日木性の人うけに入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1885"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.824"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369524/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "八月十日木性の人うけに入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-19",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 九月三十日酉ノ日酉ノ刻木性ノ人請ニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369526/canvas/1#xywh=2945,2741,663,818",
+     "@type": "sc:Canvas",
+     "label": "九月三十日酉ノ日酉ノ刻木性ノ人請ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1867"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.654"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369526/canvas/1#xywh=2288,1714,276,310",
+     "@type": "sc:Canvas",
+     "label": "九月三十日酉ノ日酉ノ刻木性ノ人請ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1867"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.351"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369526/canvas/1#xywh=1581,1646,508,502",
+     "@type": "sc:Canvas",
+     "label": "九月三十日酉ノ日酉ノ刻木性ノ人請ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1867"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.207"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369526/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "九月三十日酉ノ日酉ノ刻木性ノ人請ニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-20",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 来ル卯ノ年一月十日金性の人うけニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369527/canvas/1#xywh=3174,2716,388,508",
+     "@type": "sc:Canvas",
+     "label": "来ル卯ノ年一月十日金性の人うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.786"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369527/canvas/1#xywh=1975,3181,344,459",
+     "@type": "sc:Canvas",
+     "label": "来ル卯ノ年一月十日金性の人うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.237"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369527/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "来ル卯ノ年一月十日金性の人うけニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-21",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 土水性有卦ニ入ル : 五月四日午ノ時有卦ニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369530/canvas/1#xywh=1914,2849,326,475",
+     "@type": "sc:Canvas",
+     "label": "土水性有卦ニ入ル : 五月四日午ノ時有卦ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.793"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369530/canvas/1#xywh=2568,2673,550,643",
+     "@type": "sc:Canvas",
+     "label": "土水性有卦ニ入ル : 五月四日午ノ時有卦ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.619"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369530/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "土水性有卦ニ入ル : 五月四日午ノ時有卦ニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-22",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 明治廿七年五月四日うけニ入 : 水性の人土性の人",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369532/canvas/1#xywh=2713,3290,376,496",
+     "@type": "sc:Canvas",
+     "label": "明治廿七年五月四日うけニ入 : 水性の人土性の人",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.730"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369532/canvas/1#xywh=1764,2857,555,564",
+     "@type": "sc:Canvas",
+     "label": "明治廿七年五月四日うけニ入 : 水性の人土性の人",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.592"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369532/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "明治廿七年五月四日うけニ入 : 水性の人土性の人"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-23",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 丁卯二月七日金性の人うけニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369533/canvas/1#xywh=3895,1395,269,363",
+     "@type": "sc:Canvas",
+     "label": "丁卯二月七日金性の人うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.854"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369533/canvas/1#xywh=3011,2003,306,336",
+     "@type": "sc:Canvas",
+     "label": "丁卯二月七日金性の人うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.839"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369533/canvas/1#xywh=1912,3334,299,403",
+     "@type": "sc:Canvas",
+     "label": "丁卯二月七日金性の人うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369533/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "丁卯二月七日金性の人うけニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-24",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 花ふゝきてふてふと舞うやきのふけふ : 火性之人有卦ニ入る",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369535/canvas/1#xywh=2463,2739,719,931",
+     "@type": "sc:Canvas",
+     "label": "花ふゝきてふてふと舞うやきのふけふ : 火性之人有卦ニ入る",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.728"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369535/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "花ふゝきてふてふと舞うやきのふけふ : 火性之人有卦ニ入る"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-25",
+   "@type": "sc:Range",
+   "label": "有卦絵 / [金性乃人うけに入ル]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369538/canvas/1#xywh=3458,3085,215,252",
+     "@type": "sc:Canvas",
+     "label": "[金性乃人うけに入ル]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1879"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.380"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369538/canvas/1#xywh=1650,2769,279,420",
+     "@type": "sc:Canvas",
+     "label": "[金性乃人うけに入ル]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1879"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.305"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369538/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "[金性乃人うけに入ル]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-26",
+   "@type": "sc:Range",
+   "label": "有卦絵 / □月□日土水性の人うけに入る",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369541/canvas/1#xywh=2618,2457,360,460",
+     "@type": "sc:Canvas",
+     "label": "□月□日土水性の人うけに入る",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.720"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369541/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "□月□日土水性の人うけに入る"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-27",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 明治六癸酉九月三十日木姓之人有卦に為留",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369553/canvas/1#xywh=1087,3202,290,309",
+     "@type": "sc:Canvas",
+     "label": "明治六癸酉九月三十日木姓之人有卦に為留",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1873"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.510"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369553/canvas/1#xywh=1707,2635,233,278",
+     "@type": "sc:Canvas",
+     "label": "明治六癸酉九月三十日木姓之人有卦に為留",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1873"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.282"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369553/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "明治六癸酉九月三十日木姓之人有卦に為留"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-28",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 十一月十五日火性の人うけニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369565/canvas/1#xywh=1243,1546,444,531",
+     "@type": "sc:Canvas",
+     "label": "十一月十五日火性の人うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.721"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369565/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十一月十五日火性の人うけニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-29",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 七ふ久 : 明治十五年五月七日土水性の人うけに入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369566/canvas/1#xywh=2702,3670,528,581",
+     "@type": "sc:Canvas",
+     "label": "七ふ久 : 明治十五年五月七日土水性の人うけに入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1882"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.692"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369566/canvas/1#xywh=1758,3078,528,551",
+     "@type": "sc:Canvas",
+     "label": "七ふ久 : 明治十五年五月七日土水性の人うけに入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1882"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.430"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369566/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "七ふ久 : 明治十五年五月七日土水性の人うけに入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-30",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 明治十五年五月七日土水性之人うけニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369568/canvas/1#xywh=2857,3004,823,1045",
+     "@type": "sc:Canvas",
+     "label": "明治十五年五月七日土水性之人うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1882"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.580"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369568/canvas/1#xywh=1509,2379,917,1028",
+     "@type": "sc:Canvas",
+     "label": "明治十五年五月七日土水性之人うけニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1882"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.475"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369568/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "明治十五年五月七日土水性之人うけニ入"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-31",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 来ル二月一日金性ノ人有卦入ル",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369569/canvas/1#xywh=2077,1889,823,1159",
+     "@type": "sc:Canvas",
+     "label": "来ル二月一日金性ノ人有卦入ル",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1879"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369569/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "来ル二月一日金性ノ人有卦入ル"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ukee#sel-32",
+   "@type": "sc:Range",
+   "label": "有卦絵 / 木性の人うけに入 : 来ル八月七日午後六時ニ入",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369570/canvas/1#xywh=2430,3955,376,427",
+     "@type": "sc:Canvas",
+     "label": "木性の人うけに入 : 来ル八月七日午後六時ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.627"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369570/canvas/1#xywh=2994,3334,454,659",
+     "@type": "sc:Canvas",
+     "label": "木性の人うけに入 : 来ル八月七日午後六時ニ入",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "有卦絵"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.479"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369570/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "木性の人うけに入 : 来ル八月七日午後六時ニ入"
+   }
+  }
+ ]
+}

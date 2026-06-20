@@ -1,0 +1,6975 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:okiagari",
+ "@type": "cr:Curation",
+ "label": "起上小法師画集(顔 220点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-1",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第1集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/8#xywh=2822,1257,475,631",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.790"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/8#xywh=2891,4889,469,475",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.570"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/8#xywh=2219,4848,527,533",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.549"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/8#xywh=1431,1842,574,776",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.424"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/9#xywh=5498,1286,481,585",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.583"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/9#xywh=6790,1981,492,678",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.577"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/9#xywh=2642,3331,394,400",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.577"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/9#xywh=1454,1321,1257,1309",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.398"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/9#xywh=2329,1865,1304,1280",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.364"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/9#xywh=1054,3956,614,597",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.332"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/9#xywh=1732,4530,550,730",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.314"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/10#xywh=1211,4408,406,492",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.584"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/10#xywh=1390,2236,1014,1048",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.525"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/10#xywh=2677,1425,973,1002",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.365"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/10#xywh=5672,3331,452,429",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.326"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/10#xywh=3355,3116,707,608",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.286"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/10#xywh=2596,4182,649,660",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.215"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/10#xywh=6454,4553,510,701",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.206"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852368/canvas/10#xywh=7051,3974,603,608",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第1集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.203"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852368/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第1集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-2",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第2集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/2#xywh=1240,4507,365,371",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.434"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/2#xywh=3308,3858,626,602",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.387"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/2#xywh=2972,3707,261,353",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.373"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/2#xywh=3685,2960,429,434",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.333"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/2#xywh=2393,2589,492,492",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.208"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/3#xywh=2584,1164,1072,933",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.505"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/3#xywh=3262,2369,643,649",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.458"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/3#xywh=2810,3719,510,655",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.438"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/3#xywh=1304,2259,498,487",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.426"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/3#xywh=2451,5219,400,388",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.348"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/4#xywh=1802,2925,776,782",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.594"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/4#xywh=3401,1182,435,492",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.491"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/4#xywh=1535,1691,707,701",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.386"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/4#xywh=2827,2137,718,759",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.326"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/4#xywh=5098,1130,1049,840",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.307"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852369/canvas/4#xywh=5510,3725,475,643",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第2集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.251"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852369/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第2集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-3",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第3集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/4#xywh=3320,4095,330,400",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.614"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/4#xywh=3082,2166,371,371",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.537"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/4#xywh=2538,4906,313,301",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.449"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/4#xywh=1327,2543,290,278",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.420"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/4#xywh=2578,892,353,348",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.355"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/4#xywh=3007,1286,371,353",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.350"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/4#xywh=3384,1848,336,330",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.332"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/4#xywh=1541,2682,261,255",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.310"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=3105,1303,597,655",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.616"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=3627,3626,330,533",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.608"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=2387,3261,336,429",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.589"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=2005,2317,232,272",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.559"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=5243,2253,214,214",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.555"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=7022,2508,272,266",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.442"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=4705,3829,776,753",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.410"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=5695,869,319,313",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.406"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=5811,4883,307,324",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.401"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=5284,1240,319,313",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.363"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=6819,2624,278,278",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.327"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852370/canvas/5#xywh=1408,4449,597,620",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第3集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.250"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852370/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第3集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-4",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第4集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/3#xywh=1425,4014,435,562",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.632"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/3#xywh=3922,3916,429,539",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.414"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/3#xywh=3320,3661,516,504",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.392"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/3#xywh=2474,4420,342,330",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.306"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/3#xywh=1466,1912,1037,1002",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.231"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/3#xywh=2700,3325,742,736",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.225"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/4#xywh=3806,1883,348,562",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.596"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/4#xywh=7236,3980,452,550",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.549"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/4#xywh=2294,4402,510,475",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.501"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/4#xywh=1501,1280,788,730",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.401"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/4#xywh=2596,2589,492,527",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.333"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/5#xywh=2341,2699,742,1077",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.711"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/5#xywh=1564,1228,800,909",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.642"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/5#xywh=2735,898,469,597",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.518"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852371/canvas/5#xywh=6257,4373,585,481",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第4集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.289"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852371/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第4集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-5",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第5集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/3#xywh=3673,2352,510,504",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.475"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/3#xywh=3395,1842,481,481",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.470"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/3#xywh=1819,1494,823,921",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.433"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/3#xywh=2891,4756,359,377",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.365"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/3#xywh=1159,3122,388,348",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.346"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/3#xywh=1715,3493,353,388",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.341"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/4#xywh=6964,3406,481,492",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.327"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/4#xywh=5174,1813,498,481",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.229"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/4#xywh=3059,2769,1049,950",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.224"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/5#xywh=2329,1512,991,1442",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.740"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/5#xywh=3076,4663,440,585",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.540"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/5#xywh=1796,4281,475,481",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.534"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/5#xywh=3552,4414,348,643",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.374"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852372/canvas/5#xywh=2393,5086,267,261",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第5集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.256"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852372/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第5集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-6",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第6集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/3#xywh=1808,2161,452,458",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/3#xywh=2874,1309,446,550",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.481"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/3#xywh=3273,1454,568,550",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.297"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/4#xywh=3633,3337,481,463",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.511"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/4#xywh=3349,4582,272,261",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.474"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/4#xywh=2074,2184,1112,1072",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.433"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/4#xywh=5017,1031,1118,1095",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.317"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/5#xywh=1790,1193,672,805",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.659"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/5#xywh=2990,1784,759,880",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.649"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/5#xywh=3546,3962,435,481",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.554"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/5#xywh=3465,5011,313,348",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.430"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852373/canvas/5#xywh=2659,3145,435,417",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第6集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.303"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852373/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第6集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-7",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第7集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/3#xywh=3076,2340,637,730",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.538"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/3#xywh=2289,3209,747,770",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.464"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/3#xywh=1750,1332,1112,1008",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.412"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/3#xywh=3691,4141,608,620",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.361"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/3#xywh=1709,4494,417,463",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.296"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=3175,2409,232,232",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.593"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=2178,3904,371,371",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.584"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=1431,3614,353,359",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.575"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=2856,2907,579,579",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.537"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=6344,1309,1112,1042",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.509"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=3714,3568,313,307",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.500"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=3679,1726,243,255",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.491"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=3911,1552,203,208",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.455"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=1813,4338,324,336",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.421"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=6970,4396,637,620",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.341"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=2555,4697,377,376",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.316"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=5510,2351,620,712",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.303"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/4#xywh=6147,3237,753,724",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.290"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/5#xywh=1987,1911,713,990",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.698"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/5#xywh=1483,4228,481,463",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.468"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/5#xywh=3094,5241,255,255",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.453"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/5#xywh=1970,4859,371,359",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.379"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/5#xywh=3476,4245,400,394",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.353"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/5#xywh=3754,4344,435,458",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.322"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852374/canvas/5#xywh=7433,3573,359,400",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第7集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.248"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852374/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第7集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-8",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第8集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/3#xywh=2671,2572,904,1269",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.598"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/3#xywh=2474,1002,898,747",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.459"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/3#xywh=1918,4669,475,469",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.444"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/3#xywh=3934,4217,643,660",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.278"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/3#xywh=2538,3522,1101,1089",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.268"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/3#xywh=1622,1836,1136,1419",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.240"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/4#xywh=3320,1587,411,585",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.689"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/4#xywh=5875,1043,857,904",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.655"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/4#xywh=1483,1917,388,377",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.540"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/4#xywh=2509,4113,429,405",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.418"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/4#xywh=3441,4518,464,400",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.329"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/4#xywh=2271,2421,684,741",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.266"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/4#xywh=1605,3151,209,209",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.257"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/4#xywh=2057,4472,284,278",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.250"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=2173,1471,713,933",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.658"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=5510,1581,400,579",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.597"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=3273,4119,475,475",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.574"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=3824,2311,550,550",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.471"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=3540,2850,458,452",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.435"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=1721,3279,307,307",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.381"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=2984,3279,400,400",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.310"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=2364,4379,423,411",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.292"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=1976,4599,487,481",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.225"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852375/canvas/5#xywh=7346,1906,359,348",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第8集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.215"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852375/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第8集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-9",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第9集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/3#xywh=3326,4501,829,724",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.467"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/4#xywh=2039,4211,394,463",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.593"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/4#xywh=1408,4553,423,533",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.478"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/4#xywh=2538,3904,359,411",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.432"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/4#xywh=3720,3012,487,718",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.427"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/4#xywh=3001,4941,348,359",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.402"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=3250,4101,521,631",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.654"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=1640,1327,406,533",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.640"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=3610,2549,348,405",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=1854,3383,881,1118",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.579"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=2984,2010,521,852",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.527"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=3969,5011,232,237",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.495"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=6779,4200,406,458",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.447"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=6246,3893,440,440",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.396"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=7341,4512,446,568",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.389"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852376/canvas/5#xywh=6054,5231,290,295",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第9集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.382"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852376/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第9集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-10",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第10集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/3#xywh=2393,4935,591,591",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.379"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/3#xywh=3893,2329,377,382",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.351"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/3#xywh=3685,3053,915,909",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.323"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/3#xywh=3586,4443,718,660",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.307"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/4#xywh=3731,2948,359,498",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.395"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/4#xywh=4936,4449,782,620",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.276"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/4#xywh=2283,3481,730,666",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.246"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/4#xywh=4994,2329,359,371",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.203"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/5#xywh=1576,1807,394,411",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.601"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/5#xywh=2711,3111,620,597",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.566"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/5#xywh=3824,1413,261,324",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.323"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/5#xywh=3111,1228,666,660",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.302"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/5#xywh=3667,4240,452,440",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.299"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852377/canvas/5#xywh=1784,3800,753,597",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第10集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.247"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852377/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第10集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-11",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第11集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/3#xywh=3847,4240,597,591",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.507"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/3#xywh=2294,4762,324,324",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.454"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/3#xywh=2671,4889,301,295",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.444"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/3#xywh=2439,5109,324,319",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.413"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/3#xywh=1350,2641,1072,1037",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.402"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/3#xywh=2827,5312,220,243",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.348"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/3#xywh=3181,2821,1194,1101",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.210"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/4#xywh=1727,4576,492,550",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.553"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/4#xywh=6883,3991,562,550",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.433"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/4#xywh=6703,2612,1136,1008",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.407"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/4#xywh=6622,4750,365,382",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.348"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/4#xywh=6298,4889,278,272",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.327"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/4#xywh=1309,3389,771,770",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.268"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/4#xywh=6147,5277,307,284",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.239"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/4#xywh=2271,4148,568,545",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.236"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=1489,2085,579,585",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.535"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=1825,3690,1037,933",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.494"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=3581,2282,423,434",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.435"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=2155,1593,278,266",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.413"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=2903,2421,626,626",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.406"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=6976,4541,539,597",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.391"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=3604,3551,649,620",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.381"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=2068,1964,324,324",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.366"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=3117,4536,435,539",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.307"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=3123,1373,301,313",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.302"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852378/canvas/5#xywh=7109,3284,1014,1008",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第11集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.289"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852378/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第11集"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:okiagari#sel-12",
+   "@type": "sc:Range",
+   "label": "起上小法師画集 / 起上小法師画集. 第12集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/3#xywh=3830,4240,342,353",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.651"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/3#xywh=1477,2230,556,545",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.341"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/4#xywh=3256,4512,272,423",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.471"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/4#xywh=5041,4258,365,359",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.443"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/4#xywh=2787,4431,307,313",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.376"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/4#xywh=1408,2155,782,782",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.354"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/4#xywh=1866,3371,429,516",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.304"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/4#xywh=3650,2676,527,701",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.223"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=3650,4483,440,521",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.501"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=3650,2543,568,626",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.480"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=2636,1008,788,1072",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.474"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=1622,4686,394,394",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.438"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=6101,4414,324,319",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.412"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=2509,3817,591,591",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.408"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=5660,4524,290,411",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.321"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=2121,4727,539,533",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.305"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=6414,4333,220,232",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.221"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=5406,1425,516,516",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.216"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12852379/canvas/5#xywh=4977,2682,556,684",
+     "@type": "sc:Canvas",
+     "label": "起上小法師画集. 第12集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "起上小法師画集"
+      },
+      {
+       "label": "年",
+       "value": "1925"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.209"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12852379/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "起上小法師画集. 第12集"
+   }
+  }
+ ]
+}

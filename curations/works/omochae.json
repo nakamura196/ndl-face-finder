@@ -1,0 +1,4569 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:omochae",
+ "@type": "cr:Curation",
+ "label": "おもちゃ絵(顔 142点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-1",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 道中豊年子供あそび",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=517,1981,156,182",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.805"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=850,3551,133,164",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.730"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=3057,3574,131,172",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.716"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=940,1536,148,177",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.628"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=614,909,154,189",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.600"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=2360,3282,310,315",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.554"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=2739,2732,159,169",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.527"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=2084,1907,238,238",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.469"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=2696,1638,274,266",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.425"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=899,2708,259,264",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.399"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=1482,2273,246,243",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.383"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=1754,3599,259,256",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.351"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=1940,3692,248,256",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.235"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302792/canvas/1#xywh=1651,2519,151,156",
+     "@type": "sc:Canvas",
+     "label": "道中豊年子供あそび",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.227"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302792/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "道中豊年子供あそび"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-2",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / （雛人形）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=3236,2376,146,184",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=1318,1329,133,189",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.782"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=1546,3676,133,172",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.767"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=2747,1280,138,189",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.669"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=891,3940,131,172",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.602"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=3164,3843,294,287",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.588"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=2637,3784,335,330",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.562"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=632,2163,476,471",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.436"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=2179,3901,131,177",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.331"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304019/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（雛人形）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-3",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 新板車つくし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304021/canvas/1#xywh=1398,952,230,233",
+     "@type": "sc:Canvas",
+     "label": "新板車つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.521"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304021/canvas/1#xywh=1651,4298,202,202",
+     "@type": "sc:Canvas",
+     "label": "新板車つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.488"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304021/canvas/1#xywh=3108,3254,212,212",
+     "@type": "sc:Canvas",
+     "label": "新板車つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.382"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304021/canvas/1#xywh=786,2358,264,251",
+     "@type": "sc:Canvas",
+     "label": "新板車つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.321"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304021/canvas/1#xywh=1841,2345,169,174",
+     "@type": "sc:Canvas",
+     "label": "新板車つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.238"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304021/canvas/1#xywh=3064,4175,87,115",
+     "@type": "sc:Canvas",
+     "label": "新板車つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.221"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304021/canvas/1#xywh=2258,3180,294,323",
+     "@type": "sc:Canvas",
+     "label": "新板車つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.211"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304021/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新板車つくし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-4",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 新板子供遊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=860,4232,95,115",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.745"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2207,4180,92,115",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.713"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2865,4298,84,102",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.712"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1879,4275,97,108",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.703"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=3228,4237,95,113",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.676"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2721,4224,92,102",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.667"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=3259,1155,84,95",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.662"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1211,4178,90,108",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.640"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1362,4257,87,108",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.628"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=786,1121,223,223",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.608"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2322,4186,230,233",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.582"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2970,1121,64,82",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.582"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=760,2652,233,228",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.556"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1700,4183,90,110",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.545"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1073,1139,259,248",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.536"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=3167,2668,79,92",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1260,991,256,264",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.527"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1590,1357,95,105",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.510"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1715,1004,220,225",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.505"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1180,2650,241,241",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.464"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2911,2650,210,207",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.442"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=3126,1203,161,169",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.423"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1516,973,197,195",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.415"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2619,2609,223,228",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.364"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2624,1531,202,197",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.357"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2970,1165,169,166",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.342"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2913,2929,141,146",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.325"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2980,1408,187,200",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.310"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=2276,1239,125,128",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.309"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304022/canvas/1#xywh=1907,1249,207,205",
+     "@type": "sc:Canvas",
+     "label": "新板子供遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.234"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304022/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新板子供遊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-5",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / （纏つくし）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=2913,1613,156,172",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.866"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=2591,1119,159,177",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.846"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=2442,3871,154,169",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.832"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=2240,2647,166,177",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.830"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=2225,1736,154,195",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=3031,3200,148,189",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.811"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1341,1231,154,169",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.809"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=2598,2365,141,156",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.807"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1239,1856,146,179",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.789"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1080,1188,154,166",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1623,3384,156,164",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1247,3313,136,174",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1001,1892,148,177",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.750"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1828,3845,151,177",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.733"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1134,3809,131,174",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.662"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=2839,2831,143,169",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.639"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=845,2604,154,174",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.580"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1462,2511,156,182",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.551"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=1902,1167,133,146",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.517"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304023/canvas/1#xywh=2980,3886,141,182",
+     "@type": "sc:Canvas",
+     "label": "（纏つくし）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.254"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304023/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（纏つくし）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-6",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 新板纏つくし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2852,2540,77,95",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.502"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2547,3942,340,335",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.497"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=888,2877,312,307",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.457"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2184,3574,174,174",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.416"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2220,1449,207,205",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.413"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2199,4086,164,169",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.373"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=799,1454,192,195",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.345"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=1664,2898,279,312",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.335"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=707,1836,364,364",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.332"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2982,3428,371,366",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.326"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2173,1984,182,197",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.244"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2209,955,207,205",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.234"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304025/canvas/1#xywh=2703,3087,79,100",
+     "@type": "sc:Canvas",
+     "label": "新板纏つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.201"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304025/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新板纏つくし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-7",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 東海道五十三次はんじ物",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=1656,2483,146,172",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.742"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=1068,3443,146,156",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.674"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=2225,3169,136,128",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.645"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=1646,3894,128,164",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.644"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=2237,3868,333,328",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.616"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=3087,2345,241,246",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.581"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=2450,1574,284,282",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.445"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=1175,1426,346,333",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.355"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304028/canvas/1#xywh=1039,3917,276,292",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次はんじ物",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.249"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304028/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東海道五十三次はんじ物"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-8",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 江戸名所はんじもの",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304029/canvas/1#xywh=1039,1006,108,146",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.729"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304029/canvas/1#xywh=2127,945,105,131",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.685"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304029/canvas/1#xywh=2627,1078,325,425",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.652"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304029/canvas/1#xywh=2852,1741,215,218",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.616"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304029/canvas/1#xywh=2289,3236,212,220",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.453"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304029/canvas/1#xywh=1528,2281,220,223",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.407"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304029/canvas/1#xywh=1062,3213,243,241",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.368"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304029/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所はんじもの"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-9",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 江戸名所はんじもの",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304030/canvas/1#xywh=2455,812,264,407",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.817"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304030/canvas/1#xywh=3172,2099,230,225",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.525"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304030/canvas/1#xywh=1979,591,361,366",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.496"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304030/canvas/1#xywh=2936,3656,384,361",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.469"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304030/canvas/1#xywh=2913,2816,256,251",
+     "@type": "sc:Canvas",
+     "label": "江戸名所はんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.468"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304030/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所はんじもの"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-10",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / しん板手あそひづくしはんじもの",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304031/canvas/1#xywh=3049,4183,133,151",
+     "@type": "sc:Canvas",
+     "label": "しん板手あそひづくしはんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.744"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304031/canvas/1#xywh=973,2061,118,136",
+     "@type": "sc:Canvas",
+     "label": "しん板手あそひづくしはんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.678"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304031/canvas/1#xywh=3397,2547,97,108",
+     "@type": "sc:Canvas",
+     "label": "しん板手あそひづくしはんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.620"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304031/canvas/1#xywh=1421,3195,223,225",
+     "@type": "sc:Canvas",
+     "label": "しん板手あそひづくしはんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.615"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304031/canvas/1#xywh=1958,2156,289,292",
+     "@type": "sc:Canvas",
+     "label": "しん板手あそひづくしはんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.574"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304031/canvas/1#xywh=1280,4541,269,264",
+     "@type": "sc:Canvas",
+     "label": "しん板手あそひづくしはんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.411"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304031/canvas/1#xywh=2122,2959,397,379",
+     "@type": "sc:Canvas",
+     "label": "しん板手あそひづくしはんじもの",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.271"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304031/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "しん板手あそひづくしはんじもの"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-11",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 子供遊出初之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307729/canvas/1#xywh=1413,986,113,115",
+     "@type": "sc:Canvas",
+     "label": "子供遊出初之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.337"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307729/canvas/1#xywh=1142,973,136,148",
+     "@type": "sc:Canvas",
+     "label": "子供遊出初之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.329"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307729/canvas/1#xywh=1539,934,148,146",
+     "@type": "sc:Canvas",
+     "label": "子供遊出初之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.281"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307729/canvas/1#xywh=809,1001,151,143",
+     "@type": "sc:Canvas",
+     "label": "子供遊出初之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.254"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307729/canvas/1#xywh=1782,1001,156,156",
+     "@type": "sc:Canvas",
+     "label": "子供遊出初之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.253"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307729/canvas/1#xywh=712,1641,118,123",
+     "@type": "sc:Canvas",
+     "label": "子供遊出初之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.210"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307729/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "子供遊出初之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-12",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / しんはん凧つくし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308014/canvas/1#xywh=2284,4017,123,131",
+     "@type": "sc:Canvas",
+     "label": "しんはん凧つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.729"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308014/canvas/1#xywh=2089,1016,97,143",
+     "@type": "sc:Canvas",
+     "label": "しんはん凧つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.659"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308014/canvas/1#xywh=2322,2629,90,105",
+     "@type": "sc:Canvas",
+     "label": "しんはん凧つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.538"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308014/canvas/1#xywh=2811,3904,253,248",
+     "@type": "sc:Canvas",
+     "label": "しんはん凧つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.411"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308014/canvas/1#xywh=940,3771,233,230",
+     "@type": "sc:Canvas",
+     "label": "しんはん凧つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.378"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308014/canvas/1#xywh=3197,1178,197,182",
+     "@type": "sc:Canvas",
+     "label": "しんはん凧つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.357"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308014/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "しんはん凧つくし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:omochae#sel-13",
+   "@type": "sc:Range",
+   "label": "おもちゃ絵 / 新板角力尽",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=2010,1047,197,248",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.892"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=1979,2452,182,236",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.848"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=1170,2463,164,215",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.838"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=2934,1001,172,264",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.828"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=2949,2455,187,238",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=2883,3904,164,228",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=1121,1019,182,246",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.786"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=2068,3909,151,189",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.765"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313431/canvas/1#xywh=1157,3899,164,197",
+     "@type": "sc:Canvas",
+     "label": "新板角力尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "おもちゃ絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.698"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1313431/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新板角力尽"
+   }
+  }
+ ]
+}

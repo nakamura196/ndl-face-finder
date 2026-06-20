@@ -1,0 +1,1573 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:jishameibutsu",
+ "@type": "cr:Curation",
+ "label": "江戸時代の寺社の名物品(顔 50点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:jishameibutsu#sel-1",
+   "@type": "sc:Range",
+   "label": "江戸時代の寺社の名物品 / 寺社境内名物集",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/9#xywh=5002,1078,229,337",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.847"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/9#xywh=4387,1136,265,364",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/9#xywh=4544,2972,355,458",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/11#xywh=2110,1383,323,418",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.575"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/11#xywh=1500,3596,292,269",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.328"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/12#xywh=1091,2231,409,418",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.533"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/12#xywh=2622,2326,162,216",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.505"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/12#xywh=2564,1396,256,256",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.467"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/12#xywh=1307,1437,233,224",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.304"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/13#xywh=4706,1450,512,759",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.791"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/13#xywh=3929,1769,665,988",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.622"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/13#xywh=1818,2299,296,377",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.327"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/16#xywh=5375,2487,269,337",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.780"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/16#xywh=3924,2101,754,768",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.500"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/17#xywh=1100,1859,732,876",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.267"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/19#xywh=5312,1675,961,1899",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.729"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/21#xywh=5078,988,269,319",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.765"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/24#xywh=4723,2505,440,458",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.534"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/24#xywh=1491,1509,534,826",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.429"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/24#xywh=2389,1917,409,642",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.399"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/24#xywh=4144,1378,543,566",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.358"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/25#xywh=1450,1697,795,786",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.451"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/27#xywh=2725,3610,418,359",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.505"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/29#xywh=2510,2986,184,211",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.780"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/29#xywh=1836,2941,175,207",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.699"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/53#xywh=2016,2716,305,368",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.782"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/53#xywh=1877,1975,220,328",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.606"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/53#xywh=1572,2546,287,427",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.562"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/53#xywh=2968,2002,265,323",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.518"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/53#xywh=1536,1149,485,485",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.472"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/53#xywh=1980,799,714,700",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.470"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/54#xywh=2281,2667,193,242",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.673"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/54#xywh=1944,3071,233,233",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.233"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=2294,3686,283,283",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.590"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=3085,1827,256,251",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.580"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=2734,2644,301,296",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.492"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=2645,1868,265,265",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.443"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=3251,2694,265,265",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.442"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=2806,3520,292,287",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.365"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=1235,2519,224,220",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.363"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=3260,3462,314,305",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.309"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=1648,3601,341,337",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.250"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/57#xywh=3008,988,292,283",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.217"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/58#xywh=4517,840,364,359",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.641"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/58#xywh=4095,817,265,269",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.574"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/58#xywh=5357,3731,355,341",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.563"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/58#xywh=5981,2600,247,242",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.557"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/58#xywh=5190,979,355,350",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.312"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/58#xywh=4099,2864,242,242",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.211"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2533378/canvas/63#xywh=2083,2088,382,404",
+     "@type": "sc:Canvas",
+     "label": "寺社境内名物集",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸時代の寺社の名物品"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.765"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2533378/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "寺社境内名物集"
+   }
+  }
+ ]
+}

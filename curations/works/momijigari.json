@@ -1,0 +1,789 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:momijigari",
+ "@type": "cr:Curation",
+ "label": "紅葉狩り(顔 22点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:momijigari#sel-1",
+   "@type": "sc:Range",
+   "label": "紅葉狩り / 名所江戸百景　請地秋葉の境内",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303297/canvas/1#xywh=1088,4060,90,92",
+     "@type": "sc:Canvas",
+     "label": "名所江戸百景　請地秋葉の境内",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.468"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303297/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "名所江戸百景　請地秋葉の境内"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:momijigari#sel-2",
+   "@type": "sc:Range",
+   "label": "紅葉狩り / 京都名所之内　通天橋ノ紅楓",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303492/canvas/1#xywh=4374,2238,131,123",
+     "@type": "sc:Canvas",
+     "label": "京都名所之内　通天橋ノ紅楓",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.550"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303492/canvas/1#xywh=3667,2733,146,150",
+     "@type": "sc:Canvas",
+     "label": "京都名所之内　通天橋ノ紅楓",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.489"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303492/canvas/1#xywh=3037,2676,207,219",
+     "@type": "sc:Canvas",
+     "label": "京都名所之内　通天橋ノ紅楓",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.373"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303492/canvas/1#xywh=3832,2276,111,111",
+     "@type": "sc:Canvas",
+     "label": "京都名所之内　通天橋ノ紅楓",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.300"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303492/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "京都名所之内　通天橋ノ紅楓"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:momijigari#sel-3",
+   "@type": "sc:Range",
+   "label": "紅葉狩り / 海案寺紅葉",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303604/canvas/1#xywh=1283,3592,110,141",
+     "@type": "sc:Canvas",
+     "label": "海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.609"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303604/canvas/1#xywh=2196,3502,123,138",
+     "@type": "sc:Canvas",
+     "label": "海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.527"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303604/canvas/1#xywh=2616,3548,197,192",
+     "@type": "sc:Canvas",
+     "label": "海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.418"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303604/canvas/1#xywh=2941,3423,151,148",
+     "@type": "sc:Canvas",
+     "label": "海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.327"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303604/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "海案寺紅葉"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:momijigari#sel-4",
+   "@type": "sc:Range",
+   "label": "紅葉狩り / 江戸の花名勝会　請地　番外　尾上栄三郎／秋葉の紅葉／秋葉",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305019/canvas/1#xywh=1300,4278,138,189",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　請地　番外　尾上栄三郎／秋葉の紅葉／秋葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "1863"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.824"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305019/canvas/1#xywh=2647,3645,412,568",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　請地　番外　尾上栄三郎／秋葉の紅葉／秋葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "1863"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.564"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305019/canvas/1#xywh=788,3661,364,361",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　請地　番外　尾上栄三郎／秋葉の紅葉／秋葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "1863"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.301"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305019/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸の花名勝会　請地　番外　尾上栄三郎／秋葉の紅葉／秋葉"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:momijigari#sel-5",
+   "@type": "sc:Range",
+   "label": "紅葉狩り / 東都名所女夫尽之内　真間女夫楓",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305517/canvas/1#xywh=1434,2132,906,1139",
+     "@type": "sc:Canvas",
+     "label": "東都名所女夫尽之内　真間女夫楓",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.770"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305517/canvas/1#xywh=3052,2947,108,138",
+     "@type": "sc:Canvas",
+     "label": "東都名所女夫尽之内　真間女夫楓",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.503"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305517/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都名所女夫尽之内　真間女夫楓"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:momijigari#sel-6",
+   "@type": "sc:Range",
+   "label": "紅葉狩り / 江戸自慢三十六興　海案寺紅葉",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305746/canvas/1#xywh=2504,2847,192,264",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.722"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305746/canvas/1#xywh=829,2980,82,100",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.602"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305746/canvas/1#xywh=980,3044,184,177",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.492"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305746/canvas/1#xywh=3021,3213,164,172",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.442"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305746/canvas/1#xywh=1636,3169,389,384",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　海案寺紅葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.439"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305746/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸自慢三十六興　海案寺紅葉"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:momijigari#sel-7",
+   "@type": "sc:Range",
+   "label": "紅葉狩り / 四季江都名所. 秋海案寺紅楓",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306164/canvas/1#xywh=1393,3471,161,164",
+     "@type": "sc:Canvas",
+     "label": "四季江都名所. 秋海案寺紅楓",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.548"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306164/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "四季江都名所. 秋海案寺紅楓"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:momijigari#sel-8",
+   "@type": "sc:Range",
+   "label": "紅葉狩り / 三十六佳撰",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/10#xywh=4567,3277,257,393",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.864"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/10#xywh=7561,3015,252,414",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "紅葉狩り"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541718/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三十六佳撰"
+   }
+  }
+ ]
+}

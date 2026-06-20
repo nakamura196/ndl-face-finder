@@ -1,0 +1,808 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:mushikiki",
+ "@type": "cr:Curation",
+ "label": "虫聞(顔 23点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:mushikiki#sel-1",
+   "@type": "sc:Range",
+   "label": "虫聞 / 東都名所. 道潅山虫聞之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303513/canvas/1#xywh=2281,2326,223,223",
+     "@type": "sc:Canvas",
+     "label": "東都名所. 道潅山虫聞之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.613"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303513/canvas/1#xywh=1732,2392,204,196",
+     "@type": "sc:Canvas",
+     "label": "東都名所. 道潅山虫聞之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.574"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303513/canvas/1#xywh=3790,1601,115,115",
+     "@type": "sc:Canvas",
+     "label": "東都名所. 道潅山虫聞之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.485"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303513/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都名所. 道潅山虫聞之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:mushikiki#sel-2",
+   "@type": "sc:Range",
+   "label": "虫聞 / 東都名所. 道潅山",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303543/canvas/1#xywh=4113,2203,276,276",
+     "@type": "sc:Canvas",
+     "label": "東都名所. 道潅山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.665"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303543/canvas/1#xywh=4316,1347,157,154",
+     "@type": "sc:Canvas",
+     "label": "東都名所. 道潅山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.571"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303543/canvas/1#xywh=2723,2683,215,211",
+     "@type": "sc:Canvas",
+     "label": "東都名所. 道潅山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.546"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303543/canvas/1#xywh=4067,1520,123,127",
+     "@type": "sc:Canvas",
+     "label": "東都名所. 道潅山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.523"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303543/canvas/1#xywh=2243,2395,242,242",
+     "@type": "sc:Canvas",
+     "label": "東都名所. 道潅山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.500"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303543/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都名所. 道潅山"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:mushikiki#sel-3",
+   "@type": "sc:Range",
+   "label": "虫聞 / 道潅やま虫聞",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303619/canvas/1#xywh=1958,3126,236,264",
+     "@type": "sc:Canvas",
+     "label": "道潅やま虫聞",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.827"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303619/canvas/1#xywh=1423,3561,184,238",
+     "@type": "sc:Canvas",
+     "label": "道潅やま虫聞",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.762"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303619/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "道潅やま虫聞"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:mushikiki#sel-4",
+   "@type": "sc:Range",
+   "label": "虫聞 / すず虫の声ふる夜の寝さめ哉",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304185/canvas/1#xywh=883,2066,256,392",
+     "@type": "sc:Canvas",
+     "label": "すず虫の声ふる夜の寝さめ哉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.810"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304185/canvas/1#xywh=2340,3220,279,392",
+     "@type": "sc:Canvas",
+     "label": "すず虫の声ふる夜の寝さめ哉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.664"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304185/canvas/1#xywh=2212,1638,251,340",
+     "@type": "sc:Canvas",
+     "label": "すず虫の声ふる夜の寝さめ哉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.576"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304185/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "すず虫の声ふる夜の寝さめ哉"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:mushikiki#sel-5",
+   "@type": "sc:Range",
+   "label": "虫聞 / 紫式部げんじかるた　廿八　野分",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305095/canvas/1#xywh=2534,2365,210,287",
+     "@type": "sc:Canvas",
+     "label": "紫式部げんじかるた　廿八　野分",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.837"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305095/canvas/1#xywh=1236,2793,151,164",
+     "@type": "sc:Canvas",
+     "label": "紫式部げんじかるた　廿八　野分",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.698"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305095/canvas/1#xywh=3203,2063,251,256",
+     "@type": "sc:Canvas",
+     "label": "紫式部げんじかるた　廿八　野分",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.678"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305095/canvas/1#xywh=1644,2030,348,351",
+     "@type": "sc:Canvas",
+     "label": "紫式部げんじかるた　廿八　野分",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.638"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305095/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "紫式部げんじかるた　廿八　野分"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:mushikiki#sel-6",
+   "@type": "sc:Range",
+   "label": "虫聞 / 江戸名所道外尽　二十　道潅山虫聞",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308279/canvas/1#xywh=2880,2895,123,141",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　二十　道潅山虫聞",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.774"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308279/canvas/1#xywh=3251,2947,115,154",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　二十　道潅山虫聞",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308279/canvas/1#xywh=2191,2959,269,292",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　二十　道潅山虫聞",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.277"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308279/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所道外尽　二十　道潅山虫聞"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:mushikiki#sel-7",
+   "@type": "sc:Range",
+   "label": "虫聞 / 鈴虫　三十八",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309404/canvas/1#xywh=1651,2644,269,297",
+     "@type": "sc:Canvas",
+     "label": "鈴虫　三十八",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.725"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309404/canvas/1#xywh=2734,1733,264,358",
+     "@type": "sc:Canvas",
+     "label": "鈴虫　三十八",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.674"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309404/canvas/1#xywh=1275,3374,236,282",
+     "@type": "sc:Canvas",
+     "label": "鈴虫　三十八",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "虫聞"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.583"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309404/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "鈴虫　三十八"
+   }
+  }
+ ]
+}

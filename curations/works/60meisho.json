@@ -1,0 +1,684 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:60meisho",
+ "@type": "cr:Curation",
+ "label": "六十余州名所図会(顔 19点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:60meisho#sel-1",
+   "@type": "sc:Range",
+   "label": "六十余州名所図会 / 六十余州名所図会　江戸　浅草市",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308319/canvas/1#xywh=2496,4360,154,159",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　江戸　浅草市",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.485"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308319/canvas/1#xywh=2184,4447,105,105",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　江戸　浅草市",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.256"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308319/canvas/1#xywh=2890,4549,123,128",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　江戸　浅草市",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.250"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308319/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "六十余州名所図会　江戸　浅草市"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:60meisho#sel-2",
+   "@type": "sc:Range",
+   "label": "六十余州名所図会 / 六十余州名所図会　伯耆　大野大山遠望",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308344/canvas/1#xywh=1034,3497,223,228",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　伯耆　大野大山遠望",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.248"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308344/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "六十余州名所図会　伯耆　大野大山遠望"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:60meisho#sel-3",
+   "@type": "sc:Range",
+   "label": "六十余州名所図会 / 六十余州名所図会　出雲　大社ほとほとの図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308345/canvas/1#xywh=1974,3684,230,228",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　出雲　大社ほとほとの図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.493"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308345/canvas/1#xywh=2455,3617,266,282",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　出雲　大社ほとほとの図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.314"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308345/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "六十余州名所図会　出雲　大社ほとほとの図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:60meisho#sel-4",
+   "@type": "sc:Range",
+   "label": "六十余州名所図会 / 六十余州名所図会　石見　高津山汐浜",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308346/canvas/1#xywh=1912,3738,97,92",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　石見　高津山汐浜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.263"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308346/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "六十余州名所図会　石見　高津山汐浜"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:60meisho#sel-5",
+   "@type": "sc:Range",
+   "label": "六十余州名所図会 / 六十余州名所図会　長門　下の関",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308354/canvas/1#xywh=2355,4047,136,133",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　長門　下の関",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.534"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308354/canvas/1#xywh=2619,4050,133,125",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　長門　下の関",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.527"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308354/canvas/1#xywh=3016,3604,113,118",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　長門　下の関",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.404"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308354/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "六十余州名所図会　長門　下の関"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:60meisho#sel-6",
+   "@type": "sc:Range",
+   "label": "六十余州名所図会 / 六十余州名所図会　讃岐　象頭山遠望",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308357/canvas/1#xywh=2593,4119,56,69",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　讃岐　象頭山遠望",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.586"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308357/canvas/1#xywh=2342,3832,110,118",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　讃岐　象頭山遠望",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.445"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308357/canvas/1#xywh=1805,3773,164,172",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　讃岐　象頭山遠望",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.385"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308357/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "六十余州名所図会　讃岐　象頭山遠望"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:60meisho#sel-7",
+   "@type": "sc:Range",
+   "label": "六十余州名所図会 / 六十余州名所図会　土佐　海上松魚釣",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308360/canvas/1#xywh=2604,2670,156,154",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　土佐　海上松魚釣",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.435"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308360/canvas/1#xywh=1239,3343,159,164",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　土佐　海上松魚釣",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.399"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308360/canvas/1#xywh=3315,2772,143,146",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　土佐　海上松魚釣",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.398"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308360/canvas/1#xywh=1234,3528,174,174",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　土佐　海上松魚釣",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.339"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308360/canvas/1#xywh=2240,3187,179,169",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　土佐　海上松魚釣",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.283"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308360/canvas/1#xywh=3131,2883,148,154",
+     "@type": "sc:Canvas",
+     "label": "六十余州名所図会　土佐　海上松魚釣",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "六十余州名所図会"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.214"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308360/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "六十余州名所図会　土佐　海上松魚釣"
+   }
+  }
+ ]
+}

@@ -4,6 +4,7 @@
 import { t, tVal } from "./site.js";
 
 export const FACET_DEFS = [
+  { key: "collection", i18n: "facet.collection" },
   { key: "theme", i18n: "facet.theme" },
   { key: "creator", i18n: "facet.creator" },
   { key: "era", i18n: "facet.era" },

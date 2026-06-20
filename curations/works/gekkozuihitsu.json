@@ -1,0 +1,1666 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:gekkozuihitsu",
+ "@type": "cr:Curation",
+ "label": "月耕随筆(顔 53点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:gekkozuihitsu#sel-1",
+   "@type": "sc:Range",
+   "label": "月耕随筆 / 月耕随筆",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/3#xywh=2429,1588,214,267",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.833"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/3#xywh=3151,1733,251,332",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.664"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/4#xywh=6479,2861,342,455",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.890"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/4#xywh=3114,2482,177,251",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/4#xywh=2841,3038,160,235",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.547"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/4#xywh=5414,1145,342,353",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.537"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/5#xywh=5029,2054,219,369",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/5#xywh=2370,3862,503,487",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.229"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/6#xywh=6645,3696,407,401",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.286"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/7#xywh=5024,2803,674,658",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.341"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/8#xywh=5955,2059,257,305",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.617"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/8#xywh=6404,2931,856,861",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.364"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/9#xywh=1653,4466,225,219",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.850"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/9#xywh=2937,2252,305,310",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.430"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/9#xywh=1118,3097,241,219",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.232"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/11#xywh=6126,1765,262,396",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.842"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/12#xywh=5971,1861,310,439",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.828"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/12#xywh=1134,2642,353,364",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.407"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/13#xywh=1552,3551,391,390",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.490"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/14#xywh=6056,3321,219,326",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/14#xywh=5115,2070,219,326",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.645"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/14#xywh=1573,540,321,316",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.427"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/14#xywh=4398,3204,305,300",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.277"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/15#xywh=2889,3412,262,348",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.853"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/16#xywh=5521,2375,615,615",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.586"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/16#xywh=5206,2984,268,273",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.337"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/17#xywh=2942,1952,278,374",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.877"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/17#xywh=6516,2065,251,316",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.654"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/18#xywh=2787,2182,514,792",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.800"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/18#xywh=5955,2166,241,369",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.524"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/19#xywh=5366,1102,380,497",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.822"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/19#xywh=1247,3214,128,160",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.566"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/20#xywh=6270,3428,177,251",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.600"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/21#xywh=5537,1519,262,369",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.556"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/21#xywh=1610,2236,476,497",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.351"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/22#xywh=2391,2690,278,283",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.426"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/23#xywh=2852,2920,155,230",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.423"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/23#xywh=6928,3418,364,460",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.314"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/24#xywh=7479,2289,198,230",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.768"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/24#xywh=6409,2027,214,278",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/24#xywh=6982,2508,209,267",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.746"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/24#xywh=5869,1776,182,273",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.706"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/24#xywh=6720,2530,166,219",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.685"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/24#xywh=5692,2963,235,316",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.651"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/24#xywh=1295,2845,310,305",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.239"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/25#xywh=2825,2642,449,455",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.553"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/25#xywh=3344,2744,155,166",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.373"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/25#xywh=3563,2706,160,160",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.250"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/25#xywh=5575,4070,118,123",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.201"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/26#xywh=2370,2257,278,423",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.718"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/26#xywh=1996,1407,348,348",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.597"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/26#xywh=7041,1460,209,246",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.543"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12768052/canvas/26#xywh=5377,2861,626,631",
+     "@type": "sc:Canvas",
+     "label": "月耕随筆",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月耕随筆"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.453"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12768052/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "月耕随筆"
+   }
+  }
+ ]
+}

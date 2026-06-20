@@ -1,0 +1,455 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:hatsugatsuo",
+ "@type": "cr:Curation",
+ "label": "初鰹(顔 12点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:hatsugatsuo#sel-1",
+   "@type": "sc:Range",
+   "label": "初鰹 / 十二ケ月の内　四月　ほとゝきす・かつほ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304722/canvas/1#xywh=1892,2051,323,443",
+     "@type": "sc:Canvas",
+     "label": "十二ケ月の内　四月　ほとゝきす・かつほ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.793"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304722/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ケ月の内　四月　ほとゝきす・かつほ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hatsugatsuo#sel-2",
+   "@type": "sc:Range",
+   "label": "初鰹 / 江戸の花名勝会　い　一番組　　　市川小団次／日本橋の初鰹／日本橋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305015/canvas/1#xywh=2322,1060,294,399",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　い　一番組　　　市川小団次／日本橋の初鰹／日本橋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.813"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305015/canvas/1#xywh=2552,3661,461,691",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　い　一番組　　　市川小団次／日本橋の初鰹／日本橋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.747"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305015/canvas/1#xywh=1756,1203,238,358",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　い　一番組　　　市川小団次／日本橋の初鰹／日本橋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.634"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305015/canvas/1#xywh=1178,3438,156,161",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　い　一番組　　　市川小団次／日本橋の初鰹／日本橋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.290"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305015/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸の花名勝会　い　一番組　　　市川小団次／日本橋の初鰹／日本橋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hatsugatsuo#sel-3",
+   "@type": "sc:Range",
+   "label": "初鰹 / 江戸自慢三十六興　日本橋初鰹",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305718/canvas/1#xywh=2708,3474,220,271",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　日本橋初鰹",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.901"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305718/canvas/1#xywh=1526,2547,233,276",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　日本橋初鰹",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.834"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305718/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸自慢三十六興　日本橋初鰹"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hatsugatsuo#sel-4",
+   "@type": "sc:Range",
+   "label": "初鰹 / 山海めで度図会　一枝もらいたい",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306542/canvas/1#xywh=1838,2386,609,883",
+     "@type": "sc:Canvas",
+     "label": "山海めで度図会　一枝もらいたい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.814"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306542/canvas/1#xywh=1605,1636,200,195",
+     "@type": "sc:Canvas",
+     "label": "山海めで度図会　一枝もらいたい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.216"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306542/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "山海めで度図会　一枝もらいたい"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hatsugatsuo#sel-5",
+   "@type": "sc:Range",
+   "label": "初鰹 / 山海目出たい図会 くせが直したい",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306555/canvas/1#xywh=1380,3154,709,737",
+     "@type": "sc:Canvas",
+     "label": "山海目出たい図会 くせが直したい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306555/canvas/1#xywh=991,2158,115,115",
+     "@type": "sc:Canvas",
+     "label": "山海目出たい図会 くせが直したい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.297"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306555/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "山海目出たい図会 くせが直したい"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hatsugatsuo#sel-6",
+   "@type": "sc:Range",
+   "label": "初鰹 / 十二月の内　卯月初時鳥",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307005/canvas/2#xywh=2747,2499,361,307",
+     "@type": "sc:Canvas",
+     "label": "十二月の内　卯月初時鳥",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "初鰹"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.614"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307005/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月の内　卯月初時鳥"
+   }
+  }
+ ]
+}

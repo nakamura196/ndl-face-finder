@@ -1,0 +1,2292 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:imasugata",
+ "@type": "cr:Curation",
+ "label": "いますがた(顔 55点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-1",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [1]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591660/canvas/2#xywh=2944,2589,1259,1108",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.704"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591660/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [1]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-2",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [2]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591661/canvas/2#xywh=3312,2602,807,1206",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [2]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.805"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591661/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [2]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-3",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [3]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591662/canvas/2#xywh=2361,2607,1275,1796",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [3]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.746"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591662/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [3]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-4",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [4]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591663/canvas/2#xywh=3414,2840,730,1260",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [4]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.726"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591663/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [4]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-5",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [5]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591664/canvas/2#xywh=3371,2862,1420,2132",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [5]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591664/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [5]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-6",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [6]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591665/canvas/2#xywh=2998,2526,689,1122",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [6]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.755"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591665/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [6]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-7",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [7]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591666/canvas/2#xywh=2737,3865,1349,1745",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [7]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.670"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591666/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [7]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-8",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [8]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591667/canvas/2#xywh=2924,3879,1236,1478",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [8]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.424"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591667/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [8]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-9",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [9]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591668/canvas/2#xywh=4254,2939,714,775",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [9]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591668/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [9]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-10",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [10]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591669/canvas/2#xywh=3678,2816,948,1324",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [10]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.660"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591669/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [10]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-11",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [11]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591670/canvas/2#xywh=3363,2964,860,1364",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [11]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.790"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591670/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [11]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-12",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [12]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591671/canvas/2#xywh=2724,3176,904,1060",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [12]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.587"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591671/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [12]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-13",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [13]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591672/canvas/2#xywh=3237,2390,904,1169",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [13]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.725"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591672/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [13]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-14",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [14]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591673/canvas/2#xywh=3145,3136,1435,1522",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [14]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.684"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591673/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [14]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-15",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [15]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591674/canvas/2#xywh=2015,3329,1413,2182",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [15]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.775"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591674/canvas/2#xywh=4633,5209,432,423",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [15]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.354"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591674/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [15]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-16",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [16]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591675/canvas/2#xywh=3637,2759,826,1233",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [16]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591675/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [16]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-17",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [17]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591676/canvas/2#xywh=2872,3114,1101,1036",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [17]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.683"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591676/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [17]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-18",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [18]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591677/canvas/2#xywh=3508,3111,1340,2142",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [18]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.788"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591677/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [18]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-19",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [19]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591678/canvas/2#xywh=3279,3191,1097,1369",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [19]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.684"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591678/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [19]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-20",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [20]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591679/canvas/2#xywh=3363,2688,1078,1667",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [20]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.689"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591679/canvas/2#xywh=5296,2841,148,144",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [20]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.225"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591679/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [20]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-21",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [21]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591680/canvas/2#xywh=3460,2756,792,1141",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [21]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591680/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [21]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-22",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [22]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591681/canvas/2#xywh=3371,2816,652,1031",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [22]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591681/canvas/2#xywh=4601,4556,410,621",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [22]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.667"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591681/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [22]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-23",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [23]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591682/canvas/2#xywh=2963,3607,1559,1965",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [23]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.740"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591682/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [23]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-24",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [24]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591683/canvas/2#xywh=3284,3680,1509,1613",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [24]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.582"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591683/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [24]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-25",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [25]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591684/canvas/2#xywh=3445,2983,975,1126",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [25]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.761"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591684/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [25]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-26",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [26]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591685/canvas/2#xywh=3203,2390,817,1159",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [26]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.711"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591685/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [26]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-27",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [27]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591686/canvas/2#xywh=3251,2619,622,1258",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [27]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.726"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591686/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [27]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-28",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [28]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591687/canvas/2#xywh=3632,2778,626,867",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [28]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.707"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591687/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [28]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-29",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [29]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591688/canvas/2#xywh=3425,3064,767,817",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [29]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591688/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [29]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-30",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [30]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591689/canvas/2#xywh=3706,2611,603,904",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [30]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591689/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [30]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-31",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [31]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591690/canvas/2#xywh=3536,2524,615,879",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [31]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591690/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [31]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-32",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [32]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591691/canvas/2#xywh=3030,2665,646,1020",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [32]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.634"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591691/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [32]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-33",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [33]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591692/canvas/2#xywh=3548,2891,692,881",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [33]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.731"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591692/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [33]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-34",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [34]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591693/canvas/2#xywh=3213,2406,665,1168",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [34]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591693/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [34]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-35",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [35]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591694/canvas/2#xywh=3887,2265,648,1049",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [35]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591694/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [35]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-36",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [36]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591695/canvas/2#xywh=3100,2647,831,1257",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [36]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591695/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [36]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-37",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [37]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591696/canvas/2#xywh=3453,2740,691,953",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [37]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.716"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591696/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [37]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-38",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [38]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591697/canvas/2#xywh=3057,2575,783,836",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [38]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.600"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591697/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [38]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-39",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [39]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591698/canvas/2#xywh=3522,3118,1297,1501",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [39]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.741"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591698/canvas/2#xywh=2821,4668,626,875",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [39]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.314"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591698/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [39]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-40",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [40]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591699/canvas/2#xywh=3851,4184,915,1546",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [40]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.766"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591699/canvas/2#xywh=1999,2807,902,1679",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [40]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.730"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591699/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [40]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-41",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [41]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591700/canvas/2#xywh=4085,2653,683,1229",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [41]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591700/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [41]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-42",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [42]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591701/canvas/2#xywh=3078,3549,1279,1674",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [42]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.692"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591701/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [42]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-43",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [43]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591702/canvas/2#xywh=2788,3642,1528,1846",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [43]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.696"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591702/canvas/2#xywh=3888,4674,916,921",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [43]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.312"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591702/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [43]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-44",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [44]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591703/canvas/2#xywh=2423,3261,1054,1763",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [44]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.645"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591703/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [44]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-45",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [45]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591704/canvas/2#xywh=3427,3089,810,961",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [45]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.791"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591704/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [45]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-46",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [46]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591705/canvas/2#xywh=3271,2954,1533,1528",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [46]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.676"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591705/canvas/2#xywh=3106,4125,871,885",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [46]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.475"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591705/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [46]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-47",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [47]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591706/canvas/2#xywh=3349,2754,995,1119",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [47]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.730"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591706/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [47]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:imasugata#sel-48",
+   "@type": "sc:Range",
+   "label": "いますがた / いますがた. [48]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2591707/canvas/2#xywh=2957,2613,692,784",
+     "@type": "sc:Canvas",
+     "label": "いますがた. [48]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "いますがた"
+      },
+      {
+       "label": "年",
+       "value": "1906"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.736"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2591707/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "いますがた. [48]"
+   }
+  }
+ ]
+}

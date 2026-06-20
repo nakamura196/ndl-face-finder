@@ -1,0 +1,1162 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:wakan100",
+ "@type": "cr:Curation",
+ "label": "和漢百物語(顔 29点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-1",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　小田春永",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311776/canvas/1#xywh=2470,3203,228,274",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　小田春永",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.544"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311776/canvas/1#xywh=2196,2332,248,364",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　小田春永",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.286"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311776/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　小田春永"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-2",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　登喜大四郎",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311777/canvas/1#xywh=1318,1871,248,300",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　登喜大四郎",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.685"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311777/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　登喜大四郎"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-3",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　雷震・順風耳・千里眼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311778/canvas/1#xywh=1539,2900,338,338",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　雷震・順風耳・千里眼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.333"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311778/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　雷震・順風耳・千里眼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-4",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　源頼光朝臣",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311779/canvas/1#xywh=1907,2752,317,369",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　源頼光朝臣",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.805"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311779/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　源頼光朝臣"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-5",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　清姫",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311780/canvas/1#xywh=1482,2312,200,358",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　清姫",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.591"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311780/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　清姫"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-6",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　大宅太郎光圀",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311781/canvas/1#xywh=1874,2939,276,338",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　大宅太郎光圀",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.650"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311781/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　大宅太郎光圀"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-7",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語 [酒呑童子]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311782/canvas/1#xywh=2470,1715,174,241",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語 [酒呑童子]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.847"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311782/canvas/1#xywh=1239,3725,179,259",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語 [酒呑童子]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.776"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311782/canvas/1#xywh=1892,2230,312,312",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語 [酒呑童子]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.658"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311782/canvas/1#xywh=2959,1723,161,202",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語 [酒呑童子]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.653"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311782/canvas/1#xywh=1421,2063,236,210",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語 [酒呑童子]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.448"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311782/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語 [酒呑童子]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-8",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　頓欲の婆々",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311783/canvas/1#xywh=1119,2348,292,346",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　頓欲の婆々",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.566"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311783/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　頓欲の婆々"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-9",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　小野川喜三郎",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311784/canvas/1#xywh=1769,2934,343,381",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　小野川喜三郎",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.801"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311784/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　小野川喜三郎"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-10",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　白藤源太",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311785/canvas/1#xywh=2020,2181,320,438",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　白藤源太",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.798"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311785/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　白藤源太"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-11",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　田原藤太秀郷・瀬田之竜女",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311786/canvas/1#xywh=2212,2970,343,335",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　田原藤太秀郷・瀬田之竜女",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.361"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311786/canvas/1#xywh=3092,3251,253,228",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　田原藤太秀郷・瀬田之竜女",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.285"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311786/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　田原藤太秀郷・瀬田之竜女"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-12",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　宮本無三四",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311787/canvas/1#xywh=1889,3274,243,269",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　宮本無三四",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.446"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311787/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　宮本無三四"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-13",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　貞信公",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311788/canvas/1#xywh=2179,2058,579,556",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　貞信公",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.482"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311788/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　貞信公"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-14",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　左馬之助光年",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311790/canvas/1#xywh=2007,2516,248,328",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　左馬之助光年",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311790/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　左馬之助光年"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-15",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　真柴大領久吉公",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311791/canvas/1#xywh=2189,2092,233,302",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　真柴大領久吉公",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.788"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311791/canvas/1#xywh=1521,2181,215,256",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　真柴大領久吉公",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.324"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311791/canvas/1#xywh=2022,2337,305,335",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　真柴大領久吉公",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.292"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311791/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　真柴大領久吉公"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-16",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　華陽夫人",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311793/canvas/1#xywh=2161,2138,246,366",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　華陽夫人",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.731"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311793/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　華陽夫人"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-17",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　楠多門丸正行",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311794/canvas/1#xywh=2273,2143,207,256",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　楠多門丸正行",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.690"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311794/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　楠多門丸正行"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-18",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　伊賀局・藤原仲成霊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311795/canvas/1#xywh=1774,3072,248,279",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　伊賀局・藤原仲成霊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.780"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311795/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　伊賀局・藤原仲成霊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-19",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　下部筆助",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311796/canvas/1#xywh=2429,3052,276,351",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　下部筆助",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.457"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311796/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　下部筆助"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-20",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　主馬介卜部季武",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311798/canvas/1#xywh=2181,2235,256,351",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　主馬介卜部季武",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.348"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311798/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　主馬介卜部季武"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:wakan100#sel-21",
+   "@type": "sc:Range",
+   "label": "和漢百物語 / 和漢百物語　仁木弾正直則",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311799/canvas/1#xywh=1953,2038,220,358",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　仁木弾正直則",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "和漢百物語"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.813"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311799/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　仁木弾正直則"
+   }
+  }
+ ]
+}

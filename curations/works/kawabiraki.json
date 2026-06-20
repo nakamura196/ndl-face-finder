@@ -1,0 +1,634 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:kawabiraki",
+ "@type": "cr:Curation",
+ "label": "川開き・花火(顔 17点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:kawabiraki#sel-1",
+   "@type": "sc:Range",
+   "label": "川開き・花火 / 東都名所両国橋之涼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301991/canvas/1#xywh=2102,1254,328,422",
+     "@type": "sc:Canvas",
+     "label": "東都名所両国橋之涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.561"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301991/canvas/1#xywh=2703,1679,253,248",
+     "@type": "sc:Canvas",
+     "label": "東都名所両国橋之涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.215"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1301991/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都名所両国橋之涼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kawabiraki#sel-2",
+   "@type": "sc:Range",
+   "label": "川開き・花火 / 両こく大花火",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303638/canvas/1#xywh=2588,2381,161,230",
+     "@type": "sc:Canvas",
+     "label": "両こく大花火",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.717"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303638/canvas/1#xywh=2975,3743,177,253",
+     "@type": "sc:Canvas",
+     "label": "両こく大花火",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.712"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303638/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "両こく大花火"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kawabiraki#sel-3",
+   "@type": "sc:Range",
+   "label": "川開き・花火 / 両国の花火",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305441/canvas/1#xywh=2040,1313,343,466",
+     "@type": "sc:Canvas",
+     "label": "両国の花火",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.744"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305441/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "両国の花火"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kawabiraki#sel-4",
+   "@type": "sc:Range",
+   "label": "川開き・花火 / (浮絵両国夜景ノ図)",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308053/canvas/1#xywh=1203,4588,77,115",
+     "@type": "sc:Canvas",
+     "label": "(浮絵両国夜景ノ図)",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.520"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308053/canvas/1#xywh=2391,2916,246,248",
+     "@type": "sc:Canvas",
+     "label": "(浮絵両国夜景ノ図)",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.426"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308053/canvas/1#xywh=2826,3412,82,125",
+     "@type": "sc:Canvas",
+     "label": "(浮絵両国夜景ノ図)",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.248"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308053/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "(浮絵両国夜景ノ図)"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kawabiraki#sel-5",
+   "@type": "sc:Range",
+   "label": "川開き・花火 / 江戸名勝図会　両国橋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309916/canvas/1#xywh=3246,4513,72,77",
+     "@type": "sc:Canvas",
+     "label": "江戸名勝図会　両国橋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.217"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309916/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名勝図会　両国橋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kawabiraki#sel-6",
+   "@type": "sc:Range",
+   "label": "川開き・花火 / 江戸八景　両国橋の夕照",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309958/canvas/1#xywh=1513,2714,146,146",
+     "@type": "sc:Canvas",
+     "label": "江戸八景　両国橋の夕照",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.228"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309958/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸八景　両国橋の夕照"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kawabiraki#sel-7",
+   "@type": "sc:Range",
+   "label": "川開き・花火 / あづまの花 江戸繪部類",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/13#xywh=2289,1550,267,424",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.582"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541121/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "あづまの花 江戸繪部類"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kawabiraki#sel-8",
+   "@type": "sc:Range",
+   "label": "川開き・花火 / 十二月の内 正月-六月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2224,4587,179,215",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1128,4532,135,179",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.729"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1077,824,160,212",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.728"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2385,2695,160,224",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.719"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1061,2769,179,224",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2279,875,154,218",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "川開き・花火"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.691"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369478/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月の内 正月-六月"
+   }
+  }
+ ]
+}

@@ -1,0 +1,7771 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:unainotomo",
+ "@type": "cr:Curation",
+ "label": "うないのとも(顔 248点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:unainotomo#sel-1",
+   "@type": "sc:Range",
+   "label": "うないのとも / うないのとも. 1",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/8#xywh=2117,1953,118,118",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.415"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/9#xywh=2390,1957,102,99",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.206"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/10#xywh=2102,1289,178,224",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.859"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/10#xywh=1574,1206,190,216",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.852"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/10#xywh=819,1627,118,171",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.761"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/10#xywh=4552,2169,99,137",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.698"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/10#xywh=4257,2863,99,106",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.518"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/11#xywh=4234,1532,269,383",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.814"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/11#xywh=3650,1312,258,375",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.741"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/12#xywh=1021,2492,205,265",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.746"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/12#xywh=1620,1035,250,334",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.616"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/12#xywh=4435,2973,175,174",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.412"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/14#xywh=3862,994,239,353",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.812"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/14#xywh=1730,1073,273,372",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.800"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/16#xywh=1904,2082,231,326",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.866"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/16#xywh=1335,2014,201,243",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.810"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/17#xywh=2322,1437,163,193",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.633"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/17#xywh=1923,1517,319,311",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.577"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/17#xywh=2003,2321,197,201",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.516"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/17#xywh=2345,2029,212,205",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.456"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/17#xywh=1920,2071,186,186",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.454"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/17#xywh=1703,2074,167,167",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.428"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/17#xywh=1730,2340,182,182",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.381"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/17#xywh=2143,2052,197,193",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.303"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/19#xywh=2382,2727,83,99",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.631"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/19#xywh=2064,2727,250,277",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.316"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/20#xywh=3498,1422,706,823",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.621"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/20#xywh=1848,1915,410,383",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.604"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/20#xywh=1043,2427,383,364",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.273"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/21#xywh=3456,1839,550,531",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.607"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/21#xywh=4044,2154,671,656",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.452"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/22#xywh=3748,2184,755,732",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.571"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/24#xywh=3760,1346,220,239",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/24#xywh=3149,2992,508,459",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.413"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/24#xywh=4424,2571,296,284",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.296"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/24#xywh=1233,2082,357,330",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.265"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=3350,1957,129,133",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.798"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=1320,2848,144,171",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.721"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=3885,1509,315,315",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.627"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=800,2093,277,277",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.486"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=4382,1513,353,341",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.483"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=1191,1430,228,228",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.442"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=2185,2859,379,387",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.279"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=994,2298,193,193",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.240"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=2352,1915,243,243",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.232"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/26#xywh=1760,2196,239,239",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.218"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/28#xywh=4712,2135,304,296",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.479"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/28#xywh=3574,1790,451,501",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.427"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/28#xywh=3433,2761,288,288",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.337"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/29#xywh=1142,2795,220,265",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.828"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/29#xywh=4002,1691,125,159",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.736"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/29#xywh=2079,1195,341,417",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.722"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/29#xywh=4268,1794,137,163",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.715"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/29#xywh=4681,2958,197,190",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.216"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/30#xywh=4276,2454,277,228",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/30#xywh=3490,1729,254,288",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.689"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/30#xywh=3737,1991,186,228",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.558"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339416/canvas/32#xywh=3911,1487,451,493",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1891"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.817"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/13339416/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "うないのとも. 1"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:unainotomo#sel-2",
+   "@type": "sc:Range",
+   "label": "うないのとも / うないのとも. 3",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/5#xywh=2062,2036,216,224",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.415"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/5#xywh=2355,1126,191,194",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.341"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/5#xywh=2256,1442,180,172",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.331"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/5#xywh=2113,1838,158,158",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.295"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/5#xywh=2891,1963,147,150",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.254"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/8#xywh=4432,2293,92,114",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.660"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/11#xywh=1977,1776,363,345",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.252"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/13#xywh=2840,1266,1886,2095",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.702"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/16#xywh=3929,2378,231,275",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.899"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/16#xywh=3262,2660,194,253",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.846"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/16#xywh=4568,2334,158,183",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.844"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/16#xywh=1757,2146,297,327",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.838"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/16#xywh=1354,1614,271,323",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/16#xywh=4711,2737,154,176",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.662"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/16#xywh=3625,1075,260,323",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.641"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/17#xywh=3621,2532,484,473",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.228"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/18#xywh=1867,2179,213,209",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.461"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/18#xywh=1644,2165,227,231",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.363"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/18#xywh=1471,2146,213,220",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.276"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/18#xywh=3999,2370,213,334",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.254"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/21#xywh=1952,2367,172,220",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.855"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/21#xywh=1368,2334,143,183",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.731"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/22#xywh=1203,2168,231,297",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.834"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/22#xywh=2069,1959,198,257",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/22#xywh=1519,1152,429,411",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.649"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/22#xywh=3324,1181,209,205",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.605"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/22#xywh=3082,1225,205,213",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.537"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/22#xywh=3694,1090,202,202",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.515"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/22#xywh=4010,1104,191,194",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.484"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/23#xywh=1475,1574,268,316",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.807"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/24#xywh=1486,1574,260,290",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.831"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/25#xywh=3614,1592,139,158",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.857"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/25#xywh=3401,1868,161,198",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.832"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/25#xywh=4131,2513,139,202",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/25#xywh=4017,2880,117,136",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/25#xywh=4157,1068,224,227",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.722"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/25#xywh=2040,1248,235,261",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.700"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/25#xywh=1145,3144,260,242",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.465"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/30#xywh=3617,1721,180,261",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.812"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/30#xywh=4160,2209,183,257",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.787"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/30#xywh=1119,1904,349,308",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.470"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/31#xywh=3940,1240,294,389",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.460"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/33#xywh=4006,980,282,393",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/33#xywh=3460,1262,260,286",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.810"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/33#xywh=1346,2110,253,305",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.599"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/34#xywh=1343,2102,205,216",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.863"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/34#xywh=4003,969,323,437",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.834"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/34#xywh=3467,1248,268,305",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/34#xywh=1581,2392,360,345",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.344"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/35#xywh=1295,1842,161,227",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.808"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/35#xywh=1933,2168,205,242",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.578"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339418/canvas/36#xywh=4450,1178,345,345",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.494"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/13339418/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "うないのとも. 3"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:unainotomo#sel-3",
+   "@type": "sc:Range",
+   "label": "うないのとも / うないのとも. 4",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/8#xywh=2242,2880,154,150",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.375"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/8#xywh=2043,2677,233,244",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.358"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/8#xywh=2254,2632,128,131",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.242"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/9#xywh=1450,1040,500,601",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.734"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/10#xywh=1427,1014,533,556",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.611"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/13#xywh=1247,1956,263,330",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.845"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/13#xywh=1968,2309,342,319",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.830"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/13#xywh=4184,1183,368,345",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.228"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/14#xywh=1976,2306,334,334",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.806"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/14#xywh=1251,1956,263,334",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.712"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/18#xywh=3005,1322,1818,2212",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/19#xywh=3054,1209,1773,2328",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.817"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/20#xywh=1548,1968,274,394",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.804"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/21#xywh=1548,1971,270,383",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.808"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/27#xywh=1709,2730,184,214",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.807"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/27#xywh=2164,1153,184,225",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.502"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/27#xywh=834,1776,616,601",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.488"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/29#xywh=1664,1326,492,578",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/30#xywh=1672,1359,492,556",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/31#xywh=3448,1900,120,169",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.846"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/31#xywh=1326,2704,94,116",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.711"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/31#xywh=1172,2798,86,113",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.648"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/31#xywh=1056,2640,169,169",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.640"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/32#xywh=4091,1341,203,244",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.811"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/32#xywh=1608,2768,195,233",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.738"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/32#xywh=3302,2231,214,248",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.700"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/32#xywh=1953,1341,293,394",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/33#xywh=4091,1337,218,252",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.789"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/33#xywh=3294,2231,233,248",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.731"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/33#xywh=1611,2760,188,222",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.667"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/33#xywh=1942,1318,293,376",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.542"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/33#xywh=973,2272,481,458",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.479"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/34#xywh=1784,2118,252,330",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/34#xywh=1371,1168,210,252",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.716"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/35#xywh=1784,2125,263,327",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.836"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/35#xywh=1375,1145,222,270",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.595"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/37#xywh=2092,1423,143,180",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/40#xywh=917,1040,188,180",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.537"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/40#xywh=2374,1168,192,199",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.534"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/41#xywh=2051,2392,169,240",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.878"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339419/canvas/41#xywh=1322,2178,158,214",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.765"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/13339419/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "うないのとも. 4"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:unainotomo#sel-4",
+   "@type": "sc:Range",
+   "label": "うないのとも / うないのとも. 5",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/8#xywh=1112,996,143,143",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.687"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/8#xywh=1037,2773,131,154",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.563"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/9#xywh=1348,1653,116,120",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.518"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/9#xywh=1131,2082,214,222",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.453"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/10#xywh=4297,1706,165,169",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.236"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/14#xywh=1059,853,515,492",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.620"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/15#xywh=1142,1901,207,271",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.872"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/15#xywh=2134,1800,233,286",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.814"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/15#xywh=4230,1251,199,293",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.691"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/15#xywh=3689,1259,180,248",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.682"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/15#xywh=1679,1060,218,274",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.596"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/16#xywh=1694,1056,199,240",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/16#xywh=2141,1841,222,244",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/16#xywh=1134,1879,214,282",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.688"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/16#xywh=3704,1251,158,229",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.662"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/16#xywh=4218,1236,195,293",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.624"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/17#xywh=1604,1405,346,410",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.743"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/18#xywh=4237,1882,255,293",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.874"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/18#xywh=1480,2149,289,361",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.857"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/18#xywh=3640,1552,203,297",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.846"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/19#xywh=4245,1867,259,304",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.881"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/19#xywh=1487,2149,267,349",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.868"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/19#xywh=3647,1548,207,301",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.856"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/21#xywh=4222,2127,413,485",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.728"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/21#xywh=3959,1278,297,346",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.609"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/21#xywh=3670,1353,282,349",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.553"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/21#xywh=3369,2641,424,361",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.324"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/22#xywh=1356,1958,210,274",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.896"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/22#xywh=1717,2506,210,256",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.796"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/24#xywh=1657,1518,184,267",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.897"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/25#xywh=1672,1525,173,259",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.899"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/27#xywh=3591,1830,278,338",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/27#xywh=1469,1210,331,357",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.413"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/27#xywh=4440,1537,451,545",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.250"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/28#xywh=1807,1285,503,383",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.405"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/29#xywh=3914,2217,488,455",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.397"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/30#xywh=3914,2202,563,451",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.264"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/31#xywh=3967,1634,259,458",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.345"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/31#xywh=1093,1154,563,627",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.295"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/33#xywh=1566,1905,289,346",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.837"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/34#xywh=1570,1905,289,338",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.824"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/35#xywh=1923,1541,214,229",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.636"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/39#xywh=3546,1777,627,488",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.527"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/39#xywh=4290,2690,225,240",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.305"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339420/canvas/40#xywh=3546,1770,665,492",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.319"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/13339420/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "うないのとも. 5"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:unainotomo#sel-5",
+   "@type": "sc:Range",
+   "label": "うないのとも / うないのとも. 10",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339423/canvas/8#xywh=1607,893,265,316",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 10",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.387"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13339423/canvas/17#xywh=3598,1998,194,273",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 10",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1924"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.798"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/13339423/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "うないのとも. 10"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:unainotomo#sel-6",
+   "@type": "sc:Range",
+   "label": "うないのとも / うないのとも. 6",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/8#xywh=1784,1926,274,289",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.413"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/8#xywh=2175,1250,252,252",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.254"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/10#xywh=2205,1356,169,203",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.503"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/10#xywh=2934,1566,361,353",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.239"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/11#xywh=2460,1829,312,312",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.517"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/12#xywh=1608,901,473,642",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.788"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/12#xywh=3689,1224,383,387",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.517"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/12#xywh=3490,2122,413,421",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.517"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/13#xywh=1525,864,548,717",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.650"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/13#xywh=3486,2133,413,417",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.400"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/13#xywh=3696,1239,353,360",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.224"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/14#xywh=1131,1630,451,522",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.376"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/15#xywh=4278,1780,316,417",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/15#xywh=3730,1371,270,319",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/16#xywh=3722,1356,289,327",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.833"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/16#xywh=4282,1765,327,436",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.789"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/17#xywh=3636,1266,473,473",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.500"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/19#xywh=1506,1885,255,315",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.853"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/20#xywh=1510,1878,252,323",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.861"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/21#xywh=3422,2531,192,195",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.840"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/21#xywh=3843,1397,124,131",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.628"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/21#xywh=4399,1356,237,229",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.349"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/25#xywh=1762,2407,252,323",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.846"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/25#xywh=1217,1615,248,282",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/25#xywh=3914,1070,511,635",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.585"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/25#xywh=1702,807,503,496",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.582"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/28#xywh=1540,965,447,537",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.728"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/28#xywh=1033,1866,248,304",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.662"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/29#xywh=1559,1806,285,376",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.817"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/30#xywh=1570,1806,274,376",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/33#xywh=3527,1431,864,879",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.679"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/35#xywh=1409,1239,383,424",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.740"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/35#xywh=999,2730,353,345",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.525"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/35#xywh=1826,2238,316,308",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.256"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/36#xywh=1089,2794,207,229",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.774"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/36#xywh=1424,1250,372,409",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.671"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/37#xywh=1495,2415,263,376",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.592"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/40#xywh=1401,1337,180,192",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.750"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/40#xywh=3538,2550,368,398",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.646"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/40#xywh=4301,1618,507,428",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.514"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/40#xywh=4019,2565,500,391",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.435"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/40#xywh=3482,1003,552,567",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.414"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/40#xywh=1957,946,349,432",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.290"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/41#xywh=3561,2557,353,394",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/41#xywh=4346,1630,439,447",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.625"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/41#xywh=1300,1217,357,345",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.617"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/41#xywh=4068,2640,458,334",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.510"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/41#xywh=1961,950,376,432",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.501"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/41#xywh=3471,991,593,597",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.403"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/13341136/canvas/45#xywh=3384,2933,289,327",
+     "@type": "sc:Canvas",
+     "label": "うないのとも. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "うないのとも"
+      },
+      {
+       "label": "年",
+       "value": "1913"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.476"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/13341136/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "うないのとも. 6"
+   }
+  }
+ ]
+}

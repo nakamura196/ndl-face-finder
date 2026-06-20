@@ -67,7 +67,7 @@ const DICT = {
     "search.empty": "該当する顔がありません。", "search.noWork": "該当するテーマがありません。",
     "search.footer": "顔カードのクリックでその顔を拡大表示、Curation List のクリックでテーマ全体をアノテーション一覧表示します。",
     "search.cardTitle": "クリックでこの顔を Viewer で拡大表示",
-    "facet.theme": "テーマ", "facet.creator": "作者", "facet.era": "年代", "facet.sex": "性別", "facet.conf": "信頼度", "facet.source": "検出器",
+    "facet.collection": "コレクション", "facet.theme": "テーマ", "facet.creator": "作者", "facet.era": "年代", "facet.sex": "性別", "facet.conf": "信頼度", "facet.source": "検出器",
     // gallery
     "gallery.tagline": "元画像と切り出した顔領域を並べて一覧 — クリックで Curation Viewer",
     "gallery.theme": "テーマ", "gallery.all": "すべて", "gallery.sort": "並び替え",
@@ -104,7 +104,7 @@ const DICT = {
     "search.empty": "No matching faces.", "search.noWork": "No matching themes.",
     "search.footer": "Click a face card to zoom to it; click a Curation List row to view the whole theme in annotation mode.",
     "search.cardTitle": "Click to zoom this face in the Viewer",
-    "facet.theme": "Theme", "facet.creator": "Creator", "facet.era": "Era", "facet.sex": "Sex", "facet.conf": "Confidence", "facet.source": "Detector",
+    "facet.collection": "Collection", "facet.theme": "Theme", "facet.creator": "Creator", "facet.era": "Era", "facet.sex": "Sex", "facet.conf": "Confidence", "facet.source": "Detector",
     "gallery.tagline": "Source images and cropped faces side by side — click for the Curation Viewer",
     "gallery.theme": "Theme", "gallery.all": "All", "gallery.sort": "Sort",
     "sort.facesDesc": "Most faces", "sort.facesAsc": "Fewest faces",
@@ -121,6 +121,7 @@ const VALUE_MAP = {
   "女性": { en: "Female" }, "男性": { en: "Male" }, "不明": { en: "Unknown" },
   "江戸": { en: "Edo" }, "明治": { en: "Meiji" }, "大正": { en: "Taishō" }, "昭和": { en: "Shōwa" },
   "高 (0.8+)": { en: "High (0.8+)" }, "中 (0.65–0.8)": { en: "Mid (0.65–0.8)" }, "低 (–0.65)": { en: "Low (–0.65)" },
+  "美人画": { en: "Bijin-ga (beauties)" }, "いろいろな絵（行事・妖怪・動物ほか）": { en: "Other subjects (events, yōkai, animals…)" },
 };
 export function tVal(label) {
   if (lang === "ja") return label;

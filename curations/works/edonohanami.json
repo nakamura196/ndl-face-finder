@@ -1,0 +1,4110 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:edonohanami",
+ "@type": "cr:Curation",
+ "label": "江戸の花見(顔 121点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-1",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 〔江戸名所〕",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301975/canvas/1#xywh=3118,3079,104,107",
+     "@type": "sc:Canvas",
+     "label": "〔江戸名所〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.449"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301975/canvas/1#xywh=2776,2960,108,107",
+     "@type": "sc:Canvas",
+     "label": "〔江戸名所〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.417"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301975/canvas/1#xywh=2173,2752,92,92",
+     "@type": "sc:Canvas",
+     "label": "〔江戸名所〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.332"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1301975/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "〔江戸名所〕"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-2",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸花見尽",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302000/canvas/1#xywh=1897,1260,307,461",
+     "@type": "sc:Canvas",
+     "label": "江戸花見尽",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.683"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302000/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸花見尽"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-3",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 東都飛鳥山",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303432/canvas/1#xywh=1349,3282,90,92",
+     "@type": "sc:Canvas",
+     "label": "東都飛鳥山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.519"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303432/canvas/1#xywh=3039,3727,97,105",
+     "@type": "sc:Canvas",
+     "label": "東都飛鳥山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.406"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303432/canvas/1#xywh=1160,3331,100,102",
+     "@type": "sc:Canvas",
+     "label": "東都飛鳥山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.269"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303432/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都飛鳥山"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-4",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 浪花名所図会　安井天神山花見",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303490/canvas/1#xywh=3694,1908,273,273",
+     "@type": "sc:Canvas",
+     "label": "浪花名所図会　安井天神山花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.610"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303490/canvas/1#xywh=3026,1812,215,207",
+     "@type": "sc:Canvas",
+     "label": "浪花名所図会　安井天神山花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.566"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303490/canvas/1#xywh=4696,2480,173,173",
+     "@type": "sc:Canvas",
+     "label": "浪花名所図会　安井天神山花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.478"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303490/canvas/1#xywh=4036,2142,200,196",
+     "@type": "sc:Canvas",
+     "label": "浪花名所図会　安井天神山花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.476"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303490/canvas/1#xywh=4908,2230,192,192",
+     "@type": "sc:Canvas",
+     "label": "浪花名所図会　安井天神山花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.434"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303490/canvas/1#xywh=2208,2280,173,180",
+     "@type": "sc:Canvas",
+     "label": "浪花名所図会　安井天神山花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.398"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303490/canvas/1#xywh=4389,1939,219,230",
+     "@type": "sc:Canvas",
+     "label": "浪花名所図会　安井天神山花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.388"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303490/canvas/1#xywh=2580,2537,192,196",
+     "@type": "sc:Canvas",
+     "label": "浪花名所図会　安井天神山花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.327"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303490/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "浪花名所図会　安井天神山花見"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-5",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸名所. 飛鳥山花見乃図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303545/canvas/1#xywh=3506,1670,115,146",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 飛鳥山花見乃図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.750"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303545/canvas/1#xywh=3479,2123,215,211",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 飛鳥山花見乃図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.563"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303545/canvas/1#xywh=3268,1839,246,234",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 飛鳥山花見乃図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.481"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303545/canvas/1#xywh=2815,2000,192,196",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 飛鳥山花見乃図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.472"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303545/canvas/1#xywh=3003,1919,184,173",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 飛鳥山花見乃図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.328"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303545/canvas/1#xywh=3844,1900,280,276",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 飛鳥山花見乃図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1853"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.315"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303545/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所. 飛鳥山花見乃図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-6",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸名所. 上野東叡山境内",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303546/canvas/1#xywh=3360,1939,96,142",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 上野東叡山境内",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.711"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303546/canvas/1#xywh=2580,1973,100,134",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 上野東叡山境内",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303546/canvas/1#xywh=3786,1797,230,223",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 上野東叡山境内",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.352"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303546/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所. 上野東叡山境内"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-7",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸名所. 御殿山花盛",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303547/canvas/1#xywh=1248,2411,77,111",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 御殿山花盛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.669"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303547/canvas/1#xywh=4047,2031,288,288",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 御殿山花盛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.634"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303547/canvas/1#xywh=3195,1601,342,345",
+     "@type": "sc:Canvas",
+     "label": "江戸名所. 御殿山花盛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.236"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303547/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所. 御殿山花盛"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-8",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 東叡山花さかり",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303637/canvas/1#xywh=2435,3041,223,310",
+     "@type": "sc:Canvas",
+     "label": "東叡山花さかり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.711"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303637/canvas/1#xywh=3167,2655,172,164",
+     "@type": "sc:Canvas",
+     "label": "東叡山花さかり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.394"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303637/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東叡山花さかり"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-9",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸名所上野団扇絵",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304392/canvas/1#xywh=2895,822,541,741",
+     "@type": "sc:Canvas",
+     "label": "江戸名所上野団扇絵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.840"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304392/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所上野団扇絵"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-10",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 十二ケ月の内　三月　花見",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304723/canvas/1#xywh=2209,1285,364,412",
+     "@type": "sc:Canvas",
+     "label": "十二ケ月の内　三月　花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304723/canvas/1#xywh=1055,3405,474,371",
+     "@type": "sc:Canvas",
+     "label": "十二ケ月の内　三月　花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304723/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ケ月の内　三月　花見"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-11",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 花",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305278/canvas/1#xywh=2772,1240,822,1493",
+     "@type": "sc:Canvas",
+     "label": "花",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.833"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305278/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "花"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-12",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸むらさき名所源氏御殿山花見　見立花の宴",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305417/canvas/1#xywh=2084,2988,230,317",
+     "@type": "sc:Canvas",
+     "label": "江戸むらさき名所源氏御殿山花見　見立花の宴",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.830"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305417/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸むらさき名所源氏御殿山花見　見立花の宴"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-13",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 隅田堤桜の木",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305442/canvas/1#xywh=2237,1316,279,461",
+     "@type": "sc:Canvas",
+     "label": "隅田堤桜の木",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.761"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305442/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "隅田堤桜の木"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-14",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸自慢三十六興　飛鳥山投土器",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305731/canvas/1#xywh=2089,2867,230,305",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　飛鳥山投土器",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.645"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305731/canvas/1#xywh=3011,3103,115,143",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　飛鳥山投土器",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305731/canvas/1#xywh=3190,3192,151,151",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　飛鳥山投土器",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.287"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305731/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸自慢三十六興　飛鳥山投土器"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-15",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 花の宴",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305914/canvas/1#xywh=1702,3476,412,412",
+     "@type": "sc:Canvas",
+     "label": "花の宴",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.534"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305914/canvas/1#xywh=2476,3379,236,243",
+     "@type": "sc:Canvas",
+     "label": "花の宴",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.441"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305914/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "花の宴"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-16",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 〔東都名所細絵〕",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306959/canvas/1#xywh=2821,2775,154,233",
+     "@type": "sc:Canvas",
+     "label": "〔東都名所細絵〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306959/canvas/1#xywh=1139,2749,164,228",
+     "@type": "sc:Canvas",
+     "label": "〔東都名所細絵〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.695"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306959/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "〔東都名所細絵〕"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-17",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 三囲みやげ桜餅",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307381/canvas/1#xywh=957,2962,379,374",
+     "@type": "sc:Canvas",
+     "label": "三囲みやげ桜餅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.597"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307381/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三囲みやげ桜餅"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-18",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸名所道戯尽　五　飛鳥山の花見",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308266/canvas/1#xywh=2278,3638,141,156",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　五　飛鳥山の花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.609"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308266/canvas/1#xywh=1672,3249,346,353",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　五　飛鳥山の花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.531"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308266/canvas/1#xywh=1434,3604,202,179",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　五　飛鳥山の花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.524"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308266/canvas/1#xywh=2980,3016,189,184",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　五　飛鳥山の花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.462"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308266/canvas/1#xywh=2368,4017,310,317",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　五　飛鳥山の花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.313"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308266/canvas/1#xywh=2908,3843,317,312",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　五　飛鳥山の花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.299"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308266/canvas/1#xywh=2903,2913,79,79",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　五　飛鳥山の花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.286"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308266/canvas/1#xywh=3392,2890,202,207",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　五　飛鳥山の花見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.244"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308266/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所道戯尽　五　飛鳥山の花見"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-19",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 江戸名所道戯尽　八　隅田堤の弥生",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308269/canvas/1#xywh=1147,3894,179,215",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　八　隅田堤の弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.728"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308269/canvas/1#xywh=1679,3784,148,197",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　八　隅田堤の弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.512"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308269/canvas/1#xywh=817,2616,366,366",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　八　隅田堤の弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.508"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308269/canvas/1#xywh=1331,2742,148,202",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道戯尽　八　隅田堤の弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.266"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308269/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所道戯尽　八　隅田堤の弥生"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-20",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 風流役者地顔五節句　三月之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308618/canvas/1#xywh=2350,2514,320,366",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　三月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.848"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308618/canvas/1#xywh=2916,3556,148,182",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　三月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.803"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308618/canvas/1#xywh=1741,952,271,271",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　三月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.513"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308618/canvas/1#xywh=891,1147,451,451",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　三月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.345"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308618/canvas/1#xywh=2253,945,305,287",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　三月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.343"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308618/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風流役者地顔五節句　三月之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-21",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 御殿山",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311368/canvas/1#xywh=1480,2685,394,381",
+     "@type": "sc:Canvas",
+     "label": "御殿山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.699"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311368/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "御殿山"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-22",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 仇競今様姿　隅田堤の桜",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311492/canvas/1#xywh=2025,1375,317,556",
+     "@type": "sc:Canvas",
+     "label": "仇競今様姿　隅田堤の桜",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311492/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "仇競今様姿　隅田堤の桜"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-23",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 清国南京人",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1312457/canvas/1#xywh=2566,1446,384,557",
+     "@type": "sc:Canvas",
+     "label": "清国南京人",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1312457/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "清国南京人"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-24",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 亜墨利加",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1312460/canvas/1#xywh=2238,1411,419,581",
+     "@type": "sc:Canvas",
+     "label": "亜墨利加",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.785"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1312460/canvas/1#xywh=1238,1885,86,90",
+     "@type": "sc:Canvas",
+     "label": "亜墨利加",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.313"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1312460/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "亜墨利加"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-25",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / あづまの花 江戸繪部類",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=4125,4179,260,260",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.512"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=3822,4112,188,194",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.492"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=6850,4058,400,400",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.405"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=6438,4058,436,424",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.351"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=7305,4457,448,436",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.350"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=3028,4197,212,273",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.335"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=2647,4227,333,327",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.277"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=7159,4058,394,400",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.261"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541121/canvas/45#xywh=3798,4385,267,266",
+     "@type": "sc:Canvas",
+     "label": "あづまの花 江戸繪部類",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.227"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541121/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "あづまの花 江戸繪部類"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-26",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 美人畫錦繪帖",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369180/canvas/15#xywh=3791,3298,501,675",
+     "@type": "sc:Canvas",
+     "label": "美人畫錦繪帖",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.599"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369180/canvas/15#xywh=6079,3803,517,492",
+     "@type": "sc:Canvas",
+     "label": "美人畫錦繪帖",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.403"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369180/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "美人畫錦繪帖"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-27",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 暦中段つくし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369491/canvas/1#xywh=1342,1793,392,548",
+     "@type": "sc:Canvas",
+     "label": "暦中段つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369491/canvas/1#xywh=3380,3288,405,445",
+     "@type": "sc:Canvas",
+     "label": "暦中段つくし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.456"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369491/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "暦中段つくし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-28",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / [四季の花見づくし]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2174,762,214,218",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.656"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=5922,1138,102,125",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.644"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1031,947,204,200",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.641"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1101,3204,237,237",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.628"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=5360,1347,84,111",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.619"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1287,1723,232,223",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.619"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=4761,975,251,246",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.616"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1821,734,237,237",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.614"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=6071,3928,265,265",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.611"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1700,3195,260,260",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.610"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1519,887,218,218",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.609"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=3502,1170,274,274",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.606"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2415,868,218,218",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.605"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=5699,1959,242,232",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.604"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=3488,2716,218,209",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.599"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=5133,2229,260,260",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.599"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=5105,3334,228,223",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.597"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=4761,3469,246,255",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.592"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=794,915,218,218",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.587"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=4427,3631,237,237",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.581"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1454,3111,218,209",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.579"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2606,2935,228,214",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.578"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2736,1802,237,223",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.561"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2290,2331,204,190",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.553"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=3739,2921,228,223",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.545"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2466,3886,246,237",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.533"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2374,2893,218,218",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=3971,980,209,200",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.528"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2127,2373,195,190",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.526"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2787,1147,246,246",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.514"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=5648,3418,228,232",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.510"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1928,4314,265,255",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.482"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=511,3877,237,228",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.464"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=3005,2860,232,223",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.456"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=729,2317,223,214",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.428"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=850,3975,237,237",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.425"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=3823,1328,246,237",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.391"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=492,1774,242,241",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.379"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=1621,4355,223,228",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.271"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2299,1760,209,204",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.246"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=2852,2874,163,167",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.240"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369554/canvas/1#xywh=3261,3111,293,283",
+     "@type": "sc:Canvas",
+     "label": "[四季の花見づくし]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.208"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369554/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "[四季の花見づくし]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:edonohanami#sel-29",
+   "@type": "sc:Range",
+   "label": "江戸の花見 / 十二ヶ月花合. 3",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369977/canvas/1#xywh=1650,2803,770,1040",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "江戸の花見"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.784"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369977/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 3"
+   }
+  }
+ ]
+}

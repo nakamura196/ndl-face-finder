@@ -1,0 +1,2149 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:joshi",
+ "@type": "cr:Curation",
+ "label": "上巳の節句（桃の節句、雛祭り）(顔 62点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-1",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 花川戸助六　河原崎権十郎・白酒売り　中村芝翫",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301355/canvas/1#xywh=1436,2122,732,1050",
+     "@type": "sc:Canvas",
+     "label": "花川戸助六　河原崎権十郎・白酒売り　中村芝翫",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1301355/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "花川戸助六　河原崎権十郎・白酒売り　中村芝翫"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-2",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 千代田之大奥　雛拝見",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=2724,2839,133,172",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=704,2376,243,243",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.568"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=1152,701,218,212",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.495"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=2353,694,218,212",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.453"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=2401,1206,151,151",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.439"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=3438,2796,164,172",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.384"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=3410,1843,143,148",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.379"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=2588,1531,95,100",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.378"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=763,1999,179,179",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.367"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=2442,2985,151,220",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.358"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=1208,1994,151,146",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.338"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=2145,1713,228,243",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.314"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=1667,1546,84,92",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.266"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=2473,1659,323,307",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.214"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=727,1267,120,123",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.212"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301732/canvas/3#xywh=1149,1244,131,138",
+     "@type": "sc:Canvas",
+     "label": "千代田之大奥　雛拝見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.207"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1301732/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "千代田之大奥　雛拝見"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-3",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 〔囃方の図〕",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303356/canvas/1#xywh=3921,1067,177,273",
+     "@type": "sc:Canvas",
+     "label": "〔囃方の図〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.882"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303356/canvas/1#xywh=4201,1985,180,280",
+     "@type": "sc:Canvas",
+     "label": "〔囃方の図〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.855"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303356/canvas/1#xywh=2039,998,177,296",
+     "@type": "sc:Canvas",
+     "label": "〔囃方の図〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.839"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303356/canvas/1#xywh=2964,1701,169,307",
+     "@type": "sc:Canvas",
+     "label": "〔囃方の図〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303356/canvas/1#xywh=1624,1939,173,253",
+     "@type": "sc:Canvas",
+     "label": "〔囃方の図〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.708"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303356/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "〔囃方の図〕"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-4",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 当盛見立三十六花撰　上巳の桃花雛鳥",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303886/canvas/1#xywh=2378,2399,668,1060",
+     "@type": "sc:Canvas",
+     "label": "当盛見立三十六花撰　上巳の桃花雛鳥",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.801"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303886/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当盛見立三十六花撰　上巳の桃花雛鳥"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-5",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / （雛人形）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=3236,2376,146,184",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=1318,1329,133,189",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.782"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=1546,3676,133,172",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.767"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=2747,1280,138,189",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.669"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=891,3940,131,172",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.602"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=3164,3843,294,287",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.588"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=2637,3784,335,330",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.562"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=632,2163,476,471",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.436"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304019/canvas/1#xywh=2179,3901,131,177",
+     "@type": "sc:Canvas",
+     "label": "（雛人形）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1857"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.331"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304019/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（雛人形）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-6",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / （桃の節句）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305286/canvas/1#xywh=1889,2181,340,430",
+     "@type": "sc:Canvas",
+     "label": "（桃の節句）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305286/canvas/1#xywh=676,2132,251,253",
+     "@type": "sc:Canvas",
+     "label": "（桃の節句）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.575"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305286/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（桃の節句）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-7",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 五節掛物ノ内三月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305458/canvas/1#xywh=2511,703,396,549",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.714"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305458/canvas/1#xywh=3187,1405,361,511",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.690"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305458/canvas/1#xywh=4332,1589,338,342",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.584"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305458/canvas/1#xywh=1114,964,330,322",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.549"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305458/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内三月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-8",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 十二月ノ内　弥生",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308908/canvas/1#xywh=1777,2222,323,443",
+     "@type": "sc:Canvas",
+     "label": "十二月ノ内　弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.638"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308908/canvas/1#xywh=998,2271,205,210",
+     "@type": "sc:Canvas",
+     "label": "十二月ノ内　弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.390"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308908/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月ノ内　弥生"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-9",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 上巳の桃花　雛鳥",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309118/canvas/1#xywh=2330,2307,694,1093",
+     "@type": "sc:Canvas",
+     "label": "上巳の桃花　雛鳥",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.793"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309118/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "上巳の桃花　雛鳥"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-10",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 時代かゞみ　明和之頃",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310050/canvas/1#xywh=1564,2703,1103,1431",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　明和之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1897"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310050/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "時代かゞみ　明和之頃"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-11",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 時代かゞみ 寛延頃",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310067/canvas/1#xywh=1669,2898,881,1339",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ 寛延頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310067/canvas/1#xywh=2755,1434,182,184",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ 寛延頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.547"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310067/canvas/1#xywh=2442,1242,64,90",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ 寛延頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.532"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310067/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "時代かゞみ 寛延頃"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-12",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 大日本六十余州　駿河　富士の白酒売",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311084/canvas/1#xywh=1736,2383,604,988",
+     "@type": "sc:Canvas",
+     "label": "大日本六十余州　駿河　富士の白酒売",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311084/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "大日本六十余州　駿河　富士の白酒売"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-13",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 黒手組助六・うしわか伝次・助六女房おまき・白酒うり新兵衛",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1312017/canvas/1#xywh=1664,1254,330,512",
+     "@type": "sc:Canvas",
+     "label": "黒手組助六・うしわか伝次・助六女房おまき・白酒うり新兵衛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.725"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1312017/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "黒手組助六・うしわか伝次・助六女房おまき・白酒うり新兵衛"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-14",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 三十六佳撰",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/16#xywh=4263,2868,283,346",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/16#xywh=3529,4016,252,346",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.739"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/16#xywh=7577,2726,619,613",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.571"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/16#xywh=3020,3046,267,273",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.561"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/16#xywh=2475,3172,189,194",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.534"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/16#xywh=3791,3240,147,147",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.442"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541718/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三十六佳撰"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-15",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / [助六由縁江戸桜]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542888/canvas/3#xywh=3733,2204,684,950",
+     "@type": "sc:Canvas",
+     "label": "[助六由縁江戸桜]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.775"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2542888/canvas/3#xywh=2470,3884,556,817",
+     "@type": "sc:Canvas",
+     "label": "[助六由縁江戸桜]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1884"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.673"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2542888/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "[助六由縁江戸桜]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-16",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 東風俗年中行事 三月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369438/canvas/1#xywh=1957,2714,729,980",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369438/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 三月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-17",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 今様五節句 三月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369451/canvas/1#xywh=2924,1810,368,623",
+     "@type": "sc:Canvas",
+     "label": "今様五節句 三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369451/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "今様五節句 三月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:joshi#sel-18",
+   "@type": "sc:Range",
+   "label": "上巳の節句（桃の節句、雛祭り） / 見振十二思ひ月 三月 かみ雛 宦女 はだかにんぎょう 犬はり子",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369462/canvas/1#xywh=1372,1455,231,330",
+     "@type": "sc:Canvas",
+     "label": "見振十二思ひ月 三月 かみ雛 宦女 はだかにんぎょう 犬はり子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.834"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369462/canvas/1#xywh=2961,1141,282,391",
+     "@type": "sc:Canvas",
+     "label": "見振十二思ひ月 三月 かみ雛 宦女 はだかにんぎょう 犬はり子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.756"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369462/canvas/1#xywh=3009,4301,337,417",
+     "@type": "sc:Canvas",
+     "label": "見振十二思ひ月 三月 かみ雛 宦女 はだかにんぎょう 犬はり子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369462/canvas/1#xywh=2372,997,337,423",
+     "@type": "sc:Canvas",
+     "label": "見振十二思ひ月 三月 かみ雛 宦女 はだかにんぎょう 犬はり子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369462/canvas/1#xywh=1090,4875,372,500",
+     "@type": "sc:Canvas",
+     "label": "見振十二思ひ月 三月 かみ雛 宦女 はだかにんぎょう 犬はり子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "上巳の節句（桃の節句、雛祭り）"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.498"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369462/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "見振十二思ひ月 三月 かみ雛 宦女 はだかにんぎょう 犬はり子"
+   }
+  }
+ ]
+}

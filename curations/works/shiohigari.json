@@ -1,0 +1,2373 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:shiohigari",
+ "@type": "cr:Curation",
+ "label": "潮干狩り・野遊び・摘草(顔 70点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-1",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 風俗四季哥仙 三月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/10317560/canvas/1#xywh=2191,2390,241,326",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.804"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/10317560/canvas/1#xywh=1412,1548,286,289",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.796"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/10317560/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 三月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-2",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / （潮干狩之図）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302025/canvas/1#xywh=4105,1981,104,134",
+     "@type": "sc:Canvas",
+     "label": "（潮干狩之図）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.523"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302025/canvas/1#xywh=2934,2342,369,357",
+     "@type": "sc:Canvas",
+     "label": "（潮干狩之図）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.476"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302025/canvas/1#xywh=4493,1927,92,146",
+     "@type": "sc:Canvas",
+     "label": "（潮干狩之図）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.230"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302025/canvas/1#xywh=1613,2422,100,131",
+     "@type": "sc:Canvas",
+     "label": "（潮干狩之図）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.212"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302025/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（潮干狩之図）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-3",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / ちよたの大奥　御遊山",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302664/canvas/1#xywh=2253,2266,307,466",
+     "@type": "sc:Canvas",
+     "label": "ちよたの大奥　御遊山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1895"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.680"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302664/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "ちよたの大奥　御遊山"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-4",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 洲さき汐干狩",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303600/canvas/1#xywh=1487,3725,125,166",
+     "@type": "sc:Canvas",
+     "label": "洲さき汐干狩",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.769"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303600/canvas/1#xywh=1039,3530,105,138",
+     "@type": "sc:Canvas",
+     "label": "洲さき汐干狩",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303600/canvas/1#xywh=2852,3215,215,215",
+     "@type": "sc:Canvas",
+     "label": "洲さき汐干狩",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.592"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303600/canvas/1#xywh=2255,3226,154,187",
+     "@type": "sc:Canvas",
+     "label": "洲さき汐干狩",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.447"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303600/canvas/1#xywh=2985,3617,197,200",
+     "@type": "sc:Canvas",
+     "label": "洲さき汐干狩",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.360"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303600/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "洲さき汐干狩"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-5",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 十二ケ月の内　二月　つみ草",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304718/canvas/1#xywh=1779,1864,348,430",
+     "@type": "sc:Canvas",
+     "label": "十二ケ月の内　二月　つみ草",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.477"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304718/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ケ月の内　二月　つみ草"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-6",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 江戸紫名所源氏洲崎潮尽狩 見立すま",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305423/canvas/1#xywh=1682,2417,212,353",
+     "@type": "sc:Canvas",
+     "label": "江戸紫名所源氏洲崎潮尽狩 見立すま",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.746"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305423/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸紫名所源氏洲崎潮尽狩 見立すま"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-7",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 江戸自慢三十六興　洲さき汐干かり",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305748/canvas/1#xywh=2427,2778,241,259",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　洲さき汐干かり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.635"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305748/canvas/1#xywh=824,3712,474,461",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　洲さき汐干かり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.330"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305748/canvas/1#xywh=1702,2680,133,138",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　洲さき汐干かり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.215"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305748/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸自慢三十六興　洲さき汐干かり"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-8",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 江戸名所道外尽　十二　洲崎の汐干",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308272/canvas/1#xywh=847,4293,148,179",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　十二　洲崎の汐干",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.798"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308272/canvas/1#xywh=3034,3159,389,397",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　十二　洲崎の汐干",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.458"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308272/canvas/1#xywh=1021,2908,230,230",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　十二　洲崎の汐干",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.411"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308272/canvas/1#xywh=1303,3351,366,369",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　十二　洲崎の汐干",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.407"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308272/canvas/1#xywh=1388,3018,220,218",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　十二　洲崎の汐干",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.403"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308272/canvas/1#xywh=2145,3430,323,323",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　十二　洲崎の汐干",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.385"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308272/canvas/1#xywh=681,3087,205,210",
+     "@type": "sc:Canvas",
+     "label": "江戸名所道外尽　十二　洲崎の汐干",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.283"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308272/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所道外尽　十二　洲崎の汐干"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-9",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 時代かゞみ　文久のころ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310058/canvas/1#xywh=1943,2949,942,1283",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　文久のころ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310058/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "時代かゞみ　文久のころ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-10",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 小供風俗　野遊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310144/canvas/1#xywh=2166,2432,195,284",
+     "@type": "sc:Canvas",
+     "label": "小供風俗　野遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.802"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310144/canvas/1#xywh=1193,2580,156,205",
+     "@type": "sc:Canvas",
+     "label": "小供風俗　野遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310144/canvas/1#xywh=878,3146,381,369",
+     "@type": "sc:Canvas",
+     "label": "小供風俗　野遊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.460"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310144/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "小供風俗　野遊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-11",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 小供風俗　汐干がり",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310152/canvas/1#xywh=1728,2527,218,261",
+     "@type": "sc:Canvas",
+     "label": "小供風俗　汐干がり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.867"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310152/canvas/1#xywh=3162,2860,113,138",
+     "@type": "sc:Canvas",
+     "label": "小供風俗　汐干がり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.742"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310152/canvas/1#xywh=2158,2867,179,223",
+     "@type": "sc:Canvas",
+     "label": "小供風俗　汐干がり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.664"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310152/canvas/1#xywh=2673,2985,230,236",
+     "@type": "sc:Canvas",
+     "label": "小供風俗　汐干がり",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.239"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310152/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "小供風俗　汐干がり"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-12",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 月花遊山双六",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=1452,1313,156,156",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.595"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=799,1541,141,146",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.549"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=1925,1364,138,143",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.545"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=3180,1482,164,161",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.523"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=980,1464,123,131",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.518"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=2378,1370,154,141",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.507"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=2122,4800,123,120",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.492"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=2117,1421,187,182",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.486"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=1669,1380,148,154",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.481"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=776,3338,131,125",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.456"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=1979,4874,100,105",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.441"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=1544,1569,179,177",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.402"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=1134,1626,161,164",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.383"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=2755,1482,353,287",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.338"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310662/canvas/1#xywh=2017,1948,82,84",
+     "@type": "sc:Canvas",
+     "label": "月花遊山双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.241"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310662/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "月花遊山双六"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-13",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / [ちりめん絵]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541094/canvas/3#xywh=4440,2450,165,179",
+     "@type": "sc:Canvas",
+     "label": "[ちりめん絵]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.776"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541094/canvas/3#xywh=6683,2271,537,794",
+     "@type": "sc:Canvas",
+     "label": "[ちりめん絵]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541094/canvas/3#xywh=1197,1546,248,344",
+     "@type": "sc:Canvas",
+     "label": "[ちりめん絵]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.714"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541094/canvas/3#xywh=4917,2372,161,183",
+     "@type": "sc:Canvas",
+     "label": "[ちりめん絵]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.589"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541094/canvas/3#xywh=3518,2771,188,275",
+     "@type": "sc:Canvas",
+     "label": "[ちりめん絵]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.563"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541094/canvas/3#xywh=2266,2381,234,298",
+     "@type": "sc:Canvas",
+     "label": "[ちりめん絵]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.543"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541094/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "[ちりめん絵]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-14",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 三十六佳撰",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/7#xywh=0,2763,241,362",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.696"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/7#xywh=4452,2705,603,613",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.548"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/7#xywh=5621,3838,110,110",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.234"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/17#xywh=5385,3214,215,267",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/17#xywh=5034,4189,210,267",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.722"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/17#xywh=0,2475,178,294",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.615"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/17#xywh=3602,3869,540,545",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.456"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541718/canvas/17#xywh=4326,2354,372,367",
+     "@type": "sc:Canvas",
+     "label": "三十六佳撰",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.426"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541718/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三十六佳撰"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-15",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 弥生",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369414/canvas/1#xywh=3306,2219,323,420",
+     "@type": "sc:Canvas",
+     "label": "弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369414/canvas/1#xywh=1665,1775,330,344",
+     "@type": "sc:Canvas",
+     "label": "弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.591"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369414/canvas/1#xywh=1434,3358,396,468",
+     "@type": "sc:Canvas",
+     "label": "弥生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.530"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369414/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "弥生"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:shiohigari#sel-16",
+   "@type": "sc:Range",
+   "label": "潮干狩り・野遊び・摘草 / 十二月の内 正月-六月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2224,4587,179,215",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1128,4532,135,179",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.729"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1077,824,160,212",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.728"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2385,2695,160,224",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.719"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1061,2769,179,224",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2279,875,154,218",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "潮干狩り・野遊び・摘草"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.691"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369478/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月の内 正月-六月"
+   }
+  }
+ ]
+}

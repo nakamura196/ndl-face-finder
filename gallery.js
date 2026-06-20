@@ -11,6 +11,7 @@ import {
 // 図版内の全顔から集約(いずれかの顔が該当すればその図版がヒット)。
 const figAccessor = (fig, key) => {
   switch (key) {
+    case "collection": return [fig.collection];
     case "theme": return [fig.theme];
     case "creator": return [fig.creator];
     case "era": return [fig.era];

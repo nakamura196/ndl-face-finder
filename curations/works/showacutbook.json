@@ -1,0 +1,2689 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:showacutbook",
+ "@type": "cr:Curation",
+ "label": "昭和初期のカット絵集『カットブック』(顔 86点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:showacutbook#sel-1",
+   "@type": "sc:Range",
+   "label": "昭和初期のカット絵集『カットブック』 / カットブック",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/5#xywh=741,1667,130,164",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.860"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/5#xywh=1025,635,184,224",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.719"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/6#xywh=3048,1079,67,83",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.627"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/6#xywh=3322,1262,93,107",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.613"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/6#xywh=3092,1202,70,83",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.548"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/6#xywh=3439,1095,80,100",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.528"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/6#xywh=1766,2411,457,441",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.497"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/6#xywh=3739,661,217,217",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.399"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/6#xywh=3242,1035,150,147",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.259"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/6#xywh=1699,1636,220,207",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.258"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/7#xywh=1773,1640,187,240",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.786"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/7#xywh=3693,728,140,194",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.666"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=1336,788,124,167",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.852"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=1492,621,137,180",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.830"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=801,912,177,187",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.814"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=1643,725,134,187",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=1910,661,110,144",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=3843,1586,130,160",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.669"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=1693,1610,90,120",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.598"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=3532,1566,254,250",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.333"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/8#xywh=1773,2542,154,157",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.261"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/9#xywh=2975,2271,114,127",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.799"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/9#xywh=3522,655,130,164",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.662"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/10#xywh=1659,741,274,424",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.602"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/10#xywh=2878,1770,260,351",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.541"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/10#xywh=554,2298,507,471",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.270"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/10#xywh=1165,581,134,137",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.216"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/11#xywh=3606,2598,294,411",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.789"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/11#xywh=2851,755,174,244",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.732"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/13#xywh=2961,1520,220,224",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.230"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/14#xywh=2634,2137,157,197",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.739"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/14#xywh=3165,1506,187,184",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.224"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/15#xywh=911,1386,144,184",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.858"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/16#xywh=1816,792,137,154",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.858"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/16#xywh=1786,2712,100,124",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.666"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/16#xywh=3890,661,70,90",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.532"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/18#xywh=1920,2127,167,184",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/18#xywh=3282,1172,154,154",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.248"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/18#xywh=2808,1129,150,150",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.215"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/19#xywh=3062,2228,421,544",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.513"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/19#xywh=3536,1396,184,177",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.386"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/20#xywh=2741,1653,124,127",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.411"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/22#xywh=3679,705,300,374",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/24#xywh=2554,1269,127,170",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.861"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/24#xywh=1058,548,197,234",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.712"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/26#xywh=1913,1276,90,127",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.768"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/26#xywh=3926,718,247,301",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.632"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/27#xywh=1987,1550,254,260",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.344"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/28#xywh=3686,2248,117,127",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.822"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/28#xywh=3903,604,157,174",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.702"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/28#xywh=828,1713,207,217",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.426"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/29#xywh=2020,745,150,227",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.735"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/30#xywh=1916,938,227,277",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.870"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/30#xywh=932,2091,314,424",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.787"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/30#xywh=4230,1596,124,167",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/30#xywh=1225,828,164,207",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.645"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/30#xywh=3843,601,457,434",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.395"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/31#xywh=3289,2799,150,180",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.558"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/32#xywh=1773,932,484,655",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.638"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/32#xywh=885,2348,120,147",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.621"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/32#xywh=1265,1927,227,230",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.427"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/32#xywh=2157,1964,240,234",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.381"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/32#xywh=1593,1780,614,615",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.228"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/34#xywh=3656,1439,170,220",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.660"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/34#xywh=1823,2722,284,294",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.479"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/34#xywh=4220,635,317,317",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.437"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/34#xywh=3322,1456,140,147",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.258"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/34#xywh=1008,1710,164,177",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.208"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/35#xywh=3392,2568,184,234",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.865"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/35#xywh=3252,1957,114,137",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.823"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/35#xywh=4260,735,160,207",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/35#xywh=3893,1473,110,110",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.267"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/36#xywh=1132,798,277,324",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.827"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/36#xywh=1045,2528,284,361",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.715"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/36#xywh=2107,608,217,314",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.600"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/37#xywh=3856,1980,214,244",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.735"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/37#xywh=3816,1122,130,184",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.700"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/37#xywh=3799,1533,160,237",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.658"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/37#xywh=1072,2632,307,461",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.596"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/37#xywh=4424,1690,83,107",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/37#xywh=2033,2331,274,364",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.242"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/38#xywh=1770,641,147,197",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.586"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/38#xywh=4224,2815,290,401",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.584"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/38#xywh=875,2114,194,194",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.456"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/38#xywh=4200,1773,314,314",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.324"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1187338/canvas/40#xywh=4190,1359,237,240",
+     "@type": "sc:Canvas",
+     "label": "カットブック",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "昭和初期のカット絵集『カットブック』"
+      },
+      {
+       "label": "年",
+       "value": "1929"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.241"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1187338/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "カットブック"
+   }
+  }
+ ]
+}

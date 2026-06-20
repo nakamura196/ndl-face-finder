@@ -1,0 +1,4639 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:genji54gekko",
+ "@type": "cr:Curation",
+ "label": "尾形月耕『源氏五十四帖』(顔 128点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-1",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　二　箒木",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305555/canvas/1#xywh=2007,2429,146,189",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二　箒木",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.821"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305555/canvas/1#xywh=2780,1815,297,300",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二　箒木",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.546"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305555/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　二　箒木"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-2",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　五　若紫",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305556/canvas/1#xywh=1487,2196,230,230",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五　若紫",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.628"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305556/canvas/1#xywh=940,2537,205,200",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五　若紫",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.528"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305556/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　五　若紫"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-3",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十四　明石",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305557/canvas/1#xywh=2227,2811,225,228",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十四　明石",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.639"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305557/canvas/1#xywh=3067,2647,202,200",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十四　明石",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.554"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305557/canvas/1#xywh=2698,2368,289,289",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十四　明石",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.552"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305557/canvas/1#xywh=2931,2488,236,243",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十四　明石",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.385"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305557/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十四　明石"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-4",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十八　松かせ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305558/canvas/1#xywh=2483,2854,115,156",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十八　松かせ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.605"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305558/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十八　松かせ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-5",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　二十一　朝顔",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305559/canvas/1#xywh=2524,3228,230,230",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二十一　朝顔",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.670"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305559/canvas/1#xywh=955,1930,504,492",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二十一　朝顔",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.607"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305559/canvas/1#xywh=1462,1695,271,276",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二十一　朝顔",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.567"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305559/canvas/1#xywh=2847,3351,266,269",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二十一　朝顔",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.469"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305559/canvas/1#xywh=1869,3530,282,284",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二十一　朝顔",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.360"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305559/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　二十一　朝顔"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-6",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　廿三　初音",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305560/canvas/1#xywh=3156,2235,128,172",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿三　初音",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.787"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305560/canvas/1#xywh=1403,2726,230,236",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿三　初音",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.481"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305560/canvas/1#xywh=2491,3174,205,200",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿三　初音",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.306"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305560/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　廿三　初音"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-7",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　廿七　かかり火",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305561/canvas/1#xywh=2437,3589,136,189",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿七　かかり火",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.704"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305561/canvas/1#xywh=2199,2196,172,223",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿七　かかり火",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.422"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305561/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　廿七　かかり火"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-8",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　廿九　御幸",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305562/canvas/1#xywh=3144,3725,256,259",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿九　御幸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.536"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305562/canvas/1#xywh=1027,3341,205,210",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿九　御幸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.519"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305562/canvas/1#xywh=1638,2588,197,207",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿九　御幸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.476"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305562/canvas/1#xywh=1434,3663,202,205",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿九　御幸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.422"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305562/canvas/1#xywh=1413,2862,241,233",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿九　御幸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.202"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305562/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　廿九　御幸"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-9",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　卅二　梅枝",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305563/canvas/1#xywh=2593,2337,146,192",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅二　梅枝",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.801"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305563/canvas/1#xywh=2939,2865,115,210",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅二　梅枝",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.676"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305563/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　卅二　梅枝"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-10",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　卅六　柏木",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305564/canvas/1#xywh=1408,2688,476,468",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅六　柏木",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.629"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305564/canvas/1#xywh=2355,3141,315,312",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅六　柏木",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.612"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305564/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　卅六　柏木"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-11",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　卅八　鈴虫",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305565/canvas/1#xywh=1751,2788,310,312",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅八　鈴虫",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.555"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305565/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　卅八　鈴虫"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-12",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十　御法",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305566/canvas/1#xywh=1723,2429,148,212",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十　御法",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.739"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305566/canvas/1#xywh=1108,1851,205,207",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十　御法",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.478"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305566/canvas/1#xywh=1111,2012,210,202",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十　御法",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.473"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305566/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十　御法"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-13",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十六　椎本",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305567/canvas/1#xywh=2388,3018,489,497",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十六　椎本",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305567/canvas/1#xywh=1219,2734,325,333",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十六　椎本",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.493"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305567/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十六　椎本"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-14",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十八　早蕨",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305568/canvas/1#xywh=1405,2122,154,243",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十八　早蕨",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.606"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305568/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十八　早蕨"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-15",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十二　匂宮",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305569/canvas/1#xywh=2685,2711,172,248",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十二　匂宮",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305569/canvas/1#xywh=1467,3384,343,340",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十二　匂宮",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.401"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305569/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十二　匂宮"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-16",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　卅四　若菜上",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305570/canvas/1#xywh=1370,3082,138,202",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅四　若菜上",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.839"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305570/canvas/1#xywh=2936,2734,97,123",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅四　若菜上",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.692"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305570/canvas/1#xywh=2583,1853,215,215",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅四　若菜上",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.588"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305570/canvas/1#xywh=3087,2790,271,271",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅四　若菜上",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.539"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305570/canvas/1#xywh=2284,2578,223,223",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅四　若菜上",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.526"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305570/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　卅四　若菜上"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-17",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　八　花宴",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305571/canvas/1#xywh=2583,2819,476,494",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　八　花宴",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.607"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305571/canvas/1#xywh=1344,2476,100,123",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　八　花宴",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.589"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305571/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　八　花宴"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-18",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　廿四　胡蝶",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305572/canvas/1#xywh=1464,2414,315,312",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿四　胡蝶",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.449"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305572/canvas/1#xywh=2642,2813,364,387",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿四　胡蝶",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.317"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305572/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　廿四　胡蝶"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-19",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　一　桐壷",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305573/canvas/1#xywh=3254,2947,95,128",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　一　桐壷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.686"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305573/canvas/1#xywh=2714,2112,210,207",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　一　桐壷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.591"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305573/canvas/1#xywh=2655,2977,100,102",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　一　桐壷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.463"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305573/canvas/1#xywh=1226,2314,182,184",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　一　桐壷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.434"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305573/canvas/1#xywh=929,2947,274,294",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　一　桐壷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.330"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305573/canvas/1#xywh=1746,2573,287,282",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　一　桐壷",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.253"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305573/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　一　桐壷"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-20",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　五十四　夢浮橋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305574/canvas/1#xywh=2908,2621,118,154",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五十四　夢浮橋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.803"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305574/canvas/1#xywh=1907,2673,118,138",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五十四　夢浮橋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.640"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305574/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　五十四　夢浮橋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-21",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　六　末摘花",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305575/canvas/1#xywh=2524,2872,138,172",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　六　末摘花",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.782"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305575/canvas/1#xywh=2514,3162,195,189",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　六　末摘花",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.260"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305575/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　六　末摘花"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-22",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四　夕皃",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305576/canvas/1#xywh=2716,2483,238,238",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四　夕皃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.586"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305576/canvas/1#xywh=1234,2737,364,358",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四　夕皃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305576/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四　夕皃"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-23",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　三　空蝉",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305577/canvas/1#xywh=2734,3077,133,177",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　三　空蝉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.745"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305577/canvas/1#xywh=1249,2051,215,223",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　三　空蝉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.541"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305577/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　三　空蝉"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-24",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖 廿二 玉葛",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305578/canvas/1#xywh=1283,2061,202,195",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖 廿二 玉葛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.464"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305578/canvas/1#xywh=2086,1677,284,282",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖 廿二 玉葛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.361"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305578/canvas/1#xywh=1961,1623,97,97",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖 廿二 玉葛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.315"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305578/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖 廿二 玉葛"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-25",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十三　澪標",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305579/canvas/1#xywh=1700,2949,113,143",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十三　澪標",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305579/canvas/1#xywh=1111,3146,87,148",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十三　澪標",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.544"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305579/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十三　澪標"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-26",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十一　花散里",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305583/canvas/1#xywh=2806,2614,138,195",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十一　花散里",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.666"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305583/canvas/1#xywh=1167,1590,371,384",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十一　花散里",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.643"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305583/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十一　花散里"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-27",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　九　葵",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305584/canvas/1#xywh=2657,2977,118,169",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　九　葵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.715"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305584/canvas/1#xywh=832,3753,236,236",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　九　葵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.562"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305584/canvas/1#xywh=1487,2499,284,284",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　九　葵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.425"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305584/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　九　葵"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-28",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十五　蓬生",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305585/canvas/1#xywh=2629,2301,118,169",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十五　蓬生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.828"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305585/canvas/1#xywh=2998,2148,128,169",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十五　蓬生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.716"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305585/canvas/1#xywh=1592,2785,492,484",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十五　蓬生",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.473"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305585/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十五　蓬生"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-29",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　二十一　乙女",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305586/canvas/1#xywh=2875,2250,133,179",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二十一　乙女",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.654"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305586/canvas/1#xywh=1974,2555,300,292",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　二十一　乙女",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.483"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305586/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　二十一　乙女"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-30",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十九　うす雲",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305587/canvas/1#xywh=1477,1984,479,474",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十九　うす雲",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.647"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305587/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十九　うす雲"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-31",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十七　絵合",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305588/canvas/1#xywh=2516,3292,143,182",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十七　絵合",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.778"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305588/canvas/1#xywh=1674,3576,120,192",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十七　絵合",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.690"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305588/canvas/1#xywh=1162,3205,131,210",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十七　絵合",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.653"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305588/canvas/1#xywh=2872,2604,266,261",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十七　絵合",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.438"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305588/canvas/1#xywh=1175,2468,243,241",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十七　絵合",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.431"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305588/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十七　絵合"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-32",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　廿八　野分",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305589/canvas/1#xywh=2872,1556,138,220",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿八　野分",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.745"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305589/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　廿八　野分"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-33",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　五十二　蜻蛉",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305590/canvas/1#xywh=1536,1917,123,189",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五十二　蜻蛉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305590/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　五十二　蜻蛉"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-34",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　廿六　常夏",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305591/canvas/1#xywh=2752,2107,276,276",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿六　常夏",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.519"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305591/canvas/1#xywh=1754,2112,307,310",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿六　常夏",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.406"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305591/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　廿六　常夏"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-35",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　〔卅七〕　横笛",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305592/canvas/1#xywh=1400,2964,287,284",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　〔卅七〕　横笛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.479"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305592/canvas/1#xywh=2665,2181,543,522",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　〔卅七〕　横笛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.239"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305592/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　〔卅七〕　横笛"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-36",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　三十　蘭",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305593/canvas/1#xywh=2506,2235,561,543",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　三十　蘭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.589"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305593/canvas/1#xywh=1590,1664,292,297",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　三十　蘭",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.498"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305593/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　三十　蘭"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-37",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　卅五　若菜下",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305594/canvas/1#xywh=1121,2634,266,269",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅五　若菜下",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.704"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305594/canvas/1#xywh=1467,2888,300,302",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅五　若菜下",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305594/canvas/1#xywh=2706,2324,351,348",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅五　若菜下",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.507"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305594/canvas/1#xywh=1838,2706,274,279",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅五　若菜下",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.445"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305594/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　卅五　若菜下"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-38",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　卅三　藤裏葉",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305595/canvas/1#xywh=2391,2729,128,156",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅三　藤裏葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305595/canvas/1#xywh=1615,2929,128,179",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅三　藤裏葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.760"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305595/canvas/1#xywh=980,2232,113,156",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅三　藤裏葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.758"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305595/canvas/1#xywh=1408,2452,118,159",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅三　藤裏葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.742"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305595/canvas/1#xywh=3405,2954,220,228",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅三　藤裏葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.447"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305595/canvas/1#xywh=3054,3034,456,461",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅三　藤裏葉",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.439"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305595/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　卅三　藤裏葉"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-39",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　卅〔一〕　真木柱",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305596/canvas/1#xywh=2378,1889,292,289",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅〔一〕　真木柱",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.384"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305596/canvas/1#xywh=2952,3146,320,320",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅〔一〕　真木柱",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.374"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305596/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　卅〔一〕　真木柱"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-40",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　廿五　蛍",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305597/canvas/1#xywh=2470,2381,535,520",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　廿五　蛍",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.573"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305597/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　廿五　蛍"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-41",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　五十一　浮舟",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305598/canvas/1#xywh=2309,2854,300,297",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五十一　浮舟",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1895"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.513"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305598/canvas/1#xywh=2857,3069,261,264",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五十一　浮舟",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1895"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.417"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305598/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　五十一　浮舟"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-42",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十三　紅梅",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305599/canvas/1#xywh=2248,2924,151,187",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十三　紅梅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305599/canvas/1#xywh=1088,2319,292,294",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十三　紅梅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.370"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305599/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十三　紅梅"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-43",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十一　幻",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305600/canvas/1#xywh=1265,2854,640,594",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十一　幻",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.309"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305600/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十一　幻"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-44",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　卅九　夕霧",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305601/canvas/1#xywh=1380,2629,143,207",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　卅九　夕霧",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.578"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305601/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　卅九　夕霧"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-45",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十四　竹川",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305602/canvas/1#xywh=2437,2934,141,202",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十四　竹川",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305602/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十四　竹川"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-46",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十九　宿木",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305603/canvas/1#xywh=1940,2555,509,502",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十九　宿木",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.531"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305603/canvas/1#xywh=2857,2058,228,233",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十九　宿木",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.433"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305603/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十九　宿木"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-47",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　〔四十七〕　総角",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305604/canvas/1#xywh=2196,2281,161,228",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　〔四十七〕　総角",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.791"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305604/canvas/1#xywh=3080,2767,315,312",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　〔四十七〕　総角",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.595"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305604/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　〔四十七〕　総角"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-48",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　四十五　橋姫",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305605/canvas/1#xywh=1372,2033,143,223",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十五　橋姫",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.811"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305605/canvas/1#xywh=1897,2624,458,453",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　四十五　橋姫",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1893"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.444"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305605/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　四十五　橋姫"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-49",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　五十　東屋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305606/canvas/1#xywh=1585,2826,146,151",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五十　東屋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1894"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.412"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305606/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　五十　東屋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-50",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　五十三　手習",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305607/canvas/1#xywh=2504,2348,261,266",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　五十三　手習",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1895"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.474"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305607/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　五十三　手習"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-51",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十六　関屋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305608/canvas/1#xywh=2693,3348,253,259",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十六　関屋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.592"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305608/canvas/1#xywh=2030,3896,92,105",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十六　関屋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.551"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305608/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十六　関屋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-52",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十二　須磨",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305609/canvas/1#xywh=1859,2353,123,223",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十二　須磨",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.755"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305609/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十二　須磨"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-53",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　七　紅葉賀",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305610/canvas/1#xywh=2337,2732,366,361",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　七　紅葉賀",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.526"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305610/canvas/1#xywh=1684,2493,392,392",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　七　紅葉賀",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.516"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305610/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　七　紅葉賀"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-54",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏五十四帖　十　榊",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305614/canvas/1#xywh=2737,2949,131,179",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十　榊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305614/canvas/1#xywh=1362,2829,87,146",
+     "@type": "sc:Canvas",
+     "label": "源氏五十四帖　十　榊",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1892"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.581"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305614/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏五十四帖　十　榊"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:genji54gekko#sel-55",
+   "@type": "sc:Range",
+   "label": "尾形月耕『源氏五十四帖』 / 源氏物語絵詞. [1]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2590780/canvas/7#xywh=6651,1847,331,332",
+     "@type": "sc:Canvas",
+     "label": "源氏物語絵詞. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.539"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2590780/canvas/7#xywh=4867,4410,226,216",
+     "@type": "sc:Canvas",
+     "label": "源氏物語絵詞. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.423"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2590780/canvas/7#xywh=2515,4131,495,510",
+     "@type": "sc:Canvas",
+     "label": "源氏物語絵詞. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.262"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2590780/canvas/10#xywh=3005,2300,232,237",
+     "@type": "sc:Canvas",
+     "label": "源氏物語絵詞. [1]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "尾形月耕『源氏五十四帖』"
+      },
+      {
+       "label": "年",
+       "value": "1911"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.385"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2590780/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "源氏物語絵詞. [1]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,736 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:calendar_kiyochika",
+ "@type": "cr:Curation",
+ "label": "小林清親のカレンダー(顔 23点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:calendar_kiyochika#sel-1",
+   "@type": "sc:Range",
+   "label": "小林清親のカレンダー / [川俣絹布整練株式会社明治四十三年カレンダー]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/1#xywh=3112,2645,255,333",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.753"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/2#xywh=2514,2094,776,1069",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.806"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/2#xywh=3834,3582,192,195",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.559"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/2#xywh=3317,3676,265,265",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.549"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/3#xywh=1317,1915,249,383",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.799"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/3#xywh=2057,2036,259,420",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.788"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/3#xywh=3327,3082,302,460",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.640"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/4#xywh=2591,2110,763,1129",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.824"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/5#xywh=1411,944,339,470",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.842"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/5#xywh=3737,1771,289,477",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/5#xywh=998,1270,346,457",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/6#xywh=2531,1536,796,1280",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.805"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/7#xywh=2147,1203,319,427",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.635"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/7#xywh=1254,1687,289,434",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.601"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/8#xywh=1811,1731,679,1032",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/9#xywh=2816,1758,736,1240",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/10#xywh=1190,2339,276,393",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.891"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/10#xywh=2823,2450,262,403",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.834"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/10#xywh=2057,1519,265,302",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.690"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/11#xywh=1576,1952,753,1035",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.744"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/12#xywh=2433,1499,299,444",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/12#xywh=3307,1166,282,440",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.607"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369552/canvas/13#xywh=2520,2026,786,1156",
+     "@type": "sc:Canvas",
+     "label": "[川俣絹布整練株式会社明治四十三年カレンダー]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "小林清親のカレンダー"
+      },
+      {
+       "label": "年",
+       "value": "1909"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369552/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "[川俣絹布整練株式会社明治四十三年カレンダー]"
+   }
+  }
+ ]
+}

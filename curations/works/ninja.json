@@ -1,0 +1,2064 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:ninja",
+ "@type": "cr:Curation",
+ "label": "忍者の錦絵(顔 55点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-1",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 児雷也豪傑双六",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=4420,2722,88,123",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.668"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=2139,1555,276,284",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.599"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=2757,3094,134,134",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.595"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=3153,549,196,196",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.558"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=4374,541,330,319",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.500"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=4243,2203,108,107",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.450"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=3241,3052,154,154",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.438"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=3406,2898,211,203",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.429"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=2707,864,150,146",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.418"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=1705,2058,119,123",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.410"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=3955,2653,131,131",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.367"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=4086,2883,96,100",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.354"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=3452,3205,177,188",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.351"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=4420,2081,88,88",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.335"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=2070,2307,92,100",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.259"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302504/canvas/1#xywh=1559,2319,100,100",
+     "@type": "sc:Canvas",
+     "label": "児雷也豪傑双六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.247"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302504/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "児雷也豪傑双六"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-2",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 当盛見立三十六花撰　つぼすみれ児雷也",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303880/canvas/1#xywh=1843,2143,650,858",
+     "@type": "sc:Canvas",
+     "label": "当盛見立三十六花撰　つぼすみれ児雷也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.811"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303880/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当盛見立三十六花撰　つぼすみれ児雷也"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-3",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 当盛見立三十六花撰　謡曲の釣鐘草妖賊大蛇丸",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303944/canvas/1#xywh=1521,2614,804,1162",
+     "@type": "sc:Canvas",
+     "label": "当盛見立三十六花撰　謡曲の釣鐘草妖賊大蛇丸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1863"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.707"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303944/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当盛見立三十六花撰　謡曲の釣鐘草妖賊大蛇丸"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-4",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 豊国漫画図絵　自来也",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304925/canvas/1#xywh=1815,2045,876,1070",
+     "@type": "sc:Canvas",
+     "label": "豊国漫画図絵　自来也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1859"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.775"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304925/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "豊国漫画図絵　自来也"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-5",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 東海道五十三次の内 沖津 児雷也",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305320/canvas/1#xywh=1626,2463,730,1165",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三次の内 沖津 児雷也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.806"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305320/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東海道五十三次の内 沖津 児雷也"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-6",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 見立十二支の内子　仁木弾正・荒獅子男之介",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305380/canvas/1#xywh=1418,1848,673,1050",
+     "@type": "sc:Canvas",
+     "label": "見立十二支の内子　仁木弾正・荒獅子男之介",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.766"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305380/canvas/1#xywh=2491,2015,356,340",
+     "@type": "sc:Canvas",
+     "label": "見立十二支の内子　仁木弾正・荒獅子男之介",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.209"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305380/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "見立十二支の内子　仁木弾正・荒獅子男之介"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-7",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 時代世話当姿見　児雷也",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306010/canvas/1#xywh=1651,1234,384,471",
+     "@type": "sc:Canvas",
+     "label": "時代世話当姿見　児雷也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1858"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.800"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306010/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "時代世話当姿見　児雷也"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-8",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 豪傑奇術競　大蛇丸　中村芝翫",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307224/canvas/1#xywh=1718,2012,666,1006",
+     "@type": "sc:Canvas",
+     "label": "豪傑奇術競　大蛇丸　中村芝翫",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.768"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307224/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "豪傑奇術競　大蛇丸　中村芝翫"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-9",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 豪傑奇術競　綱手　中村宗十郎",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307226/canvas/1#xywh=1940,1882,635,791",
+     "@type": "sc:Canvas",
+     "label": "豪傑奇術競　綱手　中村宗十郎",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.762"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307226/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "豪傑奇術競　綱手　中村宗十郎"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-10",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 豪傑奇術競　児雷也　河原崎権之介",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307228/canvas/1#xywh=1761,2092,655,886",
+     "@type": "sc:Canvas",
+     "label": "豪傑奇術競　児雷也　河原崎権之介",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1861"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307228/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "豪傑奇術競　児雷也　河原崎権之介"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-11",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / （石川五右衛門刑場の図）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307989/canvas/1#xywh=2922,1701,223,299",
+     "@type": "sc:Canvas",
+     "label": "（石川五右衛門刑場の図）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.862"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307989/canvas/1#xywh=4335,1305,192,280",
+     "@type": "sc:Canvas",
+     "label": "（石川五右衛門刑場の図）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307989/canvas/1#xywh=1820,1708,157,246",
+     "@type": "sc:Canvas",
+     "label": "（石川五右衛門刑場の図）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.753"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307989/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（石川五右衛門刑場の図）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-12",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 豊国漫画図絵　仁木弾正",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308631/canvas/1#xywh=1362,2775,832,1134",
+     "@type": "sc:Canvas",
+     "label": "豊国漫画図絵　仁木弾正",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1860"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308631/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "豊国漫画図絵　仁木弾正"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-13",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 児雷也・こしぢ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309056/canvas/1#xywh=1167,3436,259,233",
+     "@type": "sc:Canvas",
+     "label": "児雷也・こしぢ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.875"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309056/canvas/1#xywh=2307,2524,241,297",
+     "@type": "sc:Canvas",
+     "label": "児雷也・こしぢ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.820"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309056/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "児雷也・こしぢ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-14",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 児雷也・やかま鹿六",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309060/canvas/1#xywh=1405,2266,366,371",
+     "@type": "sc:Canvas",
+     "label": "児雷也・やかま鹿六",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.579"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309060/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "児雷也・やかま鹿六"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-15",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 犬山道節",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309132/canvas/1#xywh=1754,1505,374,502",
+     "@type": "sc:Canvas",
+     "label": "犬山道節",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.780"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309132/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "犬山道節"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-16",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 賊首児雷也",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309133/canvas/1#xywh=1828,1459,366,502",
+     "@type": "sc:Canvas",
+     "label": "賊首児雷也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1862"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.718"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309133/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "賊首児雷也"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-17",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 妖賊大蛇丸",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309135/canvas/1#xywh=1812,1103,376,556",
+     "@type": "sc:Canvas",
+     "label": "妖賊大蛇丸",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.785"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309135/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "妖賊大蛇丸"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-18",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 勇婦綱手",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309136/canvas/1#xywh=1761,1155,343,461",
+     "@type": "sc:Canvas",
+     "label": "勇婦綱手",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309136/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "勇婦綱手"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-19",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 仁木弾正",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309145/canvas/1#xywh=1853,1262,323,497",
+     "@type": "sc:Canvas",
+     "label": "仁木弾正",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.769"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309145/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "仁木弾正"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-20",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 七つ伊呂波東都富士尽　に　盗賊児雷也実者尾形弘行・大橋之不二",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310883/canvas/1#xywh=1608,2778,668,1167",
+     "@type": "sc:Canvas",
+     "label": "七つ伊呂波東都富士尽　に　盗賊児雷也実者尾形弘行・大橋之不二",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310883/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "七つ伊呂波東都富士尽　に　盗賊児雷也実者尾形弘行・大橋之不二"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-21",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 踊形容外題尽　児雷也豪傑譚話薬師ケ淵藤橋の場",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310938/canvas/1#xywh=1592,1431,184,251",
+     "@type": "sc:Canvas",
+     "label": "踊形容外題尽　児雷也豪傑譚話薬師ケ淵藤橋の場",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.582"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310938/canvas/1#xywh=1544,2478,241,302",
+     "@type": "sc:Canvas",
+     "label": "踊形容外題尽　児雷也豪傑譚話薬師ケ淵藤橋の場",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310938/canvas/1#xywh=2435,1339,195,236",
+     "@type": "sc:Canvas",
+     "label": "踊形容外題尽　児雷也豪傑譚話薬師ケ淵藤橋の場",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.402"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310938/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "踊形容外題尽　児雷也豪傑譚話薬師ケ淵藤橋の場"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-22",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 江戸名所図会　十九・丸山　犬山道節",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311054/canvas/1#xywh=1684,2373,584,1078",
+     "@type": "sc:Canvas",
+     "label": "江戸名所図会　十九・丸山　犬山道節",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311054/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所図会　十九・丸山　犬山道節"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-23",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 清書七以呂者　たから子の児雷也",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311103/canvas/1#xywh=1513,2916,479,571",
+     "@type": "sc:Canvas",
+     "label": "清書七以呂者　たから子の児雷也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.811"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311103/canvas/1#xywh=2788,2739,161,172",
+     "@type": "sc:Canvas",
+     "label": "清書七以呂者　たから子の児雷也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1856"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.468"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311103/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "清書七以呂者　たから子の児雷也"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-24",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 今昔児手柏　十二　仁木弾正荒獅子男之助",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311182/canvas/1#xywh=1531,2388,517,860",
+     "@type": "sc:Canvas",
+     "label": "今昔児手柏　十二　仁木弾正荒獅子男之助",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.777"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311182/canvas/1#xywh=2304,1462,558,763",
+     "@type": "sc:Canvas",
+     "label": "今昔児手柏　十二　仁木弾正荒獅子男之助",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1855"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.607"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311182/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "今昔児手柏　十二　仁木弾正荒獅子男之助"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-25",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 見立三幅対 月 児雷也",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311768/canvas/1#xywh=1667,2614,699,1065",
+     "@type": "sc:Canvas",
+     "label": "見立三幅対 月 児雷也",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311768/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "見立三幅対 月 児雷也"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-26",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 和漢百物語　仁木弾正直則",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311799/canvas/1#xywh=1953,2038,220,358",
+     "@type": "sc:Canvas",
+     "label": "和漢百物語　仁木弾正直則",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1865"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.813"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311799/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "和漢百物語　仁木弾正直則"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-27",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 局政岡・仁木弾正・男之助・河津三郎・股野五郎・き世川・菖蒲前・頼政・井ノ隼太",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311934/canvas/1#xywh=1165,2381,471,719",
+     "@type": "sc:Canvas",
+     "label": "局政岡・仁木弾正・男之助・河津三郎・股野五郎・き世川・菖蒲前・頼政・井ノ隼太",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.717"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311934/canvas/1#xywh=2202,1452,445,630",
+     "@type": "sc:Canvas",
+     "label": "局政岡・仁木弾正・男之助・河津三郎・股野五郎・き世川・菖蒲前・頼政・井ノ隼太",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.715"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311934/canvas/1#xywh=2399,3853,517,750",
+     "@type": "sc:Canvas",
+     "label": "局政岡・仁木弾正・男之助・河津三郎・股野五郎・き世川・菖蒲前・頼政・井ノ隼太",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.665"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1311934/canvas/1#xywh=1549,4058,115,136",
+     "@type": "sc:Canvas",
+     "label": "局政岡・仁木弾正・男之助・河津三郎・股野五郎・き世川・菖蒲前・頼政・井ノ隼太",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1854"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.524"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1311934/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "局政岡・仁木弾正・男之助・河津三郎・股野五郎・き世川・菖蒲前・頼政・井ノ隼太"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-28",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 奇術十二支之内. 6",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369993/canvas/1#xywh=1796,2793,794,1119",
+     "@type": "sc:Canvas",
+     "label": "奇術十二支之内. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1877"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.744"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369993/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "奇術十二支之内. 6"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:ninja#sel-29",
+   "@type": "sc:Range",
+   "label": "忍者の錦絵 / 奇術十二支之内. 10",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369997/canvas/1#xywh=1743,3168,764,1142",
+     "@type": "sc:Canvas",
+     "label": "奇術十二支之内. 10",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "忍者の錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1877"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369997/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "奇術十二支之内. 10"
+   }
+  }
+ ]
+}

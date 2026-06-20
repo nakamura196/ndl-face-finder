@@ -1,0 +1,6879 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:hikifuda",
+ "@type": "cr:Curation",
+ "label": "縁起の良い「引札」(顔 220点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:hikifuda#sel-1",
+   "@type": "sc:Range",
+   "label": "縁起の良い「引札」 / 新版引札見本帖. 第1",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/11#xywh=4520,1030,207,285",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.733"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/11#xywh=3846,1989,256,339",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.652"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/11#xywh=4504,1720,401,422",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.567"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/11#xywh=5004,1638,641,629",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.313"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/11#xywh=4293,1468,256,327",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.218"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/19#xywh=4392,1026,223,327",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.882"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/19#xywh=3887,1063,203,294",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.810"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/23#xywh=4148,1853,397,699",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.650"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/31#xywh=3648,1497,451,608",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.826"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/31#xywh=5099,1547,203,240",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/31#xywh=5579,1679,215,252",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/31#xywh=5492,1133,103,124",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/31#xywh=4756,1104,327,339",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.389"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/31#xywh=3449,2022,219,227",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.315"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/31#xywh=4227,1332,339,331",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.280"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/33#xywh=4905,1431,194,194",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.636"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/33#xywh=3759,2386,124,124",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.442"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/33#xywh=4280,2051,236,232",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.377"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/33#xywh=4607,3052,161,165",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.325"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/47#xywh=3801,935,178,236",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.647"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/47#xywh=4520,1849,575,637",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.585"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/53#xywh=4173,1774,310,422",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/55#xywh=4239,1084,447,571",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.626"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/61#xywh=4619,1315,372,567",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.755"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/61#xywh=4206,2341,352,562",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.754"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/63#xywh=5149,1224,372,480",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.607"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/63#xywh=4272,1423,467,455",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.571"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/67#xywh=4826,1100,318,364",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.656"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/67#xywh=3011,2564,397,426",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.310"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/73#xywh=5244,2171,236,314",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.843"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/73#xywh=3747,1009,244,360",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.768"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/73#xywh=4380,931,244,376",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.741"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/77#xywh=4748,1232,385,480",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.460"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/77#xywh=3486,1977,471,434",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.364"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/85#xywh=3635,1778,740,798",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.555"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/87#xywh=5256,2217,273,252",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.480"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/87#xywh=5749,2481,211,199",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.472"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/87#xywh=5604,1919,277,261",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.418"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/87#xywh=5624,811,199,190",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.413"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/87#xywh=4041,732,244,252",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.256"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/89#xywh=4868,2411,385,447",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.785"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/89#xywh=4863,757,302,285",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.491"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/89#xywh=5728,976,302,314",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.416"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/89#xywh=4466,922,356,376",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.314"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/89#xywh=2945,2246,145,207",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.296"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/95#xywh=3280,2122,62,83",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.607"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/95#xywh=4942,2411,294,352",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.595"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/101#xywh=4438,935,484,666",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.820"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/101#xywh=3325,2283,550,538",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.494"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/103#xywh=3821,2283,385,430",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.750"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/103#xywh=5600,633,277,273",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.497"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/103#xywh=4768,591,285,281",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.422"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/103#xywh=5761,877,347,339",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.386"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/103#xywh=5194,744,352,339",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.374"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/109#xywh=3941,1601,318,405",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.827"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/109#xywh=5533,1882,265,356",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.728"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/109#xywh=4409,724,703,678",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.462"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=3387,2002,190,227",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.887"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=3834,2585,203,269",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.882"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=4529,1749,174,227",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.877"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=4818,1923,157,182",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.829"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=4516,2630,207,310",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=5261,2113,174,215",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.804"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=4504,1493,108,108",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.568"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=4723,1427,186,194",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.427"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=3846,1497,120,120",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.358"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=3941,1617,116,120",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.332"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/113#xywh=4367,1476,124,124",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.275"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/117#xywh=4301,1439,397,480",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.670"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/117#xywh=3615,2337,447,447",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.363"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/123#xywh=4698,885,744,782",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.691"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/123#xywh=5393,2899,265,347",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.685"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/123#xywh=2841,2022,546,550",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.345"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/123#xywh=4665,2572,318,323",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.275"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/123#xywh=3002,2672,310,310",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.251"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/125#xywh=4272,1357,467,525",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.783"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/129#xywh=4739,1307,624,666",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/129#xywh=3011,1820,219,256",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.761"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/129#xywh=4322,2920,211,265",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.715"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/129#xywh=3557,2039,227,240",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/129#xywh=3263,1985,232,281",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.622"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/129#xywh=3524,2663,302,277",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.565"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/129#xywh=4677,2411,256,318",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.491"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/129#xywh=2920,2047,273,310",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.374"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/131#xywh=5376,980,302,463",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.716"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/131#xywh=4516,1555,389,500",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.668"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/133#xywh=3726,2093,550,513",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.288"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=4322,1150,587,670",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.626"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=4053,1725,285,285",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.576"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=5372,3280,277,273",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.508"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=4926,3110,240,244",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.503"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=4297,1948,236,236",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.491"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=3470,1671,339,327",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.483"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=3929,1493,211,199",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.465"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=3689,1485,327,347",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.460"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=4239,3536,318,314",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.409"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=3867,1882,170,174",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.394"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=3805,3412,339,323",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.385"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=4028,3304,323,335",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.371"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/137#xywh=4363,1716,244,252",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.231"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/139#xywh=5103,1505,405,463",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/139#xywh=3656,1741,426,467",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.800"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/139#xywh=4396,1133,356,571",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.761"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/143#xywh=4888,1807,232,372",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.774"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/143#xywh=3395,964,484,529",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.514"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=4243,873,273,393",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.858"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=3581,1323,306,389",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.809"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=5136,1348,149,178",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.721"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=3987,2221,414,438",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.673"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=5840,1820,161,223",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.644"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=5802,2328,294,339",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.597"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=5658,1208,91,120",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.528"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=5753,1079,174,174",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.408"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=2837,2544,753,773",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.353"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=5033,1882,443,463",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.274"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/145#xywh=5451,1716,451,393",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.230"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/147#xywh=4189,2870,108,108",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.209"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/151#xywh=5397,2490,339,455",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.780"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/151#xywh=5505,1414,385,352",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/151#xywh=3784,1406,364,596",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.748"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/151#xywh=4466,1390,380,418",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.621"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/151#xywh=4036,1729,467,476",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.227"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/157#xywh=3743,1398,380,426",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.782"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/161#xywh=5008,1357,562,575",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.850"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/161#xywh=3577,1547,533,591",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.549"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/165#xywh=5248,2055,500,496",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.674"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/165#xywh=3755,2742,484,529",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.585"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/169#xywh=5128,1696,401,447",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.763"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/169#xywh=4520,1162,455,534",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.655"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/173#xywh=3333,1125,500,637",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.595"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/173#xywh=3590,1766,538,550",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.337"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/175#xywh=4710,1013,496,571",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.817"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/175#xywh=3213,3164,207,261",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.508"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/175#xywh=2415,3317,492,505",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.417"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/177#xywh=4702,1369,136,186",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/179#xywh=4508,1510,476,786",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/179#xywh=5265,1749,434,695",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.789"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/179#xywh=1245,1084,682,806",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.513"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/181#xywh=4868,1113,401,447",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.799"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/181#xywh=4239,1567,352,376",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.735"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/183#xywh=4454,1063,612,637",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.593"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/183#xywh=4086,2304,633,612",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.336"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/187#xywh=4057,1158,604,653",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.670"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/187#xywh=3271,1232,509,591",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.598"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/189#xywh=5145,1675,339,484",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.698"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/189#xywh=4777,1807,116,132",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.679"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/189#xywh=4293,1121,203,199",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.451"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/189#xywh=3908,1365,223,232",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.447"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/197#xywh=4007,1596,397,438",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.844"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682622/canvas/197#xywh=5017,1969,414,451",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1682622/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新版引札見本帖. 第1"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hikifuda#sel-2",
+   "@type": "sc:Range",
+   "label": "縁起の良い「引札」 / 新版引札見本帖. 第2",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/55#xywh=4060,1102,303,450",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.829"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/55#xywh=3294,2154,287,360",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.791"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/55#xywh=5199,2527,254,369",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.762"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/61#xywh=4523,1454,418,541",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.629"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/73#xywh=5101,930,475,545",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.653"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/73#xywh=4634,1859,442,520",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.624"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/115#xywh=3155,1601,488,532",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.834"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/119#xywh=4752,1921,410,463",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/119#xywh=4097,1556,401,446",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.718"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/121#xywh=4064,1753,1041,1147",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.746"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/121#xywh=688,680,672,659",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.457"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/141#xywh=4666,1147,356,573",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.745"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/141#xywh=3814,2359,266,307",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.730"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/141#xywh=5781,1212,295,340",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.663"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/143#xywh=5686,2637,152,192",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/143#xywh=3364,1601,447,635",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.739"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/143#xywh=4916,2826,119,147",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.715"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/143#xywh=4416,1110,615,655",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.539"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/143#xywh=5039,2895,180,229",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.496"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/149#xywh=3085,2342,254,307",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.806"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/149#xywh=5027,1695,578,639",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.763"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682623/canvas/149#xywh=3425,1528,328,405",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.751"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1682623/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新版引札見本帖. 第2"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hikifuda#sel-3",
+   "@type": "sc:Range",
+   "label": "縁起の良い「引札」 / 新版引札見本帖. 第3",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/13#xywh=4933,1633,323,402",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.809"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/13#xywh=3415,968,291,378",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/17#xywh=4327,1215,179,203",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.838"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/17#xywh=4789,2135,159,219",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.831"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/17#xywh=5263,1964,139,199",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.673"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/17#xywh=4546,1681,339,335",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.517"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/25#xywh=3570,1836,259,378",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.790"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/25#xywh=4275,1223,255,339",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.777"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/33#xywh=4642,1402,307,339",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.869"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/33#xywh=3674,848,287,335",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.832"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/37#xywh=4379,1736,450,645",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.845"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/37#xywh=3570,960,494,474",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.713"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/37#xywh=2976,1458,482,542",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.664"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/49#xywh=4223,2047,653,717",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.770"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/53#xywh=4514,1047,239,331",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.850"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/53#xywh=3287,1517,255,350",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/61#xywh=3144,1418,426,665",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/61#xywh=4323,892,669,705",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.568"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/87#xywh=3893,753,809,793",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.467"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/99#xywh=4327,1059,390,478",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.721"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/99#xywh=4857,1673,426,486",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.693"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/113#xywh=2972,1155,183,235",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.839"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/113#xywh=3259,2457,339,410",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.788"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/113#xywh=4809,1458,434,673",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/113#xywh=3821,1215,179,203",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.775"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/113#xywh=4192,1685,335,374",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/113#xywh=4387,956,159,279",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.245"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/127#xywh=5319,1318,430,494",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.760"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/127#xywh=3283,972,215,315",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.631"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/127#xywh=4231,1211,442,442",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.598"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/139#xywh=3941,3134,267,315",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.823"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/139#xywh=3168,1979,227,231",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.628"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/139#xywh=4749,1450,562,546",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.507"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682624/canvas/159#xywh=3100,1438,402,609",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.698"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1682624/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新版引札見本帖. 第3"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hikifuda#sel-4",
+   "@type": "sc:Range",
+   "label": "縁起の良い「引札」 / 新版引札見本帖. 第4",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/13#xywh=5207,2200,405,447",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.809"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/13#xywh=2957,1352,227,252",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.565"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/13#xywh=2601,1952,186,265",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.563"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/13#xywh=3586,1328,289,306",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.524"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/13#xywh=2440,1311,269,376",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.354"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/13#xywh=3978,2324,215,248",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.335"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/27#xywh=4814,1510,285,484",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.742"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/27#xywh=3648,2630,356,339",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.664"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/51#xywh=3300,1034,426,480",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.587"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/51#xywh=4082,1369,538,616",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.506"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/83#xywh=3912,1133,467,529",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.784"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/185#xywh=5261,1791,426,707",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.796"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/185#xywh=4512,1567,471,761",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.753"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1682625/canvas/185#xywh=1203,1170,662,778",
+     "@type": "sc:Canvas",
+     "label": "新版引札見本帖. 第4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "縁起の良い「引札」"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1682625/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新版引札見本帖. 第4"
+   }
+  }
+ ]
+}

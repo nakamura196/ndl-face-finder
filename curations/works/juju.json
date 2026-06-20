@@ -1,0 +1,333 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:juju",
+ "@type": "cr:Curation",
+ "label": "寿々(顔 10点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:juju#sel-1",
+   "@type": "sc:Range",
+   "label": "寿々 / 寿々. 〔第1期〕 2",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/6#xywh=4064,1224,539,535",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.226"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/11#xywh=4064,1189,360,360",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.371"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/13#xywh=3181,1317,1674,2394",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.547"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/14#xywh=1503,1166,407,465",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.552"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/17#xywh=3987,1344,628,701",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/20#xywh=4130,1305,260,321",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.842"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/22#xywh=1957,1662,337,333",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.423"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/22#xywh=1135,1727,178,178",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.305"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/27#xywh=4115,1317,504,647",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.571"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1183446/canvas/27#xywh=1131,949,651,647",
+     "@type": "sc:Canvas",
+     "label": "寿々. 〔第1期〕 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "寿々"
+      },
+      {
+       "label": "年",
+       "value": "1918"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.281"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1183446/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "寿々. 〔第1期〕 2"
+   }
+  }
+ ]
+}

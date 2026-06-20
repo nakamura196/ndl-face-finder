@@ -1,0 +1,3819 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:hottacollection",
+ "@type": "cr:Curation",
+ "label": "暦にまつわる錦絵(顔 100点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-1",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 風俗四季哥仙 二月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369419/canvas/1#xywh=1274,2495,234,314",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 二月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.755"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369419/canvas/1#xywh=3066,3038,217,297",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 二月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.666"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369419/canvas/1#xywh=2803,2369,217,309",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 二月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.642"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369419/canvas/1#xywh=1594,2312,280,326",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 二月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.299"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369419/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 二月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-2",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 風俗四季哥仙 竹間鶯",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369420/canvas/1#xywh=2017,1906,271,334",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 竹間鶯",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.872"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369420/canvas/1#xywh=2720,2795,209,311",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 竹間鶯",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369420/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 竹間鶯"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-3",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 風俗四季哥仙 五月雨",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369421/canvas/1#xywh=2246,2015,286,306",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 五月雨",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.821"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369421/canvas/1#xywh=3215,1963,260,311",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 五月雨",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.819"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369421/canvas/1#xywh=1786,2532,206,243",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 五月雨",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.567"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369421/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 五月雨"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-4",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 風俗四季哥仙 水無月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369422/canvas/1#xywh=3149,1760,249,357",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 水無月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.781"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369422/canvas/1#xywh=1323,2143,251,349",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 水無月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.775"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369422/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 水無月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-5",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 風俗四季歌仙 立秋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369423/canvas/1#xywh=1957,2375,251,400",
+     "@type": "sc:Canvas",
+     "label": "風俗四季歌仙 立秋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.863"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369423/canvas/1#xywh=2680,3032,194,294",
+     "@type": "sc:Canvas",
+     "label": "風俗四季歌仙 立秋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369423/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季歌仙 立秋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-6",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 風俗四季哥仙 卯月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369424/canvas/1#xywh=900,1829,237,349",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 卯月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.820"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369424/canvas/1#xywh=2395,1792,254,297",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 卯月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.773"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369424/canvas/1#xywh=1189,1660,209,266",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 卯月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.742"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369424/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 卯月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-7",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 風俗四季哥仙 仲秋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369425/canvas/1#xywh=2786,2643,309,297",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 仲秋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.826"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369425/canvas/1#xywh=2463,2032,294,349",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 仲秋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.769"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369425/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 仲秋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-8",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 風俗四季哥仙 庭の雪",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369426/canvas/1#xywh=1360,1815,266,329",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 庭の雪",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.781"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369426/canvas/1#xywh=2529,2563,194,274",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 庭の雪",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.757"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369426/canvas/1#xywh=2915,3523,220,303",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 庭の雪",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.440"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369426/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 庭の雪"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-9",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 一月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369436/canvas/1#xywh=2061,2818,953,901",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 一月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.738"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369436/canvas/1#xywh=3677,3750,172,251",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 一月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.332"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369436/canvas/1#xywh=3306,4063,158,248",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 一月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.267"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369436/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 一月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-10",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 二月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369437/canvas/1#xywh=2408,2487,760,1122",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 二月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369437/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 二月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-11",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 三月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369438/canvas/1#xywh=1957,2714,729,980",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369438/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 三月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-12",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 五月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369439/canvas/1#xywh=2363,2646,757,1039",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 五月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.740"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369439/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 五月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-13",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 六月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369440/canvas/1#xywh=1665,2494,850,1029",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.818"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369440/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 六月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-14",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 七月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369441/canvas/1#xywh=2786,2979,870,898",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.695"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369441/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 七月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-15",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 八月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369442/canvas/1#xywh=1961,2449,698,1046",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 八月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.797"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369442/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 八月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-16",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 九月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369443/canvas/1#xywh=2353,2639,709,867",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 九月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.829"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369443/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 九月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-17",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 十月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369444/canvas/1#xywh=1882,2123,733,1005",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 十月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.804"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369444/canvas/1#xywh=2652,4607,688,722",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 十月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.608"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369444/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 十月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-18",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 十一月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369445/canvas/1#xywh=2143,2216,774,1022",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 十一月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.796"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369445/canvas/1#xywh=2780,3750,523,726",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 十一月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.752"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369445/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 十一月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-19",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東風俗年中行事 十ニ月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369446/canvas/1#xywh=2350,2360,630,950",
+     "@type": "sc:Canvas",
+     "label": "東風俗年中行事 十ニ月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1890"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.714"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369446/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東風俗年中行事 十ニ月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-20",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 意勢固世身見立十二直. 1",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369968/canvas/1#xywh=1953,1966,548,434",
+     "@type": "sc:Canvas",
+     "label": "意勢固世身見立十二直. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.539"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369968/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "意勢固世身見立十二直. 1"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-21",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 意勢固世身見立十二直. 2",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369969/canvas/1#xywh=1415,2120,491,474",
+     "@type": "sc:Canvas",
+     "label": "意勢固世身見立十二直. 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.274"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369969/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "意勢固世身見立十二直. 2"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-22",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 意勢固世身見立十二直. 3",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369970/canvas/1#xywh=2268,2527,524,477",
+     "@type": "sc:Canvas",
+     "label": "意勢固世身見立十二直. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.418"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369970/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "意勢固世身見立十二直. 3"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-23",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 意勢固世身見立十二直. 4",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369971/canvas/1#xywh=1875,1983,397,591",
+     "@type": "sc:Canvas",
+     "label": "意勢固世身見立十二直. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369971/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "意勢固世身見立十二直. 4"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-24",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 意勢固世身見立十二直. 5",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369972/canvas/1#xywh=2440,1576,403,568",
+     "@type": "sc:Canvas",
+     "label": "意勢固世身見立十二直. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.731"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369972/canvas/1#xywh=2006,1364,393,434",
+     "@type": "sc:Canvas",
+     "label": "意勢固世身見立十二直. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.714"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369972/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "意勢固世身見立十二直. 5"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-25",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 意勢固世身見立十二直. 6",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369973/canvas/1#xywh=2393,2208,373,511",
+     "@type": "sc:Canvas",
+     "label": "意勢固世身見立十二直. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.720"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369973/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "意勢固世身見立十二直. 6"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-26",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 1",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369975/canvas/1#xywh=2135,3298,764,830",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.744"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369975/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 1"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-27",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 2",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369976/canvas/1#xywh=2188,3065,721,1043",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.700"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369976/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 2"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-28",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 3",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369977/canvas/1#xywh=1650,2803,770,1040",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.784"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369977/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 3"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-29",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 4",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369978/canvas/1#xywh=2112,3039,740,996",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.773"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369978/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 4"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-30",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 5",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369979/canvas/1#xywh=2032,3085,654,864",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.662"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369979/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 5"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-31",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 6",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369980/canvas/1#xywh=1282,2869,787,1179",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.787"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369980/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 6"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-32",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 7",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369981/canvas/1#xywh=1966,2806,757,1103",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.748"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369981/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 7"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-33",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 8",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369982/canvas/1#xywh=2049,3202,840,1053",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 8",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.738"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369982/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 8"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-34",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 9",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369983/canvas/1#xywh=2138,2770,1036,1076",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 9",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.685"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369983/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 9"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-35",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 10",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369984/canvas/1#xywh=2554,3002,644,1030",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 10",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.858"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369984/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 10"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-36",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 十二ヶ月花合. 12",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369986/canvas/1#xywh=2112,2896,770,910",
+     "@type": "sc:Canvas",
+     "label": "十二ヶ月花合. 12",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.771"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369986/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ヶ月花合. 12"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-37",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 1",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370017/canvas/1#xywh=1986,2543,675,1032",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.853"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370017/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 1"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-38",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 2",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370018/canvas/1#xywh=2612,2838,688,931",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.756"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370018/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 2"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-39",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 3",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370020/canvas/1#xywh=1973,2963,698,764",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.851"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370020/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 3"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-40",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 4",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370021/canvas/1#xywh=2569,2809,718,924",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.839"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370021/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 4"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-41",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 5",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370022/canvas/1#xywh=2641,3025,701,846",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.790"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370022/canvas/1#xywh=777,1878,79,102",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.574"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370022/canvas/1#xywh=1042,1901,79,102",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.545"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370022/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 5"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-42",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 6",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370023/canvas/1#xywh=2202,2579,691,1003",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.781"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370023/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 6"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-43",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 7",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370024/canvas/1#xywh=2717,2792,573,970",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.871"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370024/canvas/1#xywh=3762,4581,157,197",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.791"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370024/canvas/1#xywh=4027,4558,154,174",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.693"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370024/canvas/1#xywh=1645,2376,167,220",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.537"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370024/canvas/1#xywh=3955,3477,242,239",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.243"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370024/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 7"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-44",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 8",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370025/canvas/1#xywh=1976,2710,609,977",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 8",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.841"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370025/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 8"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-45",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 9",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370026/canvas/1#xywh=2523,2661,583,996",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 9",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.848"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370026/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 9"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-46",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 10",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370027/canvas/1#xywh=2464,2887,705,895",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 10",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.760"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370027/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 10"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-47",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 11",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370028/canvas/1#xywh=2100,2802,623,1029",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 11",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370028/canvas/1#xywh=1363,2917,475,433",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 11",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.515"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370028/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 11"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-48",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / 東京自慢十二ヶ月. 12",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370029/canvas/1#xywh=2467,2694,603,996",
+     "@type": "sc:Canvas",
+     "label": "東京自慢十二ヶ月. 12",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1880"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.874"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370029/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京自慢十二ヶ月. 12"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-49",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 1",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370032/canvas/1#xywh=2658,2101,383,410",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.790"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370032/canvas/1#xywh=1655,3198,338,436",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 1",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.634"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370032/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 1"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-50",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 2",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370033/canvas/1#xywh=2671,1943,311,446",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 2",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.638"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370033/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 2"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-51",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 3",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370034/canvas/1#xywh=1557,3533,279,439",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.738"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370034/canvas/1#xywh=2245,1501,397,446",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.654"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370034/canvas/1#xywh=3254,3139,239,360",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 3",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.351"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370034/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 3"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-52",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 4",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370035/canvas/1#xywh=2933,2147,311,488",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.842"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370035/canvas/1#xywh=1946,1291,370,406",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 4",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.589"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370035/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 4"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-53",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 5",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370036/canvas/1#xywh=1737,2317,341,433",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.795"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370036/canvas/1#xywh=3264,2953,308,416",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 5",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.674"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370036/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 5"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-54",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 6",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370037/canvas/1#xywh=2471,2114,334,465",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.736"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370037/canvas/1#xywh=2913,3621,403,331",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.672"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370037/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 6"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-55",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 7",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370038/canvas/1#xywh=2504,1960,374,393",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.614"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370038/canvas/1#xywh=1835,2310,485,492",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.424"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370038/canvas/1#xywh=2127,4506,436,318",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 7",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.265"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370038/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 7"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-56",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 8",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370039/canvas/1#xywh=1383,1262,252,321",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 8",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.785"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370039/canvas/1#xywh=2232,2140,295,462",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 8",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.633"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370039/canvas/1#xywh=3008,3202,259,331",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 8",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.394"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370039/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 8"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-57",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 9",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370040/canvas/1#xywh=1520,3739,275,370",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 9",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.863"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370040/canvas/1#xywh=1832,1825,275,370",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 9",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.829"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370040/canvas/1#xywh=1088,1865,164,197",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 9",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.566"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370040/canvas/1#xywh=1180,2173,360,364",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 9",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.488"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370040/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 9"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-58",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 10",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370041/canvas/1#xywh=3398,3303,220,311",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 10",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.750"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370041/canvas/1#xywh=2513,2196,305,508",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 10",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.670"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370041/canvas/1#xywh=1766,3198,246,344",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 10",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.583"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370041/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 10"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:hottacollection#sel-59",
+   "@type": "sc:Range",
+   "label": "暦にまつわる錦絵 / よし原十二ヶ月の内. 11",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370042/canvas/1#xywh=2500,2717,321,370",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 11",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.645"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370042/canvas/1#xywh=1557,3228,423,410",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 11",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "暦にまつわる錦絵"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.529"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370042/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 11"
+   }
+  }
+ ]
+}

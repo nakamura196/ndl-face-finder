@@ -1,12 +1,92 @@
 {
  "works": [
   {
+   "slug": "namazue",
+   "title": "鯰絵",
+   "count": 426,
+   "figures": 65,
+   "manifests": 54,
+   "file": "curations/works/namazue.json"
+  },
+  {
+   "slug": "bunposoga",
+   "title": "文鳳麁画",
+   "count": 355,
+   "figures": 27,
+   "manifests": 1,
+   "file": "curations/works/bunposoga.json"
+  },
+  {
+   "slug": "unainotomo",
+   "title": "うないのとも",
+   "count": 248,
+   "figures": 104,
+   "manifests": 6,
+   "file": "curations/works/unainotomo.json"
+  },
+  {
+   "slug": "okiagari",
+   "title": "起上小法師画集",
+   "count": 220,
+   "figures": 35,
+   "manifests": 12,
+   "file": "curations/works/okiagari.json"
+  },
+  {
+   "slug": "hikifuda",
+   "title": "縁起の良い「引札」",
+   "count": 220,
+   "figures": 74,
+   "manifests": 4,
+   "file": "curations/works/hikifuda.json"
+  },
+  {
+   "slug": "omochae",
+   "title": "おもちゃ絵",
+   "count": 142,
+   "figures": 13,
+   "manifests": 13,
+   "file": "curations/works/omochae.json"
+  },
+  {
+   "slug": "genji54gekko",
+   "title": "尾形月耕『源氏五十四帖』",
+   "count": 128,
+   "figures": 56,
+   "manifests": 55,
+   "file": "curations/works/genji54gekko.json"
+  },
+  {
+   "slug": "edonohanami",
+   "title": "江戸の花見",
+   "count": 121,
+   "figures": 29,
+   "manifests": 29,
+   "file": "curations/works/edonohanami.json"
+  },
+  {
    "slug": "mizunobijinga",
    "title": "水野年方の美人画",
    "count": 111,
    "figures": 46,
    "manifests": 2,
    "file": "curations/works/mizunobijinga.json"
+  },
+  {
+   "slug": "hottacollection",
+   "title": "暦にまつわる錦絵",
+   "count": 100,
+   "figures": 59,
+   "manifests": 59,
+   "file": "curations/works/hottacollection.json"
+  },
+  {
+   "slug": "hyakumenso",
+   "title": "小林清親の滑稽画『百面相』",
+   "count": 94,
+   "figures": 24,
+   "manifests": 2,
+   "file": "curations/works/hyakumenso.json"
   },
   {
    "slug": "edomeisho100bijo",
@@ -17,12 +97,100 @@
    "file": "curations/works/edomeisho100bijo.json"
   },
   {
+   "slug": "showacutbook",
+   "title": "昭和初期のカット絵集『カットブック』",
+   "count": 86,
+   "figures": 29,
+   "manifests": 1,
+   "file": "curations/works/showacutbook.json"
+  },
+  {
    "slug": "fujinfuzoku",
    "title": "婦人風俗尽",
    "count": 72,
    "figures": 36,
    "manifests": 2,
    "file": "curations/works/fujinfuzoku.json"
+  },
+  {
+   "slug": "tsukumogami",
+   "title": "付喪神絵巻",
+   "count": 71,
+   "figures": 21,
+   "manifests": 2,
+   "file": "curations/works/tsukumogami.json"
+  },
+  {
+   "slug": "shiohigari",
+   "title": "潮干狩り・野遊び・摘草",
+   "count": 70,
+   "figures": 17,
+   "manifests": 16,
+   "file": "curations/works/shiohigari.json"
+  },
+  {
+   "slug": "ukee",
+   "title": "有卦絵",
+   "count": 63,
+   "figures": 32,
+   "manifests": 32,
+   "file": "curations/works/ukee.json"
+  },
+  {
+   "slug": "joshi",
+   "title": "上巳の節句（桃の節句、雛祭り）",
+   "count": 62,
+   "figures": 18,
+   "manifests": 18,
+   "file": "curations/works/joshi.json"
+  },
+  {
+   "slug": "ninja",
+   "title": "忍者の錦絵",
+   "count": 55,
+   "figures": 29,
+   "manifests": 29,
+   "file": "curations/works/ninja.json"
+  },
+  {
+   "slug": "imasugata",
+   "title": "いますがた",
+   "count": 55,
+   "figures": 48,
+   "manifests": 48,
+   "file": "curations/works/imasugata.json"
+  },
+  {
+   "slug": "uchiwae",
+   "title": "団扇絵",
+   "count": 53,
+   "figures": 24,
+   "manifests": 24,
+   "file": "curations/works/uchiwae.json"
+  },
+  {
+   "slug": "gekkozuihitsu",
+   "title": "月耕随筆",
+   "count": 53,
+   "figures": 23,
+   "manifests": 1,
+   "file": "curations/works/gekkozuihitsu.json"
+  },
+  {
+   "slug": "jishameibutsu",
+   "title": "江戸時代の寺社の名物品",
+   "count": 50,
+   "figures": 17,
+   "manifests": 1,
+   "file": "curations/works/jishameibutsu.json"
+  },
+  {
+   "slug": "musashi100",
+   "title": "小林清親の『武蔵百景』",
+   "count": 45,
+   "figures": 16,
+   "manifests": 3,
+   "file": "curations/works/musashi100.json"
   },
   {
    "slug": "kodaibijinga",
@@ -33,6 +201,110 @@
    "file": "curations/works/kodaibijinga.json"
   },
   {
+   "slug": "tango",
+   "title": "端午の節句",
+   "count": 37,
+   "figures": 9,
+   "manifests": 9,
+   "file": "curations/works/tango.json"
+  },
+  {
+   "slug": "shinkei36kaisen",
+   "title": "新形三十六怪撰",
+   "count": 31,
+   "figures": 26,
+   "manifests": 26,
+   "file": "curations/works/shinkei36kaisen.json"
+  },
+  {
+   "slug": "wakan100",
+   "title": "和漢百物語",
+   "count": 29,
+   "figures": 21,
+   "manifests": 21,
+   "file": "curations/works/wakan100.json"
+  },
+  {
+   "slug": "tanabata",
+   "title": "七夕",
+   "count": 26,
+   "figures": 11,
+   "manifests": 11,
+   "file": "curations/works/tanabata.json"
+  },
+  {
+   "slug": "umemi",
+   "title": "梅見",
+   "count": 25,
+   "figures": 6,
+   "manifests": 6,
+   "file": "curations/works/umemi.json"
+  },
+  {
+   "slug": "mushikiki",
+   "title": "虫聞",
+   "count": 23,
+   "figures": 7,
+   "manifests": 7,
+   "file": "curations/works/mushikiki.json"
+  },
+  {
+   "slug": "hochukoringafu",
+   "title": "琳派・中村芳中の『光琳畫譜』",
+   "count": 23,
+   "figures": 8,
+   "manifests": 2,
+   "file": "curations/works/hochukoringafu.json"
+  },
+  {
+   "slug": "calendar_kiyochika",
+   "title": "小林清親のカレンダー",
+   "count": 23,
+   "figures": 13,
+   "manifests": 1,
+   "file": "curations/works/calendar_kiyochika.json"
+  },
+  {
+   "slug": "hotaru",
+   "title": "蛍",
+   "count": 22,
+   "figures": 11,
+   "manifests": 11,
+   "file": "curations/works/hotaru.json"
+  },
+  {
+   "slug": "momijigari",
+   "title": "紅葉狩り",
+   "count": 22,
+   "figures": 8,
+   "manifests": 8,
+   "file": "curations/works/momijigari.json"
+  },
+  {
+   "slug": "tsukimi",
+   "title": "月見",
+   "count": 20,
+   "figures": 12,
+   "manifests": 12,
+   "file": "curations/works/tsukimi.json"
+  },
+  {
+   "slug": "60meisho",
+   "title": "六十余州名所図会",
+   "count": 19,
+   "figures": 7,
+   "manifests": 7,
+   "file": "curations/works/60meisho.json"
+  },
+  {
+   "slug": "ayame",
+   "title": "あやめ・花菖蒲",
+   "count": 18,
+   "figures": 10,
+   "manifests": 10,
+   "file": "curations/works/ayame.json"
+  },
+  {
    "slug": "yumejishikibijin",
    "title": "夢二式美人",
    "count": 17,
@@ -41,12 +313,92 @@
    "file": "curations/works/yumejishikibijin.json"
   },
   {
+   "slug": "usagi",
+   "title": "うさぎ",
+   "count": 17,
+   "figures": 13,
+   "manifests": 12,
+   "file": "curations/works/usagi.json"
+  },
+  {
+   "slug": "kawabiraki",
+   "title": "川開き・花火",
+   "count": 17,
+   "figures": 8,
+   "manifests": 8,
+   "file": "curations/works/kawabiraki.json"
+  },
+  {
+   "slug": "choyo",
+   "title": "重陽の節句",
+   "count": 17,
+   "figures": 9,
+   "manifests": 9,
+   "file": "curations/works/choyo.json"
+  },
+  {
+   "slug": "noryo",
+   "title": "納涼",
+   "count": 17,
+   "figures": 10,
+   "manifests": 10,
+   "file": "curations/works/noryo.json"
+  },
+  {
+   "slug": "kyosai100oni",
+   "title": "暁斎百鬼画談",
+   "count": 13,
+   "figures": 5,
+   "manifests": 1,
+   "file": "curations/works/kyosai100oni.json"
+  },
+  {
    "slug": "yumeji",
    "title": "竹久夢二の表紙と挿絵",
    "count": 12,
    "figures": 8,
    "manifests": 6,
    "file": "curations/works/yumeji.json"
+  },
+  {
+   "slug": "hatsugatsuo",
+   "title": "初鰹",
+   "count": 12,
+   "figures": 6,
+   "manifests": 6,
+   "file": "curations/works/hatsugatsuo.json"
+  },
+  {
+   "slug": "natsumatsuri",
+   "title": "夏祭り",
+   "count": 12,
+   "figures": 5,
+   "manifests": 5,
+   "file": "curations/works/natsumatsuri.json"
+  },
+  {
+   "slug": "juju",
+   "title": "寿々",
+   "count": 10,
+   "figures": 8,
+   "manifests": 1,
+   "file": "curations/works/juju.json"
+  },
+  {
+   "slug": "kuniyoshiyokai",
+   "title": "歌川国芳の描いた妖怪",
+   "count": 10,
+   "figures": 7,
+   "manifests": 7,
+   "file": "curations/works/kuniyoshiyokai.json"
+  },
+  {
+   "slug": "odakazumasekihanga",
+   "title": "織田一磨の石版画",
+   "count": 5,
+   "figures": 2,
+   "manifests": 2,
+   "file": "curations/works/odakazumasekihanga.json"
   }
  ]
 }

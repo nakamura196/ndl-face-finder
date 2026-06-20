@@ -1,0 +1,658 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:noryo",
+ "@type": "cr:Curation",
+ "label": "納涼(顔 17点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-1",
+   "@type": "sc:Range",
+   "label": "納涼 / 江戸の花名勝会　に　一番組　市川団十郎／両国の納涼／両国のはし・江戸の花名勝会　十一　北組　中村鶴蔵／両国",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302550/canvas/1#xywh=2455,3341,410,689",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　に　一番組　市川団十郎／両国の納涼／両国のはし・江戸の花名勝会　十一　北組　中村鶴蔵／両国",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "1863"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.767"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1302550/canvas/1#xywh=1498,3960,182,179",
+     "@type": "sc:Canvas",
+     "label": "江戸の花名勝会　に　一番組　市川団十郎／両国の納涼／両国のはし・江戸の花名勝会　十一　北組　中村鶴蔵／両国",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "1863"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.478"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1302550/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸の花名勝会　に　一番組　市川団十郎／両国の納涼／両国のはし・江戸の花名勝会　十一　北組　中村鶴蔵／両国"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-2",
+   "@type": "sc:Range",
+   "label": "納涼 / 京都名所之内　四条河原夕涼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303496/canvas/1#xywh=2181,2553,219,219",
+     "@type": "sc:Canvas",
+     "label": "京都名所之内　四条河原夕涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.615"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303496/canvas/1#xywh=1797,2480,157,154",
+     "@type": "sc:Canvas",
+     "label": "京都名所之内　四条河原夕涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.541"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303496/canvas/1#xywh=1463,2088,238,242",
+     "@type": "sc:Canvas",
+     "label": "京都名所之内　四条河原夕涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.353"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303496/canvas/1#xywh=1002,2372,219,230",
+     "@type": "sc:Canvas",
+     "label": "京都名所之内　四条河原夕涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.205"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303496/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "京都名所之内　四条河原夕涼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-3",
+   "@type": "sc:Range",
+   "label": "納涼 / 金魚好",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304247/canvas/1#xywh=2586,3113,274,343",
+     "@type": "sc:Canvas",
+     "label": "金魚好",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "1863"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.844"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304247/canvas/1#xywh=1708,2586,397,458",
+     "@type": "sc:Canvas",
+     "label": "金魚好",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "1863"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304247/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "金魚好"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-4",
+   "@type": "sc:Range",
+   "label": "納涼 / 十二ケ月の内　六月　門ト涼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304725/canvas/1#xywh=1457,1838,353,461",
+     "@type": "sc:Canvas",
+     "label": "十二ケ月の内　六月　門ト涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.825"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304725/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ケ月の内　六月　門ト涼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-5",
+   "@type": "sc:Range",
+   "label": "納涼 / 都名所之内 四條橋河原夕涼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305973/canvas/1#xywh=1486,2065,146,165",
+     "@type": "sc:Canvas",
+     "label": "都名所之内 四條橋河原夕涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.702"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305973/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "都名所之内 四條橋河原夕涼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-6",
+   "@type": "sc:Range",
+   "label": "納涼 / 月百姿 四條納涼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306396/canvas/1#xywh=1464,1997,328,379",
+     "@type": "sc:Canvas",
+     "label": "月百姿 四條納涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "1885"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.754"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306396/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "月百姿 四條納涼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-7",
+   "@type": "sc:Range",
+   "label": "納涼 / 四季ノ内 夏 仮宅の見通し涼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306829/canvas/1#xywh=2258,1743,468,595",
+     "@type": "sc:Canvas",
+     "label": "四季ノ内 夏 仮宅の見通し涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.849"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306829/canvas/1#xywh=3022,1002,549,668",
+     "@type": "sc:Canvas",
+     "label": "四季ノ内 夏 仮宅の見通し涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.837"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306829/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "四季ノ内 夏 仮宅の見通し涼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-8",
+   "@type": "sc:Range",
+   "label": "納涼 / 両国美人団扇絵",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307336/canvas/1#xywh=2327,1086,822,1401",
+     "@type": "sc:Canvas",
+     "label": "両国美人団扇絵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.805"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307336/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "両国美人団扇絵"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-9",
+   "@type": "sc:Range",
+   "label": "納涼 / 時代かゞみ　弘化之頃",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310083/canvas/1#xywh=2017,3172,924,1395",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　弘化之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.849"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310083/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "時代かゞみ　弘化之頃"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:noryo#sel-10",
+   "@type": "sc:Range",
+   "label": "納涼 / 風俗四季哥仙 水無月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369422/canvas/1#xywh=3149,1760,249,357",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 水無月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.781"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369422/canvas/1#xywh=1323,2143,251,349",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 水無月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "納涼"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.775"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369422/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 水無月"
+   }
+  }
+ ]
+}

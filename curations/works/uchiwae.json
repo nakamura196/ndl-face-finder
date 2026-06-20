@@ -1,0 +1,1942 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:uchiwae",
+ "@type": "cr:Curation",
+ "label": "団扇絵(顔 53点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-1",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 江戸名所上野団扇絵",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304392/canvas/1#xywh=2895,822,541,741",
+     "@type": "sc:Canvas",
+     "label": "江戸名所上野団扇絵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.840"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304392/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸名所上野団扇絵"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-2",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 花鳥合美人団扇絵",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304393/canvas/1#xywh=2876,726,534,875",
+     "@type": "sc:Canvas",
+     "label": "花鳥合美人団扇絵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.822"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304393/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "花鳥合美人団扇絵"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-3",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 田中庵",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=1674,1271,227,226",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.627"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=3878,2656,246,238",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.622"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=1025,1927,211,203",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.592"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=2477,1217,173,180",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.591"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=3510,1674,219,211",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.564"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=2849,1489,200,196",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.513"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=1655,2553,246,242",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.460"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=2354,1793,223,219",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.455"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=1390,1724,215,211",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.451"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305261/canvas/1#xywh=1129,1367,177,184",
+     "@type": "sc:Canvas",
+     "label": "田中庵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.377"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305261/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "田中庵"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-4",
+   "@type": "sc:Range",
+   "label": "団扇絵 / むさし屋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305262/canvas/1#xywh=2193,2054,127,131",
+     "@type": "sc:Canvas",
+     "label": "むさし屋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.510"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305262/canvas/1#xywh=1620,2038,161,165",
+     "@type": "sc:Canvas",
+     "label": "むさし屋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.502"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305262/canvas/1#xywh=4316,2541,111,107",
+     "@type": "sc:Canvas",
+     "label": "むさし屋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.376"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305262/canvas/1#xywh=3667,2131,165,161",
+     "@type": "sc:Canvas",
+     "label": "むさし屋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.361"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305262/canvas/1#xywh=1325,2046,142,146",
+     "@type": "sc:Canvas",
+     "label": "むさし屋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.263"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305262/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "むさし屋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-5",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 花",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305278/canvas/1#xywh=2772,1240,822,1493",
+     "@type": "sc:Canvas",
+     "label": "花",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.833"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305278/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "花"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-6",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 雪",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305279/canvas/1#xywh=2692,1002,849,1413",
+     "@type": "sc:Canvas",
+     "label": "雪",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.786"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305279/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "雪"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-7",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305280/canvas/1#xywh=2331,1013,860,1463",
+     "@type": "sc:Canvas",
+     "label": "月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305280/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-8",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 五節掛物ノ内三月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305458/canvas/1#xywh=2511,703,396,549",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.714"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305458/canvas/1#xywh=3187,1405,361,511",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.690"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305458/canvas/1#xywh=4332,1589,338,342",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.584"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305458/canvas/1#xywh=1114,964,330,322",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内三月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.549"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305458/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内三月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-9",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 五節掛物ノ内正月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305459/canvas/1#xywh=2269,1344,372,488",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内正月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.765"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305459/canvas/1#xywh=3878,868,434,476",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内正月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.633"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305459/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内正月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-10",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 五節掛物ノ内九月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305460/canvas/1#xywh=1985,1397,434,464",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内九月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.760"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305460/canvas/1#xywh=3283,676,388,564",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内九月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.737"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305460/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内九月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-11",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 五節掛物ノ内七月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305461/canvas/1#xywh=3160,599,399,541",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.696"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305461/canvas/1#xywh=1958,1355,407,468",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内七月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.657"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305461/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内七月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-12",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 五節掛物ノ内五月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305462/canvas/1#xywh=2930,825,372,395",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内五月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.764"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305462/canvas/1#xywh=2016,1393,426,461",
+     "@type": "sc:Canvas",
+     "label": "五節掛物ノ内五月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.710"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305462/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節掛物ノ内五月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-13",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 東都月の三景",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306166/canvas/1#xywh=3725,1079,134,180",
+     "@type": "sc:Canvas",
+     "label": "東都月の三景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306166/canvas/1#xywh=2730,1290,127,180",
+     "@type": "sc:Canvas",
+     "label": "東都月の三景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.693"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306166/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都月の三景"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-14",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 東都月の三景",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306167/canvas/1#xywh=3698,2050,127,188",
+     "@type": "sc:Canvas",
+     "label": "東都月の三景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.589"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306167/canvas/1#xywh=3587,1040,319,311",
+     "@type": "sc:Canvas",
+     "label": "東都月の三景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.545"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306167/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都月の三景"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-15",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 上野の花",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306737/canvas/1#xywh=2527,933,599,779",
+     "@type": "sc:Canvas",
+     "label": "上野の花",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.844"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306737/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "上野の花"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-16",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 五十三次の内鞠子",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306828/canvas/1#xywh=3333,1056,261,407",
+     "@type": "sc:Canvas",
+     "label": "五十三次の内鞠子",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.848"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306828/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五十三次の内鞠子"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-17",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 四季ノ内 夏 仮宅の見通し涼",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306829/canvas/1#xywh=2258,1743,468,595",
+     "@type": "sc:Canvas",
+     "label": "四季ノ内 夏 仮宅の見通し涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.849"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306829/canvas/1#xywh=3022,1002,549,668",
+     "@type": "sc:Canvas",
+     "label": "四季ノ内 夏 仮宅の見通し涼",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.837"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306829/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "四季ノ内 夏 仮宅の見通し涼"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-18",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 亀戸乃藤",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306889/canvas/1#xywh=2822,860,653,818",
+     "@type": "sc:Canvas",
+     "label": "亀戸乃藤",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.779"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306889/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "亀戸乃藤"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-19",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 東都三十六景目黒不動",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306892/canvas/1#xywh=2995,1083,680,868",
+     "@type": "sc:Canvas",
+     "label": "東都三十六景目黒不動",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.743"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306892/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都三十六景目黒不動"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-20",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 両国美人団扇絵",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307336/canvas/1#xywh=2327,1086,822,1401",
+     "@type": "sc:Canvas",
+     "label": "両国美人団扇絵",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.805"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307336/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "両国美人団扇絵"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-21",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 月日貝阿堂類友引",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307343/canvas/1#xywh=3160,576,611,944",
+     "@type": "sc:Canvas",
+     "label": "月日貝阿堂類友引",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.806"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307343/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "月日貝阿堂類友引"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-22",
+   "@type": "sc:Range",
+   "label": "団扇絵 / どんどんノ図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307354/canvas/1#xywh=4151,2223,104,107",
+     "@type": "sc:Canvas",
+     "label": "どんどんノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.558"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307354/canvas/1#xywh=4009,2273,92,88",
+     "@type": "sc:Canvas",
+     "label": "どんどんノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.439"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307354/canvas/1#xywh=2826,2257,88,92",
+     "@type": "sc:Canvas",
+     "label": "どんどんノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.431"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307354/canvas/1#xywh=3694,2357,100,104",
+     "@type": "sc:Canvas",
+     "label": "どんどんノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.405"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307354/canvas/1#xywh=4612,1988,88,88",
+     "@type": "sc:Canvas",
+     "label": "どんどんノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.393"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307354/canvas/1#xywh=3871,2326,96,96",
+     "@type": "sc:Canvas",
+     "label": "どんどんノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.322"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307354/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "どんどんノ図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-23",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 洲崎晴嵐之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307397/canvas/1#xywh=4197,1942,154,207",
+     "@type": "sc:Canvas",
+     "label": "洲崎晴嵐之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.794"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307397/canvas/1#xywh=1740,2050,111,146",
+     "@type": "sc:Canvas",
+     "label": "洲崎晴嵐之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.609"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307397/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "洲崎晴嵐之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:uchiwae#sel-24",
+   "@type": "sc:Range",
+   "label": "団扇絵 / 俳優団扇画",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369201/canvas/62#xywh=3812,1930,724,1125",
+     "@type": "sc:Canvas",
+     "label": "俳優団扇画",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "団扇絵"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369201/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "俳優団扇画"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1266 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:tango",
+ "@type": "cr:Curation",
+ "label": "端午の節句(顔 37点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-1",
+   "@type": "sc:Range",
+   "label": "端午の節句 / （端午の節句）",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305289/canvas/1#xywh=1902,1751,328,435",
+     "@type": "sc:Canvas",
+     "label": "（端午の節句）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.713"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305289/canvas/1#xywh=2614,1723,317,315",
+     "@type": "sc:Canvas",
+     "label": "（端午の節句）",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.450"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305289/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（端午の節句）"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-2",
+   "@type": "sc:Range",
+   "label": "端午の節句 / 五節句の内五月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307705/canvas/1#xywh=1644,3049,307,371",
+     "@type": "sc:Canvas",
+     "label": "五節句の内五月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1809"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307705/canvas/1#xywh=2537,2419,300,494",
+     "@type": "sc:Canvas",
+     "label": "五節句の内五月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1809"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.748"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307705/canvas/1#xywh=1180,1244,338,484",
+     "@type": "sc:Canvas",
+     "label": "五節句の内五月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1809"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.739"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307705/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節句の内五月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-3",
+   "@type": "sc:Range",
+   "label": "端午の節句 / 旧暦五節句の図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307841/canvas/1#xywh=1306,2335,220,253",
+     "@type": "sc:Canvas",
+     "label": "旧暦五節句の図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1888"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.784"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1307841/canvas/1#xywh=2248,2130,187,218",
+     "@type": "sc:Canvas",
+     "label": "旧暦五節句の図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1888"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.693"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1307841/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "旧暦五節句の図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-4",
+   "@type": "sc:Range",
+   "label": "端午の節句 / 風流役者地顔五節句　五月之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308621/canvas/1#xywh=2258,2435,315,430",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　五月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.767"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308621/canvas/1#xywh=2739,993,328,317",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　五月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.527"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308621/canvas/1#xywh=1920,1180,346,338",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　五月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.486"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308621/canvas/1#xywh=1390,1428,315,328",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　五月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.379"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308621/canvas/1#xywh=2184,1495,256,246",
+     "@type": "sc:Canvas",
+     "label": "風流役者地顔五節句　五月之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.206"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308621/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風流役者地顔五節句　五月之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-5",
+   "@type": "sc:Range",
+   "label": "端午の節句 / 時代かゞみ　元禄之頃",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310084/canvas/1#xywh=2028,3149,1044,1403",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　元禄之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310084/canvas/1#xywh=1495,1185,179,187",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　元禄之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.603"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310084/canvas/1#xywh=1974,1446,189,182",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　元禄之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.542"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310084/canvas/1#xywh=1160,1457,159,164",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　元禄之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.454"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310084/canvas/1#xywh=2952,1539,113,110",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　元禄之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.397"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310084/canvas/1#xywh=2729,1492,159,156",
+     "@type": "sc:Canvas",
+     "label": "時代かゞみ　元禄之頃",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "1896"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.236"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310084/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "時代かゞみ　元禄之頃"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-6",
+   "@type": "sc:Range",
+   "label": "端午の節句 / 子供遊端午のにぎわい",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310782/canvas/1#xywh=3154,1713,207,230",
+     "@type": "sc:Canvas",
+     "label": "子供遊端午のにぎわい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.862"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310782/canvas/1#xywh=2714,1513,212,251",
+     "@type": "sc:Canvas",
+     "label": "子供遊端午のにぎわい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.802"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310782/canvas/1#xywh=975,3871,233,271",
+     "@type": "sc:Canvas",
+     "label": "子供遊端午のにぎわい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310782/canvas/1#xywh=1262,1551,182,241",
+     "@type": "sc:Canvas",
+     "label": "子供遊端午のにぎわい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.666"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310782/canvas/1#xywh=3151,2893,182,179",
+     "@type": "sc:Canvas",
+     "label": "子供遊端午のにぎわい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.637"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310782/canvas/1#xywh=1979,2980,266,323",
+     "@type": "sc:Canvas",
+     "label": "子供遊端午のにぎわい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.565"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310782/canvas/1#xywh=724,2911,294,294",
+     "@type": "sc:Canvas",
+     "label": "子供遊端午のにぎわい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.274"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1310782/canvas/1#xywh=2161,1487,410,415",
+     "@type": "sc:Canvas",
+     "label": "子供遊端午のにぎわい",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.270"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1310782/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "子供遊端午のにぎわい"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-7",
+   "@type": "sc:Range",
+   "label": "端午の節句 / 五節文章 皐月の文",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369449/canvas/1#xywh=1885,3733,327,420",
+     "@type": "sc:Canvas",
+     "label": "五節文章 皐月の文",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.824"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369449/canvas/1#xywh=2594,1700,392,389",
+     "@type": "sc:Canvas",
+     "label": "五節文章 皐月の文",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.749"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369449/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "五節文章 皐月の文"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-8",
+   "@type": "sc:Range",
+   "label": "端午の節句 / 見振十二おもひ月 四月おしゃか 四月ほとゝぎす 五月あがりかぶと 五月鍾馗",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369463/canvas/1#xywh=1256,3109,272,369",
+     "@type": "sc:Canvas",
+     "label": "見振十二おもひ月 四月おしゃか 四月ほとゝぎす 五月あがりかぶと 五月鍾馗",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.831"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369463/canvas/1#xywh=1461,1147,240,314",
+     "@type": "sc:Canvas",
+     "label": "見振十二おもひ月 四月おしゃか 四月ほとゝぎす 五月あがりかぶと 五月鍾馗",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.808"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369463/canvas/1#xywh=2949,1224,263,359",
+     "@type": "sc:Canvas",
+     "label": "見振十二おもひ月 四月おしゃか 四月ほとゝぎす 五月あがりかぶと 五月鍾馗",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.643"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369463/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "見振十二おもひ月 四月おしゃか 四月ほとゝぎす 五月あがりかぶと 五月鍾馗"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tango#sel-9",
+   "@type": "sc:Range",
+   "label": "端午の節句 / 十二月の内 正月-六月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2224,4587,179,215",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1128,4532,135,179",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.729"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1077,824,160,212",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.728"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2385,2695,160,224",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.719"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=1061,2769,179,224",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.701"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369478/canvas/1#xywh=2279,875,154,218",
+     "@type": "sc:Canvas",
+     "label": "十二月の内 正月-六月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "端午の節句"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.691"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369478/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月の内 正月-六月"
+   }
+  }
+ ]
+}

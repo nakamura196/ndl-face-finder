@@ -1,0 +1,190 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:odakazumasekihanga",
+ "@type": "cr:Curation",
+ "label": "織田一磨の石版画(顔 5点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:odakazumasekihanga#sel-1",
+   "@type": "sc:Range",
+   "label": "織田一磨の石版画 / 都会夜趣 : 版画",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12109255/canvas/9#xywh=3641,3069,248,302",
+     "@type": "sc:Canvas",
+     "label": "都会夜趣 : 版画",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "織田一磨の石版画"
+      },
+      {
+       "label": "年",
+       "value": "1919"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.849"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/12109255/canvas/9#xywh=2104,2640,137,164",
+     "@type": "sc:Canvas",
+     "label": "都会夜趣 : 版画",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "織田一磨の石版画"
+      },
+      {
+       "label": "年",
+       "value": "1919"
+      },
+      {
+       "label": "年代",
+       "value": "大正"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.644"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/12109255/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "都会夜趣 : 版画"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:odakazumasekihanga#sel-2",
+   "@type": "sc:Range",
+   "label": "織田一磨の石版画 / 新宿 : 織田一磨自画石版画集. 第1至6図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541721/canvas/11#xywh=3601,3054,200,231",
+     "@type": "sc:Canvas",
+     "label": "新宿 : 織田一磨自画石版画集. 第1至6図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "織田一磨の石版画"
+      },
+      {
+       "label": "年",
+       "value": "1930"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.775"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541721/canvas/11#xywh=4603,3361,169,200",
+     "@type": "sc:Canvas",
+     "label": "新宿 : 織田一磨自画石版画集. 第1至6図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "織田一磨の石版画"
+      },
+      {
+       "label": "年",
+       "value": "1930"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.772"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/2541721/canvas/11#xywh=3254,3214,178,187",
+     "@type": "sc:Canvas",
+     "label": "新宿 : 織田一磨自画石版画集. 第1至6図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "織田一磨の石版画"
+      },
+      {
+       "label": "年",
+       "value": "1930"
+      },
+      {
+       "label": "年代",
+       "value": "昭和"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.724"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/2541721/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "新宿 : 織田一磨自画石版画集. 第1至6図"
+   }
+  }
+ ]
+}

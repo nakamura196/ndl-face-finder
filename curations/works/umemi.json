@@ -1,0 +1,858 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:umemi",
+ "@type": "cr:Curation",
+ "label": "梅見(顔 25点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:umemi#sel-1",
+   "@type": "sc:Range",
+   "label": "梅見 / 〔梅と婦女〕",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301986/canvas/1#xywh=2030,1300,292,453",
+     "@type": "sc:Canvas",
+     "label": "〔梅と婦女〕",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.741"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1301986/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "〔梅と婦女〕"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:umemi#sel-2",
+   "@type": "sc:Range",
+   "label": "梅見 / 東都名所　亀戸梅屋舗ノ図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=3310,1900,104,115",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.638"
+      },
+      {
+       "label": "検出器",
+       "value": "rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=2373,2196,192,188",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.605"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=2166,2338,234,234",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.587"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=3932,1935,165,161",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.580"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=3583,2238,65,92",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.576"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=1025,2123,192,192",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.561"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=4831,2157,77,104",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.512"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=1828,2564,146,146",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.498"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=4385,1939,161,165",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.484"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=2949,2131,192,192",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.464"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=1179,1774,127,123",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.454"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=852,1808,180,177",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.454"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=3652,2568,127,134",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.247"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303477/canvas/1#xywh=2719,2560,173,188",
+     "@type": "sc:Canvas",
+     "label": "東都名所　亀戸梅屋舗ノ図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.205"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303477/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都名所　亀戸梅屋舗ノ図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:umemi#sel-3",
+   "@type": "sc:Range",
+   "label": "梅見 / 亀戸梅やしき",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303591/canvas/1#xywh=2806,2852,151,210",
+     "@type": "sc:Canvas",
+     "label": "亀戸梅やしき",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.802"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303591/canvas/1#xywh=1116,3441,136,161",
+     "@type": "sc:Canvas",
+     "label": "亀戸梅やしき",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.776"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1303591/canvas/1#xywh=2307,2921,361,374",
+     "@type": "sc:Canvas",
+     "label": "亀戸梅やしき",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.356"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1303591/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "亀戸梅やしき"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:umemi#sel-4",
+   "@type": "sc:Range",
+   "label": "梅見 / 江戸むらさき名所源氏亀戸梅屋舖 見立梅かえ",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305424/canvas/1#xywh=2348,2772,302,271",
+     "@type": "sc:Canvas",
+     "label": "江戸むらさき名所源氏亀戸梅屋舖 見立梅かえ",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.608"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305424/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸むらさき名所源氏亀戸梅屋舖 見立梅かえ"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:umemi#sel-5",
+   "@type": "sc:Range",
+   "label": "梅見 / 江戸自慢三十六興　梅やしき漬梅",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305723/canvas/1#xywh=2737,3039,187,274",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　梅やしき漬梅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.851"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305723/canvas/1#xywh=1203,2870,69,90",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　梅やしき漬梅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.675"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305723/canvas/1#xywh=750,2783,72,97",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　梅やしき漬梅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.647"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305723/canvas/1#xywh=2010,2524,164,174",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　梅やしき漬梅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.626"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305723/canvas/1#xywh=786,3036,159,156",
+     "@type": "sc:Canvas",
+     "label": "江戸自慢三十六興　梅やしき漬梅",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "1864"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.481"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305723/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸自慢三十六興　梅やしき漬梅"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:umemi#sel-6",
+   "@type": "sc:Range",
+   "label": "梅見 / 十二月ノ内　衣更着",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308905/canvas/1#xywh=2307,1441,328,315",
+     "@type": "sc:Canvas",
+     "label": "十二月ノ内　衣更着",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "梅見"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.628"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308905/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月ノ内　衣更着"
+   }
+  }
+ ]
+}

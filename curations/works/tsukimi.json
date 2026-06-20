@@ -1,0 +1,775 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:tsukimi",
+ "@type": "cr:Curation",
+ "label": "月見(顔 20点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-1",
+   "@type": "sc:Range",
+   "label": "月見 / 美南見十二候 [九月]",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/10317829/canvas/1#xywh=1513,4820,381,397",
+     "@type": "sc:Canvas",
+     "label": "美南見十二候 [九月]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.854"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/10317829/canvas/1#xywh=1952,3657,388,471",
+     "@type": "sc:Canvas",
+     "label": "美南見十二候 [九月]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.774"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/10317829/canvas/1#xywh=3192,904,301,471",
+     "@type": "sc:Canvas",
+     "label": "美南見十二候 [九月]",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.768"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/10317829/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "美南見十二候 [九月]"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-2",
+   "@type": "sc:Range",
+   "label": "月見 / 十二ケ月の内　八月　月見",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304726/canvas/1#xywh=1897,1452,333,466",
+     "@type": "sc:Canvas",
+     "label": "十二ケ月の内　八月　月見",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.709"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304726/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二ケ月の内　八月　月見"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-3",
+   "@type": "sc:Range",
+   "label": "月見 / 見立名月撰 廿三夜 梅の由兵衛",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305167/canvas/1#xywh=1551,2107,558,881",
+     "@type": "sc:Canvas",
+     "label": "見立名月撰 廿三夜 梅の由兵衛",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.776"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305167/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "見立名月撰 廿三夜 梅の由兵衛"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-4",
+   "@type": "sc:Range",
+   "label": "月見 / 見立名月撰 望月の駒 踊子おやま",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305168/canvas/1#xywh=1720,2232,604,737",
+     "@type": "sc:Canvas",
+     "label": "見立名月撰 望月の駒 踊子おやま",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.649"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305168/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "見立名月撰 望月の駒 踊子おやま"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-5",
+   "@type": "sc:Range",
+   "label": "月見 / 月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305280/canvas/1#xywh=2331,1013,860,1463",
+     "@type": "sc:Canvas",
+     "label": "月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.792"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305280/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-6",
+   "@type": "sc:Range",
+   "label": "月見 / 江戸むらさき名所源氏高輪の夕月　見立あかし",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1305418/canvas/1#xywh=1851,2775,236,330",
+     "@type": "sc:Canvas",
+     "label": "江戸むらさき名所源氏高輪の夕月　見立あかし",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.541"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1305418/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸むらさき名所源氏高輪の夕月　見立あかし"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-7",
+   "@type": "sc:Range",
+   "label": "月見 / 東都月の三景",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306166/canvas/1#xywh=3725,1079,134,180",
+     "@type": "sc:Canvas",
+     "label": "東都月の三景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.815"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306166/canvas/1#xywh=2730,1290,127,180",
+     "@type": "sc:Canvas",
+     "label": "東都月の三景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.693"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306166/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都月の三景"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-8",
+   "@type": "sc:Range",
+   "label": "月見 / 東都月の三景",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306167/canvas/1#xywh=3698,2050,127,188",
+     "@type": "sc:Canvas",
+     "label": "東都月の三景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.589"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306167/canvas/1#xywh=3587,1040,319,311",
+     "@type": "sc:Canvas",
+     "label": "東都月の三景",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.545"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306167/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東都月の三景"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-9",
+   "@type": "sc:Range",
+   "label": "月見 / 十二月の内　葉月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1308907/canvas/1#xywh=1828,1316,320,389",
+     "@type": "sc:Canvas",
+     "label": "十二月の内　葉月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "1852"
+      },
+      {
+       "label": "年代",
+       "value": "江戸"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.670"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1308907/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "十二月の内　葉月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-10",
+   "@type": "sc:Range",
+   "label": "月見 / 江戸八景　愛宕山の秋の月",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309952/canvas/1#xywh=3030,2979,142,146",
+     "@type": "sc:Canvas",
+     "label": "江戸八景　愛宕山の秋の月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.367"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309952/canvas/1#xywh=2492,3086,115,119",
+     "@type": "sc:Canvas",
+     "label": "江戸八景　愛宕山の秋の月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.299"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1309952/canvas/1#xywh=3683,2818,138,138",
+     "@type": "sc:Canvas",
+     "label": "江戸八景　愛宕山の秋の月",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.261"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1309952/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "江戸八景　愛宕山の秋の月"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-11",
+   "@type": "sc:Range",
+   "label": "月見 / 風俗四季哥仙 仲秋",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369425/canvas/1#xywh=2786,2643,309,297",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 仲秋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.826"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9369425/canvas/1#xywh=2463,2032,294,349",
+     "@type": "sc:Canvas",
+     "label": "風俗四季哥仙 仲秋",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.769"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9369425/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "風俗四季哥仙 仲秋"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:tsukimi#sel-12",
+   "@type": "sc:Range",
+   "label": "月見 / よし原十二ヶ月の内. 6",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370037/canvas/1#xywh=2471,2114,334,465",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.736"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/9370037/canvas/1#xywh=2913,3621,403,331",
+     "@type": "sc:Canvas",
+     "label": "よし原十二ヶ月の内. 6",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "月見"
+      },
+      {
+       "label": "年",
+       "value": "1869"
+      },
+      {
+       "label": "年代",
+       "value": "明治"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.672"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/9370037/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "よし原十二ヶ月の内. 6"
+   }
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+{
+ "@context": [
+  "http://iiif.io/api/presentation/2/context.json",
+  "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+ ],
+ "@id": "urn:ndl-face-finder:work:kuniyoshiyokai",
+ "@type": "cr:Curation",
+ "label": "歌川国芳の描いた妖怪(顔 10点)",
+ "selections": [
+  {
+   "@id": "urn:ndl-face-finder:work:kuniyoshiyokai#sel-1",
+   "@type": "sc:Range",
+   "label": "歌川国芳の描いた妖怪 / 美盾十二史",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1301737/canvas/1#xywh=1692,1582,415,407",
+     "@type": "sc:Canvas",
+     "label": "美盾十二史",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.441"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1301737/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "美盾十二史"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kuniyoshiyokai#sel-2",
+   "@type": "sc:Range",
+   "label": "歌川国芳の描いた妖怪 / 浅倉当吾亡霊之図",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1304388/canvas/1#xywh=2240,1733,602,937",
+     "@type": "sc:Canvas",
+     "label": "浅倉当吾亡霊之図",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.816"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1304388/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "浅倉当吾亡霊之図"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kuniyoshiyokai#sel-3",
+   "@type": "sc:Range",
+   "label": "歌川国芳の描いた妖怪 / 東海道五十三対　土山",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306856/canvas/1#xywh=2660,2788,179,233",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三対　土山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.733"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306856/canvas/1#xywh=1656,3924,282,340",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三対　土山",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.387"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306856/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東海道五十三対　土山"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kuniyoshiyokai#sel-4",
+   "@type": "sc:Range",
+   "label": "歌川国芳の描いた妖怪 / 東海道五十三対　日坂",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306876/canvas/1#xywh=2568,3308,169,238",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三対　日坂",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.759"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306876/canvas/1#xywh=1293,2627,236,269",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三対　日坂",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.727"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306876/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東海道五十三対　日坂"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kuniyoshiyokai#sel-5",
+   "@type": "sc:Range",
+   "label": "歌川国芳の描いた妖怪 / 東海道五十三対　草津",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306879/canvas/1#xywh=1603,3031,146,197",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三対　草津",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "女性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.571"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    },
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1306879/canvas/1#xywh=2703,3261,97,120",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三対　草津",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "男性"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.328"
+      },
+      {
+       "label": "検出器",
+       "value": "ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1306879/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東海道五十三対　草津"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kuniyoshiyokai#sel-6",
+   "@type": "sc:Range",
+   "label": "歌川国芳の描いた妖怪 / 小倉擬百人一首　大中臣能宣朝臣",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313037/canvas/1#xywh=1417,1779,91,119",
+     "@type": "sc:Canvas",
+     "label": "小倉擬百人一首　大中臣能宣朝臣",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.760"
+      },
+      {
+       "label": "検出器",
+       "value": "kaokore+rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1313037/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "小倉擬百人一首　大中臣能宣朝臣"
+   }
+  },
+  {
+   "@id": "urn:ndl-face-finder:work:kuniyoshiyokai#sel-7",
+   "@type": "sc:Range",
+   "label": "歌川国芳の描いた妖怪 / 東海道五十三対　岡部",
+   "members": [
+    {
+     "@id": "https://dl.ndl.go.jp/api/iiif/1313243/canvas/1#xywh=1329,3766,189,243",
+     "@type": "sc:Canvas",
+     "label": "東海道五十三対　岡部",
+     "metadata": [
+      {
+       "label": "作品",
+       "value": "歌川国芳の描いた妖怪"
+      },
+      {
+       "label": "年",
+       "value": "不明"
+      },
+      {
+       "label": "年代",
+       "value": "不明"
+      },
+      {
+       "label": "性別",
+       "value": "不明"
+      },
+      {
+       "label": "信頼度",
+       "value": "0.640"
+      },
+      {
+       "label": "検出器",
+       "value": "rf+ukiyoe"
+      }
+     ]
+    }
+   ],
+   "within": {
+    "@id": "https://dl.ndl.go.jp/api/iiif/1313243/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東海道五十三対　岡部"
+   }
+  }
+ ]
+}
