@@ -6,6 +6,17 @@ import {
   confBucket, makeSelections, selectionsFromParams, selectionsToParams,
   clearSelections, matches, renderFacets, updateAvailability,
 } from "./facets.js";
+import { openViewer, fromFull } from "./viewer.js";
+
+// 図版の顔crop → ビューア descriptor(原本IIIF領域 + メタ)。pid/rid/pct は full URL から復元。
+const cropDescriptor = (fig, fa) => {
+  const r = fromFull(fa.full) || {};
+  return {
+    pid: fig.pid, rid: r.rid, pct: r.pct, title: fig.title, theme: fig.theme,
+    creator: fig.creator, conf: fa.conf, sex: fa.sex, viewer: fig.viewer, full: fa.full,
+    workFile: fig.work_file, pos: fa.pos,
+  };
+};
 
 // 図版1件が各ファセットで持つ値。theme/creator/era は図版単位、性別・信頼度・検出器は
 // 図版内の全顔から集約(いずれかの顔が該当すればその図版がヒット)。
@@ -53,6 +64,7 @@ const SORTERS = {
 };
 
 let FIGS = [];
+let GVIEW = []; // 表示中の全顔crop の descriptor(prev/next 対象)
 const sel = makeSelections();
 
 async function init() {
@@ -109,6 +121,7 @@ function render() {
   if (cmp) rows.sort(cmp);
   $("#result-count").textContent = rows.length;
   $("#empty").hidden = rows.length > 0;
+  GVIEW = [];
   const frag = document.createDocumentFragment();
   for (const fig of rows) frag.append(figureRow(fig));
   box.append(frag);
@@ -131,12 +144,15 @@ function figureRow(fig) {
       el("span", { class: "muted" }, `  ${tVal(fig.era)}${fig.year ? " " + fig.year : ""} · ${fig.faces.length} ${t("unit.faces")}`))
   );
 
-  // 右: 切り出した顔領域。クリック = その顔を拡大表示(キュレーションビュー + pos)
+  // 右: 切り出した顔領域。クリック = その顔を同一画面のビューア(OSD)で原本領域へ拡大。
+  // prev/next は表示中の全顔crop を順送り(GVIEW)。
   const crops = el("div", { class: "fig-crops" });
   for (const fa of fig.faces) {
+    const gi = GVIEW.length;
+    GVIEW.push(cropDescriptor(fig, fa));
     crops.append(
       el("figure", { class: "crop", title: `${tVal(fa.sex)} · conf ${fa.conf != null ? fa.conf.toFixed(2) : "—"} · ${fa.sources.join("+")}`,
-        onclick: () => window.open(viewerUrl(fig.work_file, { pos: fa.pos }), "_blank", "noopener") },
+        onclick: () => openViewer(GVIEW, gi) },
         el("img", { class: "crop-img", src: fa.thumb, loading: "lazy", alt: "顔領域" }))
     );
   }

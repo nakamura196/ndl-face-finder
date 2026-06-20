@@ -68,6 +68,9 @@ const DICT = {
     "search.footer": "顔カードのクリックでその顔を拡大表示、Curation List のクリックでテーマ全体をアノテーション一覧表示します。",
     "search.cardTitle": "クリックでこの顔を Viewer で拡大表示",
     "facet.collection": "コレクション", "facet.theme": "テーマ", "facet.creator": "作者", "facet.era": "年代", "facet.sex": "性別", "facet.conf": "信頼度", "facet.source": "検出器",
+    // viewer (OSD dialog)
+    "viewer.title": "顔領域ビューア", "viewer.close": "閉じる", "viewer.prev": "前の顔", "viewer.next": "次の顔",
+    "viewer.full": "原寸", "viewer.allFaces": "全顔を一覧", "viewer.untitled": "(無題)",
     // gallery
     "gallery.tagline": "元画像と切り出した顔領域を並べて一覧 — クリックで Curation Viewer",
     "gallery.theme": "テーマ", "gallery.all": "すべて", "gallery.sort": "並び替え",
@@ -105,6 +108,8 @@ const DICT = {
     "search.footer": "Click a face card to zoom to it; click a Curation List row to view the whole theme in annotation mode.",
     "search.cardTitle": "Click to zoom this face in the Viewer",
     "facet.collection": "Collection", "facet.theme": "Theme", "facet.creator": "Creator", "facet.era": "Era", "facet.sex": "Sex", "facet.conf": "Confidence", "facet.source": "Detector",
+    "viewer.title": "Face region viewer", "viewer.close": "Close", "viewer.prev": "Previous", "viewer.next": "Next",
+    "viewer.full": "Full size", "viewer.allFaces": "All faces", "viewer.untitled": "(untitled)",
     "gallery.tagline": "Source images and cropped faces side by side — click for the Curation Viewer",
     "gallery.theme": "Theme", "gallery.all": "All", "gallery.sort": "Sort",
     "sort.facesDesc": "Most faces", "sort.facesAsc": "Fewest faces",

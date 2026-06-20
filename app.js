@@ -7,6 +7,15 @@ import {
   makeSelections, selectionsFromParams, selectionsToParams, clearSelections,
   matches, renderFacets, updateAvailability,
 } from "./facets.js";
+import { openViewer } from "./viewer.js";
+
+// 顔 → ビューア descriptor(原本IIIF領域 + メタ)
+const pctOf = (region) => region.replace("pct:", "").split(",").map(Number);
+const faceDescriptor = (f) => ({
+  pid: f.pid, rid: f.rid, pct: pctOf(f.region), title: f.title, theme: f.theme,
+  creator: f.creator, conf: f.conf, sex: f.sex, viewer: f.viewer, full: f.full,
+  workFile: `curations/works/${f.theme_key}.json`, pos: f.cur_pos,
+});
 
 // 顔1件が各ファセットで持つ値。source(検出器)のみ複数値。
 const faceAccessor = (f, key) => (key === "source" ? f.sources : [f[key]]);
@@ -100,14 +109,15 @@ function render() {
   const grid = $("#grid");
   grid.innerHTML = "";
   $("#empty").hidden = list.length > 0;
+  state.viewItems = list.map(faceDescriptor);
   const frag = document.createDocumentFragment();
-  for (const f of list) frag.append(card(f));
+  list.forEach((f, i) => frag.append(card(f, i)));
   grid.append(frag);
   updateAvailability($("#facet-groups"), list, state.facetSel, faceAccessor);
   renderWorkList(list);
 }
 
-function card(f) {
+function card(f, i) {
   const node = el("div", { class: "card", title: t("search.cardTitle") });
   node.append(
     el("img", { class: "thumb", src: f.thumb, loading: "lazy", alt: f.title, width: "360", height: "360" }),
@@ -121,9 +131,8 @@ function card(f) {
       el("div", { class: "t", title: f.title }, f.title || "(無題)"),
       el("div", { class: "sub" }, el("span", {}, tVal(f.theme)), el("span", {}, tVal(f.sex))))
   );
-  // クリック = この特定の顔を拡大表示(キュレーションビュー + pos)
-  node.addEventListener("click", () =>
-    openCuration(`curations/works/${f.theme_key}.json`, { pos: f.cur_pos }));
+  // クリック = この顔を同一画面のビューア(OSD)で原本領域へ拡大。prev/next は現在の絞り込み結果。
+  node.addEventListener("click", () => openViewer(state.viewItems, i));
   return node;
 }
 

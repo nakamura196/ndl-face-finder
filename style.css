@@ -466,3 +466,70 @@ button { font: inherit; cursor: pointer; border-radius: var(--ds-radius); transi
   .hero-title { font-size: 1.6rem; }
   .counts { display: none; }  /* 極小幅ではトグル優先で件数を隠す */
 }
+
+/* ===== 顔領域ビューア(OSD dialog) ===== */
+.osd-dialog {
+  width: min(1100px, 94vw);
+  height: min(86vh, 820px);
+  max-width: 94vw;
+  max-height: 92vh;
+  padding: 0;
+  border: 1px solid var(--ds-border);
+  border-radius: var(--ds-radius);
+  background: var(--ds-surface);
+  color: var(--ds-fg);
+  overflow: hidden;
+}
+.osd-dialog::backdrop { background: rgba(0, 0, 0, 0.62); }
+.osd-dialog[open] { display: flex; flex-direction: column; }
+.osd-bar {
+  display: flex; align-items: center; gap: 12px;
+  padding: 8px 10px; border-bottom: 1px solid var(--ds-border);
+  background: var(--ds-surface-2);
+}
+.osd-close {
+  font-size: 1.3rem; line-height: 1; width: 34px; height: 34px;
+  border: 1px solid var(--ds-border); border-radius: var(--ds-radius);
+  background: var(--ds-bg); color: var(--ds-fg); cursor: pointer;
+}
+.osd-close:hover { background: var(--ds-surface); }
+.osd-counter { font-variant-numeric: tabular-nums; color: var(--ds-fg-muted); font-size: 0.9rem; }
+.osd-nav { margin-left: auto; display: flex; gap: 6px; }
+.osd-nav-btn {
+  font-size: 1.25rem; line-height: 1; width: 38px; height: 34px;
+  border: 1px solid var(--ds-border); border-radius: var(--ds-radius);
+  background: var(--ds-bg); color: var(--ds-fg); cursor: pointer;
+}
+.osd-nav-btn:hover:not(:disabled) { background: var(--ds-surface); }
+.osd-nav-btn:disabled { opacity: 0.35; cursor: default; }
+.osd-stage { flex: 1 1 auto; min-height: 0; background: #05080c; }
+.osd-meta {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  padding: 10px 12px; border-top: 1px solid var(--ds-border);
+  background: var(--ds-surface-2);
+}
+.osd-text { min-width: 0; flex: 1 1 auto; }
+.osd-title { font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.osd-sub { color: var(--ds-fg-muted); font-size: 0.85rem; }
+.osd-actions { display: flex; gap: 8px; }
+.osd-act {
+  font-size: 0.85rem; padding: 6px 12px; border-radius: var(--ds-radius);
+  border: 1px solid var(--ds-border); background: var(--ds-bg);
+  color: var(--ds-fg); text-decoration: none; cursor: pointer; white-space: nowrap;
+}
+.osd-act:hover { background: var(--ds-surface); border-color: var(--ds-primary); }
+.osd-act[hidden] { display: none; }
+/* 原本上で顔領域を示すハイライト矩形 */
+.osd-hl {
+  border: 2px solid var(--ds-accent);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5), 0 0 12px rgba(255, 205, 0, 0.5);
+  border-radius: 2px; pointer-events: none;
+}
+@media (max-width: 640px) {
+  .osd-dialog {
+    width: 100vw; height: 100dvh; max-width: 100vw; max-height: 100dvh;
+    border: 0; border-radius: 0;
+  }
+  .osd-meta { flex-direction: column; align-items: stretch; }
+  .osd-actions { justify-content: space-between; }
+}
