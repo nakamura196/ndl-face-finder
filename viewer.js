@@ -74,24 +74,29 @@ function build() {
   osd.addHandler("open", fitCurrent);
 }
 
-// 現在の descriptor の顔領域へフィット + 矩形ハイライト
+// 現在の descriptor を表示。pct=単一顔へズーム / regions=ページ全体+全顔ハイライト。
 function fitCurrent() {
   const d = items[idx];
   const it = osd.world.getItemAt(0);
   if (!it) return;
   const sz = it.getContentSize();
-  const px = new OpenSeadragon.Rect(
-    d.pct[0] / 100 * sz.x, d.pct[1] / 100 * sz.y,
-    d.pct[2] / 100 * sz.x, d.pct[3] / 100 * sz.y);
-  const vr = osd.viewport.imageToViewportRectangle(px);
+  const toVR = (p) => osd.viewport.imageToViewportRectangle(new OpenSeadragon.Rect(
+    p[0] / 100 * sz.x, p[1] / 100 * sz.y, p[2] / 100 * sz.x, p[3] / 100 * sz.y));
   osd.clearOverlays();
-  osd.addOverlay({ element: el("div", { class: "osd-hl" }), location: vr });
-  // 顔の周囲に余白を取って文脈ごと見せる
-  const m = 0.9;
-  const pad = new OpenSeadragon.Rect(
-    vr.x - vr.width * m / 2, vr.y - vr.height * m / 2,
-    vr.width * (1 + m), vr.height * (1 + m));
-  osd.viewport.fitBounds(pad, true);
+  if (d.regions) {
+    // ページ全体表示: 全顔を矩形ハイライトし、画像全体にフィット
+    for (const p of d.regions) osd.addOverlay({ element: el("div", { class: "osd-hl" }), location: toVR(p) });
+    osd.viewport.goHome(true);
+  } else {
+    const vr = toVR(d.pct);
+    osd.addOverlay({ element: el("div", { class: "osd-hl" }), location: vr });
+    // 顔の周囲に余白を取って文脈ごと見せる
+    const m = 0.9;
+    const pad = new OpenSeadragon.Rect(
+      vr.x - vr.width * m / 2, vr.y - vr.height * m / 2,
+      vr.width * (1 + m), vr.height * (1 + m));
+    osd.viewport.fitBounds(pad, true);
+  }
 }
 
 function paint() {
@@ -100,7 +105,9 @@ function paint() {
   ui.prev.disabled = idx <= 0;
   ui.next.disabled = idx >= items.length - 1;
   ui.title.textContent = d.title || t("viewer.untitled");
-  const bits = [tVal(d.theme), d.creator, d.sex && d.sex !== "不明" ? tVal(d.sex) : null,
+  const bits = [tVal(d.theme), d.creator,
+    d.regions ? `${d.regions.length} ${t("unit.faces")}` : null,
+    d.sex && d.sex !== "不明" ? tVal(d.sex) : null,
     d.conf != null ? `conf ${d.conf.toFixed(2)}` : null].filter(Boolean);
   ui.sub.textContent = bits.join(" · ");
   ui.ndl.href = d.viewer || `https://dl.ndl.go.jp/pid/${d.pid}`;

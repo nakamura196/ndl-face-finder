@@ -8,6 +8,9 @@ import {
 } from "./facets.js";
 import { openViewer, fromFull } from "./viewer.js";
 
+const IIIF = "https://dl.ndl.go.jp/api/iiif";
+const ridOf = (fig) => (fromFull(fig.faces[0]?.full) || {}).rid;
+
 // 図版の顔crop → ビューア descriptor(原本IIIF領域 + メタ)。pid/rid/pct は full URL から復元。
 const cropDescriptor = (fig, fa) => {
   const r = fromFull(fa.full) || {};
@@ -15,6 +18,17 @@ const cropDescriptor = (fig, fa) => {
     pid: fig.pid, rid: r.rid, pct: r.pct, title: fig.title, theme: fig.theme,
     creator: fig.creator, conf: fa.conf, sex: fa.sex, viewer: fig.viewer, full: fa.full,
     workFile: fig.work_file, pos: fa.pos,
+  };
+};
+
+// 元画像 → ページ全体表示の descriptor(画像全体にフィットし、図版内の全顔をハイライト)。
+const pageDescriptor = (fig) => {
+  const rid = ridOf(fig);
+  return {
+    pid: fig.pid, rid, title: fig.title, theme: fig.theme, creator: fig.creator,
+    viewer: fig.viewer, full: `${IIIF}/${fig.pid}/${rid}/full/full/0/default.jpg`,
+    workFile: fig.work_file, pos: fig._annoPos,
+    regions: fig.faces.map((fa) => (fromFull(fa.full) || {}).pct).filter(Boolean),
   };
 };
 
@@ -64,7 +78,8 @@ const SORTERS = {
 };
 
 let FIGS = [];
-let GVIEW = []; // 表示中の全顔crop の descriptor(prev/next 対象)
+let GVIEW = []; // 表示中の全顔crop の descriptor(顔クリックの prev/next 対象)
+let PVIEW = []; // 表示中の全図版(ページ)の descriptor(元画像クリックの prev/next 対象)
 const sel = makeSelections();
 
 async function init() {
@@ -122,6 +137,7 @@ function render() {
   $("#result-count").textContent = rows.length;
   $("#empty").hidden = rows.length > 0;
   GVIEW = [];
+  PVIEW = [];
   const frag = document.createDocumentFragment();
   for (const fig of rows) frag.append(figureRow(fig));
   box.append(frag);
@@ -129,14 +145,16 @@ function render() {
 }
 
 function figureRow(fig) {
-  // 元画像クリック = この作品をアノテーションモードで一覧閲覧。
-  // annotation モードはコマ単位なので、顔 pos ではなくコマ順 _annoPos を渡す。
   const annoOpts = { mode: "annotation", pos: fig._annoPos };
-  const openAnno = () => window.open(viewerUrl(fig.work_file, annoOpts), "_blank", "noopener");
   const row = el("section", { class: "fig-row" });
 
+  // 元画像クリック = 同一画面のビューアでページ全体を表示し、図版内の全顔をハイライト。
+  // prev/next は表示中の全図版(ページ)を順送り(PVIEW)。
+  const pi = PVIEW.length;
+  PVIEW.push(pageDescriptor(fig));
+
   // 左: 元画像(ページ全体)
-  const orig = el("figure", { class: "fig-orig", title: "クリックでアノテーションモードの Viewer", onclick: openAnno },
+  const orig = el("figure", { class: "fig-orig", title: t("gallery.origTitle"), onclick: () => openViewer(PVIEW, pi) },
     el("img", { class: "orig-img", src: fig.image, loading: "lazy", alt: fig.title }),
     el("figcaption", {},
       el("b", {}, fig.title || "—"),
