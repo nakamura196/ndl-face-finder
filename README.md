@@ -1,5 +1,7 @@
 # NDLイメージバンク 顔ファインダー
 
+> **移転しました:** 閲覧サイトは https://ab.ldas.jp/na-kamura-1263/ndl-face-finder へ移行しました。`index.html` / `search.html` / `gallery.html` / `about.html` は新サイトへ転送します。`data/`・`curations/`(IIIF Curation Viewer 用)・`vendor/` は引き続きこの URL から配信します。
+
 国立国会図書館「イメージバンク」の近現代美人画(Public Domain Mark)から抽出した「顔」を、
 IIIF でファセット検索・閲覧し、**IIIF Curation Viewer** で原本の領域として開けるブラウザ完結のファインダーです。
 **ビルド不要の静的サイト**(vanilla JS)。
